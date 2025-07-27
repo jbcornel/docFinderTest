@@ -1,0 +1,107 @@
+        Chunking
+
+    base_chunker
+
++virtual chunk()
+
+    recursive_token_chunker
+
+~init()
+
++chunk()
+
++_safe_encode()
+
++_enforce_max_token_limit()
+
++_recursive_split()
+
+    semantic_cluster_chunker
+
++chunk()
+
++_recursivve_split_if_needed()
+
++_generate_contextual_description()
+
+
+        embedding
+
+    ollama_embedder
+
+~init()
+
++get_embedding()
+
+    tokenizer_manager
+
++get_tokenizer()
+
+        ingestion
+
+    directory_loader
+
+~init()
+
++load_documents()
+
+
+        models
+
+    data_models
+
+-Chunk
+
+-SearchResult
+
+
+        output
+
+    result_formatter
+
++format_results()
+
++print_results()
+
+
+
+        search
+
+    exact_search_engine
+~init()
+
++tokenize()
+
++highlight_matches()
+
++compute idf()
+
++count_exact_matches()
+
++search()
+
+    semantic_search_engine
+~init()
+
++search()
+
+    reranker
+~init()
+
++rerank()
+
++cosine_similarity()
+
+    main
+
+Main()
+
++get_cache_path()
+
++ingest_phase()
+
++retrieval_phase()
+
++purge_cache()
+
+
