@@ -1,0 +1,4953 @@
+# Certification
+
+# Training Manual
+
+```
+This program is not intended to gauge the technical skills of technicians regarding the diagnosis and repair of motor
+vehicle air conditioners. The basic goal of the technician training and certification program is to teach technicians how to
+properly recover and recycle refrigerant, and why it must be done to protect the environment.
+SEE INSTRUCTIONS FOR TAKING TEST AND OTHER INFORMATION ON INSIDE FRONT COVER.
+```
+## INCLUDING:
+
+## CFC-12, HFC-134a and HFO-1234yf* Refrigerant Recycling and
+
+## Service Procedures for Mobile Air Conditioning Technicians
+
+```
+*This MACS Technician Training Program conforms to and complies with the SAE
+International Standard J2845 “HFO-1234yf Technician Training for Service and
+Containment of Refrigerants Used in Mobile A/C Systems.”
+```
+## Best Service Practices
+
+```
+The goal of this program is to provide information to technicians about safely handling
+automotive refrigerants.
+```
+**Revised 1/**
+
+## Keep this book! You may need it for your retest.
+
+## Approved by the U.S. EPA for technician training requirements
+
+## under Section 609 of the Clean Air Act.
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Important Notes!
+
+```
+Do not mix up tests or exchange tests with other individuals at your place of business. All tests are coded with names
+matching assigned numbers.
+Please review your test upon completion. Any questions marked with more than one answer will be scored as incorrect.
+Any question not marked will be scored as incorrect.
+Completely fill in the block ( ) to the left of the correct answer.
+Do NOT mark with a check ( 4 ) or an “x” ( 7 ).
+```
+General Information and Instructions
+
+**You have registered for MACS certification in REFRIGERANT RECYCLING & SERVICE PROCEDURES FOR MOBILE
+AIR CONDITIONING TECHNICIANS. Following are the steps* necessary for you to complete the prescribed
+training:**
+
+1. **Read the instruction manual that came with your recovery/recycling service equipment (and review the training**
+    **video, if provided). Then read this manual cover to cover.** Re-read as necessary to gain full comprehension of the
+    material presented.
+2. **Take the test.** The test is an untimed, “open-book” test, so you may refer to the training manual as often as necessary
+    to research answers to the questions posed. (Note, however, that you must correctly answer a minimum of 21 of the
+    25 questions to earn certification.) **You must complete the test by yourself, without assistance from anyone, and**
+    **submit it for scoring. (See 4 below.)**
+3. **Complete and sign** the “Identification and Statement of Testing Conditions” block on your test.
+    **Note: A reprint charge will be incurred if information provided is not legible.**
+4. **Mail your test** in the self-addressed envelope provided to: **MACS-EIF, P.O. Box 88, Lansdale, PA 19446, or submit**
+    **online.
+5. MACS-EIF will advise MACS of your test results.**
+6. **MACS will advise you of your score and, providing that you have attained a passing score, will issue a certificate**
+    **and a wallet-sized I.D. card, indicating that you have successfully completed this MACS certification training**
+    **program.**
+
+```
+Enclosed:
+Test with identification information to be mailed to scoring facility.
+Self-addressed return envelope (MACS-EIF).
+```
+```
+Important - Please note: Tests must be returned for scoring within 90 days of the date they are issued. MACS assumes no
+responsibility for tests submitted for scoring after this 90-day period. MACS will charge an additional fee for re-issuing
+tests which are lost, misplaced or destroyed.
+```
+## * The following instructions apply to technicians taking the MACS training course by mail or online. Those
+
+```
+participating in a classroom program should follow the instructions of their trainer/proctor. Tests given
+in a classroom setting must be closed-book tests. The required score for passing closed-book tests is
+lower than that required for passing the open-book test.
+```
+**Note: The MACS Worldwide office is open from 8:30 a.m. until 5:00 p.m. Eastern Time.**
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+I
+
+This publication is protected under the copyright laws of
+the United States and all other applicable international
+laws and treaties. All rights are reserved, including resale
+rights. No part of this publication may be reproduced or
+transmitted in any form, by any means (electronic, pho-
+tocopying, recording, or otherwise) without the prior
+written permission of Mobile Air Conditioning Society
+Worldwide (MACS Worldwide).
+
+Unauthorized use, reproduction or distribution of this
+publication, or any portion of it, may result in severe
+civil and criminal penalties, and will be prosecuted to the
+maximum extent possible under the law. If you received
+this publication from anyone other than MACS Worldwide,
+then you have received a pirated copy. We would appreci-
+ate it if you would notify us of the situation.
+
+The information contained in this publication is based
+on technical data and tests, and is intended for use by
+persons with technical skill at their own discretion and
+risk. While the author(s) and publisher have made every
+reasonable effort to insure the accuracy of the infor-
+mation in this publication, they assume no responsibil-
+ity for errors or omissions. Please remember that your
+particular situation may differ from any examples illus-
+trated here, and so you should adjust your use of the
+information and any recommendations in this publica-
+tion accordingly.
+
+```
+MACS Worldwide makes no representations or warranties
+concerning the information contained herein or the ap-
+plications described or referred to in this publication.
+MACS Worldwide specifically disclaims any implied war-
+ranties, including the warranties of merchantability or
+fitness for any particular purpose. MACS Worldwide shall
+in no event be liable for any loss of profit, business in-
+terruption or any other commercial damage, including
+without limitation, special, incidental, consequential,
+or other damages arising out of the use or inability to
+use the presentations or applications described or re-
+ferred to herein.
+```
+```
+The identification of any product, technique, firm or
+business entity in this publication does not consti-
+tute an endorsement by MACS Worldwide. Any company
+names, products, product names, emblems, logos, im-
+ages, trademarks, service marks or trade dress appearing
+in this publication are the property of their respective
+owners and are used solely in an editorial fashion. All
+such items are protected under federal laws of the Unit-
+ed States and international agreements; unauthorized
+use is prohibited.
+```
+```
+If you wish to contact MACS Worldwide about this pub-
+lication, please refer to the information listed below.
+```
+## MACS WORLDWIDE
+
+```
+P.O. Box 88
+225 S. Broad Street
+Lansdale, PA, 19446
+Voice: 215-631-7020 Fax: 215-631-
+E-mail: info@macsw.org Website: http://www.macsw.org
+MACS and the MACS logo are registered trademarks of the
+Mobile Air Conditioning Society Worldwide.
+All Rights Reserved. Printed in the U.S.A.
+© 1990, 2008, 2011, 2013, 2014, 2015, 2016, 2018 Mobile Air Conditioning Society Worldwide
+```
+
+II
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+## FOREWORD
+
+World vehicle manufacturers are currently required to meet international regulatory requirements to use lower global
+
+warming potential (GWP) refrigerants in new vehicle A/C systems. This MACS Technician Training Program conforms to
+
+and complies with the SAE International standard J2845, _“HFO-1234yf Technician Training for Service and Containment of_
+
+_Refrigerants Used in Mobile A/C Systems.”_
+
+Some of the practices, techniques, procedures, tools, information and equipment required to service HFO-1234yf and other
+
+alternative refrigerant systems are different from those commonly used on CFC-12 and HFC-134a systems. No technician
+
+should perform service or repair on a mobile air conditioning system without being trained to handle the refrigerant the
+
+system contains.
+
+While SAE standards are voluntary and developed through industry consensus, historically the U.S. Environmental
+
+Protection Agency has incorporated SAE standards into federal regulations by reference. Additionally, some individual
+
+states require compliance with SAE standards, particularly those related to safety. For example, many states refer to
+
+SAE J639, “ _Safety Standards for Motor Vehicle Refrigerant Vapor Compression Systems”_ in various laws and regulations.
+
+MACS Worldwide acknowledges and thanks the U.S. EPA, SAE International, and the industry’s many manufacturers and
+
+suppliers who allowed their data and products to appear in this manual.
+
+```
+Standard J639: Safety Standards for Motor Vehicle
+Refrigerant Vapor Compression Systems
+Issuing Committee: SAE International Interior Climate Control Steering Committee
+This SAE Standard applies to refrigerant vapor compression systems that provide cooling and/or heating for
+passenger cars, light trucks and commercial vehicles (on and off road) that use automotive type mobile air con-
+ditioning (MAC) systems. Large trucks, buses and other vehicles that do not use typical automotive A/C systems
+or use refrigerants not listed in this document are not covered by this standard. This standard covers any vehicle
+with a MAC system using a belt or electric motor driven compressor.
+This document provides standards for design, assembly, test and service of MAC systems to minimize environ-
+mental, health and safety impacts. Also included are cautionary statements for the service industry to alert
+technicians to the inadvisability and possible health or safety effects associated with venting refrigerant during
+service. This document addresses only HFC-134a (R-134a), carbon dioxide (R-744), and HFO-1234yf (R-1234yf)
+refrigerants.
+To prevent system contamination, all refrigerants used in mobile air conditioning vapor compression systems
+require unique service fittings and service equipment. The unique service fittings are intended to eliminate the
+potential for system refrigerant cross-contamination during service activity. CFC-12 (R-12) is no longer in use
+in new MAC systems. The service fitting description is maintained as a reference for older vehicles still in use.
+When retrofitting an R-12 system to use R-134a or when removing R-12 (vehicle disposal), use service equipment
+designed for R-12 and certified to meet the requirements of SAE J1990 (R-12 recovery and recycle equipment).
+HFC-152a is an A2 flammable refrigerant as classified by ASHRAE 34 and should be used only with a second-
+ary loop application. However, until MAC systems are developed to use HFC-152a (R-152a), no SAE Standards for
+system design, service equipment or service procedures have been established. The R-152a service fittings de-
+scribed within this Standard were established as part of the industry’s evaluation of replacement refrigerants
+and are maintained for future design guidance and to prevent potential refrigerant cross contamination.
+```
+
+## © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+III
+
+- The Switch to Climate-Friendly Refrigerants TABLE OF CONTENTS
+   - Introduction
+   - Servicing of Future Mobile Air Conditioning Systems
+   - Federal Regulations Affecting Mobile A/C System Service
+   - Service Procedures for Mobile Air Conditioning Systems
+   - Refrigerant Recovery and Recycling Procedures
+- Best Service Practices for Mobile A/C Systems.
+   - Sources of Refrigerant Emissions
+   - Incorrect System Charges – Some Reasons Why
+   - Avoiding Refrigerant Contamination
+- Best Service Practices for HFO-1234yf Systems
+   - Introduction
+   - HFO-1234yf: Specific Safety Procedures
+   - Unique Properties of HFO-1234yf Systems
+   - Tanks, Labels, and Fittings
+   - Identifying HFO-1234yf
+   - Finding Leaks
+   - Using Recovery, Recycling, and Recharging Equipment
+   - System Servicing Procedures.
+   - EPA SNAP Rules
+- for Mobile Air Conditioning Technicians Refrigerant Recycling and Service Procedures
+   - The Historical Context
+   - Ozone Depletion
+- Equipment Certification Form
+- EPA Regional Offices
+- Air Conditioning & Heating Customer Questionnaire
+- A/C / Heating / Ventilation / Cooling System Checklist
+
+
+IV
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+## THE SWITCH TO CLIMATE-FRIENDLY REFRIGERANTS
+
+### Introduction
+
+Before the early 1990s, mobile air conditioning systems
+used CFC-12 refrigerant, a substance that destroys the
+stratospheric ozone layer that shields the earth from the
+sun’s harmful ultraviolet radiation.
+
+Automobile manufacturers replaced CFC-12 with HFC-
+134a in the mid-1990s. HFC-134a is not an ozone deplet-
+ing refrigerant, but like CFC-12, is a potent greenhouse
+gas that contributes to climate change.
+
+Today, automobile manufacturers are transitioning to
+new, climate friendly alternative refrigerants.
+
+EPA’s Significant New Alternatives Policy (SNAP) Program
+identifies alternatives that pose lower overall risk to hu-
+man health and the environment. Under SNAP, EPA has
+listed three low global warming potential refrigerants
+as acceptable for mobile air conditioning subject to use
+conditions: hydrofluoroolefin (HFO)-1234yf, carbon di-
+oxide, and HFC-152a. None of these alternatives deplete
+the ozone layer and all have significantly lower impacts
+
+to the climate system than CFC-12 or HFC-134a.
+
+Global Warming and Climate Change
+
+The term climate change is often used interchangeably
+with the term global warming. Climate change is becom-
+ing the preferred term because it points to many chang-
+es, not just rising temperatures.
+
+**Climate change** may result from:
+
+natural factors, such as changes in the sun’s inten-
+sity;
+natural processes in the climate system, such as
+ocean circulation, and
+human activities that change the atmosphere’s com-
+position; for example, burning fossil fuels, removing
+large areas of forest or expansion of city areas.
+**Global warming** is an increase in the average tempera-
+ture of the atmosphere near the Earth’s surface and in
+the upper atmosphere. In common usage, “global warm-
+ing” often refers to the warming that can occur as a
+result of increased emissions of greenhouse gases from
+human activities.
+
+**Greenhouse gases,** whether natural or man-made, re-
+duce the amount of heat that can escape from the atmo-
+sphere. If too much heat is retained, the effect is similar
+to being in a garden greenhouse where the glass admits
+sunlight but traps the heat within.
+
+```
+Some heat-trapping gases occur naturally in the atmo-
+sphere: water vapor, carbon dioxide, methane, ozone
+and others. Natural processes within the atmosphere
+keep the gasses and the heat exchange in balance.
+Man-made chemicals and emissions also affect the at-
+mosphere, and many believe that the large volume re-
+leased around the world is tipping the balance in the
+atmosphere and increasing the amount of heat held near
+the surface.
+To describe how much effect each chemical may have
+in the atmosphere, scientists developed a rating index
+of “global warming potential” or GWP. It compares the
+behavior of each chemical against carbon dioxide, a
+chemical with very little effect and a GWP rating of 1.
+Chemicals with a high GWP contribute more to the prob-
+lem than products with a low number.
+```
+NOTES:
+
+```
+Environmental Impacts of MVAC Refrigerants
+```
+```
+Name Global Warming Potential(1) DepletingOzone
+```
+```
+CFC-12 10,900 Yes
+HFC-134a 1,430 No
+HFC-152a 124 No
+HFO-1234y f 4 No
+CO 2 (R-744) 1 No
+(1) Global warming potential values are from the IPCC Fourth
+Assessment Report: Climate Change 2007 (AR4).
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+_The condensers used in HFC-134a systems are more efficient than the ones that were used in CFC-12 systems. The 3/8-inch tube-and-fin
+condenser shown on the left diagram is an example of the type that was used for many years in CFC-12 systems. The parallel flow/multi-
+flow condenser on the right diagram is representative of the type of condensers used in most HFC-134a systems._
+
+### Servicing of Future Mobile Air Conditioning Systems
+
+Concern about the environment has, and continues to
+spur changes in the type and amount of refrigerant used
+in mobile air conditioning systems. This has resulted
+in system design updates, new service procedures and
+equipment to reduce lifetime emissions.
+
+The global automotive industry and the U.S. EPA have
+evaluated new replacement refrigerants that will affect
+the service of future systems.
+
+In Europe
+
+In 2006, the European Commission adopted stiff new
+rules to control many sources of global warming. Vehicle
+manufacturers are working now to reduce tailpipe emis-
+sions, increase fuel mileage and change to an air condi-
+tioning refrigerant with a GWP below 150.
+
+```
+By European law, certain new vehicles were required
+to begin using a replacement refrigerant by 2013, and
+HFC-134a has been eliminated from use in almost all
+passenger vehicles since January 1, 2017. However, the
+legal requirements do not specify the exact refrigerant
+to be used — only that whatever is chosen must be less
+damaging to the atmosphere.
+```
+```
+In the U.S.
+What Europe chose has had an effect in our country as
+well. Vehicle makers around the world sell their products
+in many countries. Also, switching to a low GWP refrig-
+erant provides CAFE (Corporate Average Fuel Economy)
+credits for vehicle manufacturers from the US EPA.
+```
+The Switch to HFC-134a Refrigerant
+
+Starting with some 1992 models, and completed by the
+1995 model year, HFC-134a replaced CFC-12 in vehicles
+sold in the U.S. Changes in system designs were required
+to assure that HFC-134a systems performed equal to CFC-
+12 systems. Some of these changes included new hose
+and seal materials compatible with HFC-134a, and the
+lubricants used with it. New hose and seal designs also
+reduced leakage.
+
+```
+The most noticeable changes however, were redesigned
+condensers, which incorporated increased airflow to re-
+duce system pressures at low speed operation and city
+traffic conditions. In general, condenser performance
+for HFC-134a systems increased by approximately 30%
+over that of CFC-12 systems, which resulted in compa-
+rable performance between the two refrigerants.
+HFC-134a systems also required a new desiccant mate-
+rial. Desiccant, which absorbs moisture in the system, is
+located in the receiver/drier or accumulator, or integral
+in a cartridge or bag with the condenser.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+NOTES:
+
+```
+EPA is not requiring the use of HFO-1234yf or any
+other alternative for MVAC systems. Automobile
+manufacturers have the option of using any refrig-
+erant listed as acceptable for this end-use, so long
+as they meet any applicable use conditions.
+```
+HFO-1234yf Systems
+
+The chemical HFO-1234yf and the motor vehicle air con-
+ditioning (MVAC) systems using it are different from
+CFC-12 and HFC-134a systems. Vehicles using the new
+refrigerant require new service procedures and new shop
+equipment. A technician will need the skills to recognize
+the differences between refrigerants and how to service
+or repair each one properly and safely.
+
+The U.S. EPA has listed HFO-1234yf as “Acceptable, sub-
+ject to use conditions, for use in newly manufactured
+passenger cars, light-duty trucks, medium-duty passen-
+ger vehicles, heavy-duty pickup trucks, and complete
+
+heavy-duty vans.” EPA also noted, “This determination
+does not apply to the use of HFO-1234yf as a conver-
+sion or retrofit for existing MVAC systems. In addition, it
+does not apply to the use of HFO-1234yf in the air con-
+ditioning or refrigeration systems of heavy duty trucks,
+refrigerated transport, or off-road vehicles such as agri-
+cultural or construction equipment.”
+
+The required conditions are that this refrigerant may
+ONLY be used in new vehicles with components specifi-
+cally designed for it. The new system designs will in-
+clude some new components and materials.
+
+The new chemical has other uses in other industries, but
+when it is used as a refrigerant it is designated R-1234yf.
+Chemically, it is a hydrofluoroolefin, and contains the el-
+ements carbon, hydrogen and fluorine. Its full chemical
+name is 2,3,3,3-Tetrafluoroprop-1-ene.
+
+HFO-1234yf is classed by ASHRAE as A2L - Mildly Flam-
+mable. It can ignite under certain circumstances. The
+refrigerant HFO-1234yf is similar to, but not the same as,
+HFC-134a. It has been developed and tested by its manu-
+facturers, independent laboratories, vehicle manufactur-
+ers, industry study groups and government agencies.
+
+It has passed a variety of tests for human exposure risk
+and toxicity, flammability, environmental damage and
+suitability for use in vehicles. Various properties of this
+chemical have been evaluated by SAE International,
+U.S. EPA, JAMA (Japan), ASHRAE, and the European Alli-
+ance. The chemical has been found acceptable for use by
+many governments and regulating bodies, and is listed
+on the U.S. EPA SNAP list of acceptable refrigerants,
+
+```
+the AIHA-WEEL list (American Industrial Hygiene Assn.
+```
+- Workplace Environmental Exposure Limit), and in the
+European REACH program.
+This chemical is NOT a “drop-in” refrigerant or one that
+should be used in other systems. Systems designed for
+HFO-1234yf should only be charged with that refriger-
+ant. Systems designed for other refrigerants should only
+use those correct products.
+**See Best Service Practices for HFO-1234yf Systems,
+beginning on page 42.**
+
+```
+R-744 (Carbon Dioxide) Systems
+To meet the European low GWP refrigerant require-
+ments, vehicle manufacturers have worked to develop
+mobile air conditioning systems that use carbon diox-
+ide (R-744) as a refrigerant. R-744 has the lowest GWP
+value of new refrigerants being considered. Carbon di-
+oxide systems will require different types of compo-
+nents compared to HFC-134a systems. R-744 systems
+operate at pressures 5 to 10 times higher than HFC-
+134a and HFC-152a systems.
+Carbon dioxide is hazardous, and therefore, also requires
+system design features to address safety for vehicle oc-
+cupants and service personnel. In addition, new service
+equipment and service procedures, as well as specific
+training, would be required for technicians servicing
+R-744 systems.
+```
+```
+Standard J2683: Refrigerant Purity and Container
+Requirement for Carbon Dioxide (CO 2 /R-744) Used
+in Mobile Air Conditioning Systems
+Issuing Committee: SAE International Interior Climate
+Control Fluids Committee
+This SAE Standard applies to Carbon Dioxide R-744 re-
+frigerant used to service motor vehicle passenger air
+conditioning (A/C) systems designed to use CO 2 (R-
+744). Carbon dioxide (R-744) when used as a refriger-
+ant in mobile air conditioning systems shall contain
+an odorant as an identification of refrigerant leaking
+from the system. Hermetically sealed, refrigerated
+cargo systems are not covered by this document.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+HFC-152a Systems
+
+HFC-152a is another refrigerant that meets the Euro-
+pean Community’s requirements. HFC-152a has similar
+operating pressures to HFC-134a. However, HFC-152a is
+flammable, so its use would also require system design
+features to address vehicle occupant and service person-
+nel safety.
+
+Two types of HFC-152a systems have so far been dem-
+onstrated; the direct expansion type and the secondary
+loop type.
+
+The direct expansion type is just like an HFC-134a sys-
+tem, except that to address the flammability issue, sys-
+tem safety features are required. The secondary loop
+type incorporates a direct expansion refrigerant circuit
+located in the engine compartment with a chiller that
+cools a non-flammable liquid. The non-flammable liquid
+is circulated to a cooling coil that replaces the evapora-
+tor. This provides isolation between the flammable re-
+frigerant and the passenger compartment.
+
+New service equipment, procedures, and training, would
+be required for technicians servicing HFC-152a systems.
+
+One of the lesser known refrigerants, R-152a can actu-
+ally be found quite easily. Its chemical name is difluoro-
+ethane, the propellant often used in asthma inhalers and
+computer duster spray cans, amongst other uses. It’s also
+a very effective and efficient refrigerant which has un-
+dergone extensive practical study by some of the world’s
+largest car makers and A/C system manufacturers.
+
+The biggest drawback to using R-152a is its ASHRAE
+flammability rating, which is A2. This means that it will
+
+```
+burn when ignited. Therefore, for safety reasons, proto-
+type systems which are currently being developed use a
+design called a Secondary Loop A/C system.
+```
+```
+Other Alternative Refrigerants
+Other chemicals being developed as replacement refriger-
+ants with low GWP ratings may also enter the market-
+place. The systems in which they are intended for use will
+be specifically designed to use these new refrigerants.
+```
+```
+CAUTION
+Technicians working on mobile air conditioning sys-
+tems should be keenly aware of the characteristics of
+the refrigerants they are working with for their own
+safety, and that of their co-workers and customers.
+R-1234y f Sys tems : These systems are classified by
+ASHRAE as A2L – Mildly Flammable. See pages 43
+and 44 for specific safety procedures.
+R-744 (Carbon Dioxide) Systems: These systems
+operate at much higher pressures than R-134a or R-
+1234yf systems. Also, if a system with this refrig-
+erant is overcharged and a leak into the passenger
+compartment occurs, the concentration could exceed
+the health based limit for carbon dioxide (CO 2 ). Con-
+centrations may not exceed a short term exposure
+level of 3% or 30,000 parts per million (ppm) aver-
+aged over 15 minutes in the passenger free space;
+and the ceiling limit of 4% or 40,000 ppm in the
+passenger breathing zone.
+```
+_Most A/C systems are Direct Expansion, meaning the refrigerant directly expands within the evaporator that’s located inside the pas-
+senger compartment. For safety reasons, systems designed to use R-152a will be Secondary Loop, instead using a refrigerant-to-glycol
+heat exchanger located inside the engine compartment. Chilled glycol will then circulate through a Cooler Core of sorts, to remove heat
+from the cabin._
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Section 609 of the Clean Air Act gives the EPA authority
+to establish standards and requirements regarding the
+servicing of mobile A/C systems.
+
+Equipment Use
+
+Since January 1, 1992, for CFC-12, and November 15, 1995
+for HFC-134a and other mobile A/C refrigerants, any per-
+son servicing the mobile air conditioning pressurized
+refrigerant circuit must comply with the Clean Air Act
+and must use either refrigerant recovery/recycling or
+recovery-only equipment approved by EPA. Those work-
+ing “for consideration” (receiving monetary value) who
+open the refrigerant circuit must be certified by an EPA-
+approved organization to legally use such equipment to
+service the system.
+
+Persons working on their own mobile air conditioning sys-
+tem are not covered under this rule and can add refriger-
+ant without being certified. It is illegal for any person to
+knowingly release or vent refrigerants (except CO 2 ) during
+service, maintenance, repair and disposal. Such actions
+pose a risk to human health and the environment.
+
+Fleets of vehicles, whether private, federal, state or lo-
+cal government owned, are subject to the regulations
+because the technicians performing the service are paid.
+Other examples of establishments covered by the regu-
+lations include, but are not limited to: independent re-
+pair shops, service stations, fleet shops, collision repair
+
+### Federal Regulations Affecting Mobile A/C System Service
+
+```
+Under Section 608 of the Clean Air
+Act, intentional release (venting)
+of any refrigerant is illegal unless
+the refrigerant is specifically ex-
+empted from the prohibition. CO 2 is
+exempted under 608 meaning that
+it can be legally vented. Although
+CO 2 may legally be vented, section
+609 still requires that all MVAC sys-
+tems be serviced through the proper
+use of EPA-certified refrigerant han-
+dling equipment. This requirement
+applies regardless of the refriger-
+ant used in the MVAC system. This
+means that anyone servicing an
+MVAC system that uses CO 2 as the
+refrigerant would need to properly
+use EPA-certified refrigerant han-
+dling equipment.
+```
+```
+shops, chain or franchised repair shops, new and used
+car and truck dealers, rental establishments, radiator
+repair shops, mobile repair operations, vocational tech-
+nical schools (because instructors are paid), farm equip-
+ment dealerships and fleets of vehicles at airports.
+```
+```
+Technician Training and Certification
+Requirements
+To become certified, technicians must pass a test dem-
+onstrating their knowledge in the use of refrigerant
+recovery/recycling equipment, the EPA’s regulatory re-
+quirements, the importance of refrigerant containment
+and the effects of ozone depletion and environmental
+change.
+```
+```
+Overlap Between Sections 608 and 609
+of the Clean Air Act
+Section 608 of the Clean Air Act prohibits the venting of
+refrigerants, unless specifically exempted. C0 2 is the only
+MVAC refrigerant that is exempt. This includes the scrap-
+ping/salvage of vehicles that have mobile A/C systems.
+Section 608 covers procedures involving motor vehicle
+(and certain other means of transportation) air condition-
+ers (MVACs) that are not covered by Section 609, such as
+the disposal of MVACs. Following is information concern-
+ing specific areas where the overlap between these two
+sets of regulations may require clarification.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Section 609 of the Clean Air Act establishes standards
+specifically for the service of MVACs. MVACs are included
+in the definition of appliances under the stipulations
+put forth in Section 608; however, since their service
+and repair are regulated under Section 609, they are not
+subject to the servicing requirements put forth in Sec-
+tion 608.
+
+Both regulations require that technicians become certi-
+fied. Technicians who repair or service MVACs must be
+trained and certified by an EPA-approved Section 609
+program. These programs are specifically designed to
+cover MVAC refrigerant recovery, recycling and charging
+equipment and procedures in accordance with SAE Stan-
+dards, and Section 609 regulatory requirements. After
+completing a required training program, MVAC techni-
+cians must pass a test to become certified. These tests
+are different from the Section 608 certification tests.
+
+Under Section 608, the EPA has established four types of
+certification for technicians that service and repair ap-
+pliances other than MVACs. To be certified, technicians
+must pass a test applicable to the appropriate appliance
+type. Training and review classes for Section 608 are
+
+_Do you need Section 609 Certification, Section 608 Certification, or maybe both? This chart will tell you which type(s) you need._
+
+**608 vs. 609**
+
+```
+voluntary; only passing the test is mandatory. The four
+categories of Section 608 certification are:
+Type I: Small appliances
+Type II: High-pressure appliances (except small ap-
+pliances) and MVACs
+Type III: Low-pressure appliances
+Type IV (Universal): All appliances except MVACs
+People who service or repair MVAC-like appliances (e.g.
+farm equipment and other off-road vehicles) can choose
+to be certified by either the Section 609 program or un-
+der Section 608 Type II. However, due to the similarities
+between MVAC and MVAC-like appliances, the EPA recom-
+mends that technicians servicing MVAC-like appliances
+consider certification under Section 609.
+Note: While buses using CFC-12 or HFC-134a are MVACs,
+buses and other vehicles using HCFC-22 as refrigerant
+are not classified as MVACs or MVAC-like appliances,
+but rather as high-pressure equipment covered under
+Section 608 Type II. Certification under Section 608 is
+also required to service cargo refrigeration equipment.
+```
+```
+MVAC (609) MVAC-like (609)* Appliance (608)
+Passenger Cars and Trucks Buses Trains
+```
+```
+Farm Tractors/implements Aircraft - Passenger** & Cargo
+**if HFC-134a system, 20 lbs. or
+less, then 608 or 609
+```
+```
+Off-road Equipment Refrigerated
+Trailers
+```
+```
+Military Vehicles (passenger)
+*if R-22, then 608
+```
+```
+Ship/Boat - Passenger & Cargo
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+_The refrigerant R/R/R machine label above states “certified...
+to meet SAE J2788 superseding J2210.”_
+
+Purity of Recycled CFC-
+
+The SAE J1991 standard of purity for on-site recycled
+CFC-12 states that the refrigerant shall not exceed the
+following levels of contaminants:
+
+```
+Moisture: 15 Parts Per Million (PPM) by weight
+Oil: 4000 PPM by weight
+Air (non-condensable gases): 330 PPM by weight
+```
+EPA regulations require that certified CFC-12 recovery/
+recycling equipment must conform to the specifications
+listed in SAE standard J1990. The equipment must also
+have a label, which states: “Design certified for compli-
+ance with SAE J1991.”
+
+Purity of Recycled HFC-134a
+
+The SAE J2099 standard of purity for on-site recycled
+HFC-134a states that the refrigerant shall not exceed the
+following levels of contaminants:
+
+```
+Moisture: 50 PPM by weight
+Oil: 500 PPM by weight
+Air (non-condensable gases): 150 PPM by weight
+```
+EPA regulations require that certified HFC-134a recov-
+ery/recycling equipment must conform to the specifica-
+tions listed in the appropriate standard. The equipment
+must have a label, which states: “Design certified for
+compliance with SAE J2210 or J2788.”
+
+More Complete Refrigerant Recovery
+
+In 2007 recovery/recycling equipment standard J
+was superseded by SAE J2788. The new J2788 equipment
+provides more complete refrigerant recovery, and also
+establishes refrigerant charging requirements providing
+greater accuracy.
+
+Also in 2007, recovery-only equipment standard SAE
+J1732 was superseded by SAE J2810. The new J
+equipment provides more complete refrigerant recovery.
+
+## Recycling vs. Reclaiming
+
+```
+Recycling versus reclaiming refrigerant... there
+is a difference!
+Recycled refrigerant is that which has been pro-
+cessed on-site at a service facility, using recycling
+equipment certified to the appropriate SAE J stan-
+dard.
+Reclaimed refrigerant is that which has been sent
+to an EPA-listed reclamation facility where it is
+processed and returned to a state which meets
+the appropriate ARI 700 specification.
+The standards of purity for reclaimed refrigerant
+are much higher than those for recycled refriger-
+ant.
+```
+```
+Please Note!
+Recovery/recycling equipment is not designed to
+recycle or separate contaminated refrigerants.
+Contaminated or unknown refrigerant must be re-
+moved from a system using dedicated recovery-
+only equipment, and properly disposed of. Under
+federal law, contaminated refrigerant cannot be
+vented.
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Service Equipment Hoses
+
+Hoses used with mobile A/C system service equipment
+must be equipped with shut-off valves. The valves may
+be either manual or automatic. The shut-off valves must
+be located within 12 inches (30 cm) of the “vehicle end”
+of the service hose, and most equipment manufacturers
+incorporate the shut-off valve in their quick-couplers.
+These automatically shut off the flow of refrigerant
+when the hoses are disconnected.
+
+Fittings that are unique to individual refrigerants must
+be attached to the “vehicle end” of service hoses.
+Adapters for different refrigerants, different systems, or
+different service port designs may not be attached to
+service hoses, then removed and replaced with adapters
+for a different refrigerant.
+
+```
+meet the federal compliance requirements and cannot be
+used to service mobile A/C systems. To prevent refriger-
+ant contamination, recovery/recycling equipment must
+only be used with one designated refrigerant.
+```
+```
+Equipment Registration
+It is the responsibility of the recovery/recycling equip-
+ment owner, or another responsible person, to notify the
+EPA that they own approved equipment. The information
+in the following bullet points must be mailed to the EPA
+regional office for the state or territory in which the
+establishment is located.
+Name, address and telephone number of the estab-
+lishment where the recovery/recycling equipment
+is located;
+Name brand, model number, year and serial
+number(s) of the equipment acquired for use at the
+above establishment.
+The above information can be submitted on a plain sheet
+of paper, or can be submitted on the form the equipment
+manufacturers provide for this purpose. A copy of this
+form is provided on pages 57 and 58 of this manual. You
+may photocopy it for your use.
+The person responsible for the equipment must sign
+the form. The person who signs is certifying that they
+are responsible for the equipment, that each individual
+assigned to use the equipment is properly trained and
+certified, and that the information provided is true and
+correct. The repair facility is required to file this certi-
+fication only one time. The shop owner should keep a
+copy of the equipment certification on file.
+```
+```
+Other Record Keeping Requirements
+Note: All records listed below must be retained for a
+period of three years.
+As mentioned above, any person who owns refrig-
+erant recovery/recycling equipment and provides
+service for monetary value, must have records veri-
+fying that all persons operating the equipment are
+certified.
+Any person who owns refrigerant recovery or recov-
+ery/recycling equipment must maintain records of
+the name and address of any facility to which refrig-
+erant is sent.
+Any person who sells Class I substances (chlo-
+rofluorocarbons/CFCs) or Class II substances
+(hydrochlorofluorocarbons/HCFCs) for use as mobile
+A/C system refrigerants must prominently display a
+sign which states: “It is a violation of federal law to
+```
+```
+Standard J2197: HFC-134a Service Hose Fittings for
+Automotive Air Conditioning Service Equipment
+Issuing Committee: SAE International Interior Climate
+Control Steering Committee
+This SAE Standard covers fittings intended for con-
+necting service hoses, per SAE J2196, from mobile air
+conditioning systems to service equipment such as
+manifold gauges, vacuum pumps and air conditioning
+charging, recovery and recycling equipment. Due to
+similarities between English and metric thread sizes,
+a single, unique ACME thread fitting is specified. This
+fitting was recommended by the Compressed Gas As-
+sociation (CGA), Connection Standards Committee
+Task Force as one which could be qualified to meet
+their requirements for use and safety in a time frame
+consistent with the introduction of R-134a. It was
+selected because its unique design would reduce
+the likelihood of cross-threading service hoses on R-
+12/R-134a refrigerant storage containers and service
+equipment. The high and low pressure hose in SAE
+J2196 requires the charge coupling (used to connect
+service hoses to vehicle access ports) to be an inte-
+gral part of the hose assembly. To allow removal of
+the hose from the coupling for hose replacement only,
+a two-piece construction with a wrench tight connec-
+tion is permitted.
+```
+Equipment Certification
+
+To comply with Section 609 of the Clean Air Act, recovery/
+recycling equipment must be certified to SAE specifica-
+tions. Recovery/recycling equipment used for commercial
+refrigeration, and not certified to SAE standards, does not
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+It is not required under federal regulations to re-
+move refrigerant from a leaking system. However,
+this action may be required under state and local
+laws. It is the technician’s responsibility to deter-
+mine if a more stringent policy is applicable in their
+location.
+Service facilities may adopt a policy to not add refrig-
+erant to leaking systems, but the policy should be ex-
+plained to the customer, including in the explanation
+the fact that the policy is not a federal or local govern-
+mental requirement.
+Technicians should offer to fix leaks in air conditioning
+systems. It helps protect the environment and conserves
+refrigerant. In addition, eliminating leakage can prolong
+the life of the A/C system. It is not correct, however, to
+state or imply that leak repair is required under federal
+law. Doing so would constitute consumer fraud.
+If a customer arrives with refrigerant in their A/C system,
+a technician removes it, then the customer declines any
+further services, the technician must return to the system
+the refrigerant it contained when it arrived, unless the
+customer agrees to its removal.
+```
+```
+Regulations Applicable to Vehicle
+Salvage and/or Disposal Facilities
+Vehicle salvage and disposal facilities must remove re-
+frigerants from salvaged or scrapped mobile A/C sys-
+tems. Facilities that have certified recovery equipment
+can recover refrigerant at their facility and also move
+the equipment to other facilities to recover refrigerant.
+The salvage employee does not have to be certified to
+perform these operations.
+If CFC-12, this refrigerant can be sold to technicians
+certified under Section 609. Until January 1, 2018, if
+HFC-134a, it can be sold to anyone wishing to purchase
+it. After January 1, 2018, if CFC-12, HFC-134a or HFO-
+1234yf, these refrigerants can only be sold to certified
+technicians (see page 52).
+Section 609 certified technicians that are not employed by
+the salvage or disposal facility can remove CFC-12 and HFC-
+134a from mobile A/C systems at the salvage and/or dis-
+posal facility. There is no requirement to identify the purity
+of this refrigerant, or label tanks as containing refrigerant
+removed from vehicles at these facilities. It is important
+to keep in mind that refrigerant removed from vehicles at
+salvage and disposal facilities may be contaminated.
+Salvage and disposal facilities must keep records docu-
+menting when and if someone not directly employed by
+them removed refrigerant from vehicles at their facility.
+```
+```
+sell containers of Class I and Class II refrigerant to
+any person who is not properly trained and certified
+to operate approved refrigerant recovery/recycling
+equipment.”
+Section 608 of the Clean Air Act requires that all
+persons who sell CFC and HCFC refrigerants must re-
+tain invoices that list the name of the purchaser, the
+date of the sale, and the quantity of refrigerant pur-
+chased. However, since the sale of small containers
+of CFC-12 is restricted to technicians certified under
+Section 609, these record-keeping requirements do
+not apply to the sale of small containers of CFC-12.
+Mobile A/C service facilities must allow an autho-
+rized representative of the EPA entry onto their
+premises, (upon presentation of appropriate creden-
+tials) and give the authorized representative access
+to all required records.
+```
+Further Mobile A/C Service Rules and
+
+Regulations
+
+```
+Every compensated technician that opens the re-
+frigerant circuit must be certified. This includes
+technicians that only add refrigerant to “top off” a
+system. Facilities that typically only change or add
+fluids, such as lube-oil-filter operations, must have
+certified technicians and equipment.
+Section 608 of the Clean Air Act prohibits intention-
+ally releasing (also called venting) ozone depleting
+refrigerants and most alternatives (including all
+HFCs, HFOs, and their blends) while maintaining, ser-
+vicing, repairing, or disposing of MVACs and MVAC-like
+equipment. CO 2 refrigerants are exempted from the
+venting prohibition.
+It is permissible to only recover CFC-12, HFC-134a,
+HFO-1234yf and other refrigerants. In this circum-
+stance, the refrigerant must be sent off-site for
+recycling – reprocessing (reclaiming) before reuse –
+or disposal.
+CFC-12, HFC-134a and HFO-1234yf removed from sys-
+tems must be recycled before they can be reused,
+even if they are to be reinstalled into the same sys-
+tem from which they were removed. Blends must be
+recovered and sent off-site for proper disposal.
+Under federal law, it is legal to add refrigerant to a
+pre-existing leaking system. However, some states
+and local municipalities may have laws prohibiting
+this practice. It is the technician’s responsibility to
+determine if a more stringent policy is applicable in
+their location.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+If applicable, they must also keep records documenting
+the sale of ozone-depleting refrigerants.
+
+A Further Word on Recovery-only
+
+Equipment
+
+The operation of recovery-only equipment is similar to
+the recovery feature of recovery/recycling equipment.
+However, recovery-only equipment is designed for the
+sole purpose of removing refrigerant from a system; it
+does not recycle refrigerant for reuse. Before it can be
+reused, the refrigerant must be recycled through use of
+a recovery/recycling machine which meets the appropri-
+ate SAE standard, or sent off-site to be reprocessed to
+the appropriate Air-Conditioning and Refrigeration In-
+stitute (ARI) ARI 700 specification.
+
+CFC-12 recovery-only (and recovery/recycling) equip-
+ment hoses have SAE 3/8-inch fittings; HFC-134a and
+HFO-1234yf recovery-only (and recovery/recycling
+equipment hoses have quick couple fittings. Do not use
+adapter fittings with recovery-only machines or their
+tanks. Use of adapter fittings could result in contamina-
+tion of refrigerant as well as A/C systems.
+
+```
+Standard J2209: Refrigerant Recovery Equipment
+for Mobile Automotive Air Conditioning Systems
+Issuing Committee: SAE International Interior Climate
+Control Service Committee
+The purpose of this SAE Standard is to provide
+equipment specifications for CFC-12 (R-12) recovery
+for return to a refrigerant reclamation facility that
+will process it to the appropriate ARI Standard (Air-
+Conditioning and Refrigerant Institute) or allow for
+recycling of the recovered refrigerant in equipment
+that is certified to meet the requirements of SAE
+J1991. Under the existing rule, the U.S. EPA requires
+refrigerant removed from a mobile air conditioning
+(A/C) system using recovery equipment certified to
+meet SAE J2209 can only be recycled using equip-
+ment meeting SAE J1991 that is owned by the same
+company or individual. It is not acceptable that the
+refrigerant removed from a mobile A/C system, with
+this equipment, be directly returned to a mobile A/C
+system. This information applies to equipment used
+to service automobiles, light trucks, and other ve-
+hicles with similar CFC-12 (R-12) systems.
+```
+NOTES:
+**_Standard J2211: Recommended Service Procedure
+for the Containment of HFC-134a (R-134a)_**
+_Issuing Committee: SAE International Interior Climate
+Control Service Committee_
+Refrigerant containment is an important part of ser-
+vicing mobile air conditioning systems. This procedure
+provides guidelines for technicians for servicing mo-
+bile A/C systems and operating refrigerant recycling
+equipment. (This standard stresses the importance
+of refrigerant containment and offers guidelines on
+proper equipment use. Since this standard was is-
+sued, the industry has continued to develop service
+procedures to further enhance refrigerant contain-
+ment. Many of those procedures and techniques are
+detailed, starting on page 11.)
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+### Service Procedures for Mobile Air Conditioning Systems
+
+#### SAFETY PRECAUTIONS & WARNINGS
+
+1. ALWAYS wear eye protection when servicing air conditioning systems or handling refrigerant.
+2. Avoid breathing refrigerant and lubricant vapor or mist. Exposure may irritate eyes, nose and throat. Acute ex-
+    posure can result in asphyxiation. If accidental discharge occurs, ventilate the work area.
+3. Do not allow refrigerants to come in contact with open flames and high-temperature surfaces. Decomposition is
+hazardous, and can occur if refrigerant is exposed to high temperatures (open flames, hot metal surfaces, etc.)
+4. HFC-134a is not flammable at normal ambient temperatures and atmospheric pressure. However, tests have
+    shown it to be combustible at certain pressures and ambient temperatures when mixed with air under pressure
+    in a sealed environment. Service equipment or vehicle A/C systems should not be pressure tested or leak tested
+    with compressed air.
+5. PAG lubricant is hygroscopic (absorbs moisture). Containers must be kept tightly closed.
+6. PAG lubricant can be a skin irritant. Protective impervious gloves are required to prevent lubricant contact with
+    the skin. To help avoid skin contact, mineral oil should be used to coat o-rings and seals prior to installation.
+    Also, since PAG lubricants absorb moisture, using mineral oil reduces the potential for fitting corrosion.
+7. PAG lubricants can cause damage to paint, underhood plastic parts, engine drive belts and coolant hoses. Care
+    should be taken to prevent PAG lubricants from coming into contact with these items.
+8. Failure to follow instructions provided by A/C system service equipment manufacturers could result in personal
+injury or equipment damage.
+9. To prevent refrigerant cross-contamination, use separate service equipment for each refrigerant. Lubricant and
+refrigerant left in hoses and equipment can be a source of cross-contamination.
+10. NEVER transfer refrigerants to a cylinder or tank unless it is Department of Transportation approved for refill-
+ing. DOT approval is indicated by the designation “DOT 4BA” or “DOT 4BW” stamped on a tank’s collar (handle).
+11. If a refrigerant tank is overfilled, it may explode. To prevent this from occurring, when transferring refrigerant into
+a tank, the safe filling level must be controlled by weight, and must not exceed 60% of the tank’s gross weight
+rating.
+12. NEVER perform service on recovery/recycling/recharge equipment (other than routine maintenance) without
+first consulting authorized service personnel. The removal of internal fittings and filters can cause the escape
+of refrigerant under pressure.
+13. NEVER perform maintenance or service on recovery/recycling/recharge equipment with the unit plugged into
+electric power unless directed otherwise.
+14. Avoid using extension cords with recovery/recycling/recharge equipment. If this is unavoidable, use a minimum
+    length, 3-wire (No. 14 AWG minimum) cord with a ground circuit. To prevent shock hazards and reduce the risk
+    of fire, make sure the extension cord is in good condition (not worn or frayed) with the ground circuit intact.
+15. Recovery/recycling/recharge equipment often contains parts that may produce arcs or sparks. Do not use this
+    equipment near flammable liquids or vapors.
+16. Fuel injection systems on some vehicles contain a service port the same size as one of the CFC-12 A/C system
+service ports. Be careful not to attach A/C service equipment to a vehicle’s fuel injection system.
+Additional health and safety information may be obtained from equipment, refrigerant and lubricant manufactur-
+ers. Refer to their instruction manuals and Material Safety Data Sheets.
+
+**_Caution: When using recovery/recycling/recharge
+equipment, while it is very important to follow the
+general service procedures outlined in this manual, it is
+also very important to follow your equipment manufac-_**
+
+```
+turer’s instructions. Failure to follow these instructions
+could result in personal injury, damage to the equip-
+ment or A/C systems, or improper or inadequate refrig-
+erant recovery, recycling and containment.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Maintaining Your Refrigerant Recovery/
+
+Recycling/Recharge Equipment
+
+Recovery/recycling/recharge equipment should be
+checked frequently to ensure that no leaks exist within
+the internal refrigerant flow circuits, as well as the ex-
+ternal hoses and seals. Filters/driers must also be re-
+placed in accordance with the machine manufacturer’s
+specifications (check the equipment manual for filter
+location). Regular maintenance of your recovery/recy-
+cling/recharge machines helps to ensure that the SAE
+standards of purity for recycled refrigerant are met.
+
+```
+The seals on service equipment hoses must be frequently inspect-
+ed for damage and replaced when necessary. This shows a com-
+parison between a new seal (left) and a used one that is swollen
+and distorted (right).
+```
+_R/R/R machine internal plumbing must be periodically checked to
+make sure no leaks are present._
+
+```
+R/R/R machine filters/driers must be replaced in accordance with
+the machine manufacturer’s recommendations.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Before You Begin...
+
+Refrigerant Identifiers
+
+A refrigerant identifier can help alert you to air condi-
+tioning system refrigerant contamination problems. The
+service industry and EPA strongly recommend, but do
+not require the use of this equipment. You can also use
+an identifier to help confirm what type of refrigerant
+is in a container. The identifier should conform to the
+specifications outlined in SAE J1771, J2912 or J2927;
+this assures that the unit correctly identifies refriger-
+ants. (Note: only J1771 units are required to identify
+CFC-12.) Keep in mind however, that even the best iden-
+tifier may not be capable of indicating all of the possible
+combinations of chemicals that may be in an A/C system
+or storage tank.
+
+```
+Before connecting service equipment, always perform a visual in-
+spection of the A/C system to spot any obvious problems.
+```
+```
+The caps are the service ports’ primary seal against refrigerant
+leakage. Always make sure that every service port has one in place.
+```
+Ensure System Integrity
+
+As a first step in service, always perform a visual in-
+spection to spot obvious problems. Since the service
+port caps serve as the primary seal for the service ports,
+make sure that each service port in the system has a
+cap installed, and that the caps’ seals are not damaged.
+Missing or damaged service port caps are major leak
+sources. After service on the system is completed, make
+sure that each service port has a cap reinstalled, and
+that all of the caps seal properly.
+
+_While not required by federal law, the use of a refrigerant iden-
+tifier is strongly recommended. It can help you determine if a
+vehicle contains contaminated refrigerant that you would not
+want inside your recovery machine. Identifiers can also provide
+an accurate indication concerning the amount of air that may be
+in an A/C system or storage tank. Some state or local laws may
+require their use._
+
+```
+Prior to system disassembly, look for the presence of re-
+frigerant oil on adjacent surfaces that could be a sign of
+a leak. Clean all dirt, grease and debris from and around
+connection points before servicing. Carefully inspect re-
+frigerant connections, joint seals and seal surfaces for
+signs of wear, deformation, contamination or damage.
+When reassembling components, ensure proper align-
+ment of male/female connections and seal, then tighten
+the connection to the correct torque value specified by
+the manufacturer.
+```
+```
+Check for Pressure in the System
+It would make no sense to attempt refrigerant recovery
+from a system that contains no refrigerant. Because of
+this, always check to see if the system has pressure by
+```
+### Refrigerant Recovery and Recycling Procedures
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+connecting a pressure gauge to a system service port
+before starting a recovery process.
+
+If a system contains no pressure, it is a safe assumption
+that the refrigerant has leaked out, and one of your first
+steps in service should be trying to track down a leak or
+leaks in the system.
+
+If a system has some pressure but contains an unknown
+amount of refrigerant, additional refrigerant can be added
+to check the system’s operation. To provide the best sys-
+tem diagnosis, it is advisable that the current refrigerant
+be recovered and the factory charge amount be added.
+
+The Effect of System Design on the
+
+Refrigerant Recovery Process
+
+When refrigerant is removed from the system, the low-
+ering of pressure results in some of the system compo-
+nents becoming cooler. This component cooling effect
+makes complete refrigerant removal in a short period of
+time more difficult.
+
+To remove as much of the refrigerant as possible dur-
+ing the recovery process, systems equipped with orifice
+tubes and accumulators may require more time than sys-
+tems equipped with expansion valves/receiver-driers.
+
+During the recovery process, as the system is drawn into
+a vacuum, and pressure in the accumulator is lowered,
+the accumulator becomes very cold, with external frost
+sometimes visible on the accumulator. This makes it even
+more difficult to extract remaining refrigerant from it. If
+all or most of the refrigerant has not been removed and
+the refrigerant lines are disconnected, a sudden release
+of refrigerant and oil can occur.
+
+Heating the accumulator with devices such as a hair dry-
+er or electric heating pad will raise the pressure in the
+accumulator and reduce the amount of time necessary
+for refrigerant removal.
+
+When recovering refrigerant from any mobile A/C system,
+continue the recovery process until the system has been
+reduced from a pressure to a vacuum. At this point, pause
+operation of the recovery machine for five minutes, and
+check A/C system pressure. If pressure has risen above
+vacuum, additional recovery is required to remove remain-
+ing refrigerant. Repeat the recovery process until the vac-
+uum remains stable, without rising, for two minutes.
+
+Many recovery/recycling machines have a built-in five-
+minute wait period after the system is first drawn into a
+vacuum, and if a rise in system pressure is sensed, will
+automatically repeat the recovery process until the sys-
+tem will remain at a stable vacuum.
+
+```
+Heating an accumulator during refrigerant recovery is a good
+idea. The heat will raise pressure inside the accumulator, allow-
+ing it to more easily outgas refrigerant it contains. This will re-
+duce the amount of time necessary for more complete refrigerant
+removal.
+```
+```
+Cautions:
+```
+**_1. At no time should an open flame torch be used to_**
+    **_heat the accumulator.
+2. All refrigerant must be removed before opening any_**
+    **_of the system’s connections._**
+
+```
+More Complete Refrigerant Recovery
+The amount of refrigerant you can recover from a system
+depends on how much is in the system, of course, but also
+ambient temperature, the technique you use, and the per-
+formance of the recovery machine itself. When you draw
+out the refrigerant, the vacuum lowers the temperatures
+in the system; the oil chills and forms a virtually impen-
+etrable blanket over some of the refrigerant.
+To recover as much refrigerant as possible, warm up the
+system’s underhood components with engine heat and,
+as already mentioned, apply external heat to the accu-
+mulator (if the system has one).
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+Engine Pre-Heat for
+Refrigerant Removal Procedure
+The following procedure will aid in refrigerant re-
+moval when the work area is cool and J2210 and
+J1732 recovery equipment is being used. In general
+if the work area is warmer than 90° F (32° C) this
+procedure is not required.
+Recovery equipment certified to J2788, J2810, J2843,
+J2851, J3030 do not require this pre-warming proce-
+dure.
+REMOVAL PROCEDURE
+```
+1. **A/C System Controls**
+    Compressor clutch off
+Turn clutch off or remove electrical
+connection
+Set panel system controls
+Outside air (not max)
+High fan speed
+Airflow panel outlets
+ATC Systems: Set temperature mid range
+Check to make sure system is on outside
+air, drawing air from vehicle cowl air
+inlet area
+2. **Vehicle hood open to allow warm engine air to**
+    **enter cowl inlet to A/C system**
+       Operate engine idle condition
+
+(^) Neutral (park) with parking brake applied
+(^) Depending upon engine compartment
+temperature:
+Run engine to warm up A/C system com-
+ponents for 15 minutes
+After idling engine for 15 minutes
+(hot condition)
+(^) Stop engine and then turn ignition to
+on position allowing operation of:
+A/C fan high; system on Outside air
+When applicable – Operation of electric
+engine cooling fan to circulate air in en-
+gine compartment
+Do not change any control or conditions
+listed in steps 1 and 2 above
+Start refrigerant recovery process
+When refrigerant recovery is completed, in-
+cluding the required 5 minute recheck for
+system pressure (system refrigerant out gas-
+sing), shut vehicle and equipment off.
+Tests performed for an SAE research program indicated
+that you can remove a higher percentage of the refriger-
+ant by applying heat and performing recovery after the
+early morning ambient chill has gone.
+There are also differences in the percentage of refriger-
+ant that’s recovered using best practices versus shortcuts.
+A single “pull” on a cool morning might remove 60% of
+the charge, whereas a careful procedure, using heat to
+promote outgassing, might remove the over 90% that is
+necessary for accurate service.
+Improperly Recycled Refrigerant
+It is important to make sure that recycled refrigerant
+does not contain air (non-condensable gas) in excess of
+allowable amounts. If recycled refrigerant contains too
+much air, high system operating pressure will occur. This
+will result in loss of air conditioning performance and
+possible system damage.
+Properly operating recovery/recycling equipment will
+remove excess air. Many newer R/R machines have an
+automatic air purge feature which, if working properly,
+should assure that its recycled refrigerant will not con-
+tain excessive levels of air. However, many older R/R
+machines require manual air purge.
+Make sure you understand which type of air purge feature
+your machine has and follow its manufacturer’s instruc-
+tions to assure that proper air purging is taking place.
+**_Note: Refrigerant contamination, by air, chemical ad-
+ditives or other refrigerants, can cause system operat-
+ing problems._**
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+System Lubricants
+
+CFC-12 systems use mineral-based lubricants. HFC-134a
+systems use polyalkylene glycol (PAG) lubricants. Hy-
+brid vehicles with electrically driven compressors use
+special A/C system lubricants.
+
+```
+Here is a typical recovery machine’s oil recovery reservoir. It should
+be emptied before each recovery operation, then checked when re-
+covery is completed to see how much (if any) oil was removed from
+the system during recovery. If oil was removed, that same quantity
+of fresh new oil of the type the system requires must be reinstalled
+in the system before it is put back into operation.
+```
+_Different HFC-134a systems require the use of different oils. You
+must install the type and viscosity recommended by the system
+or compressor manufacturer. To find out the type you need to
+use, refer to the underhood A/C system information label, or
+look it up in a service manual or electronic information system._
+
+```
+list the lubricant’s viscosity. You may need to consult
+another source (such as a parts catalog or service infor-
+mation) to obtain the lubricant’s viscosity rating.
+Recovery-only and recovery/recycling equipment will
+separate the lubricant during the refrigerant recovery
+process, so properly recycled refrigerant will not contain
+too much lubricant.
+In general, recovery equipment will remove very little, if
+any, lubricant from a system. It is a design requirement
+of the equipment that the amount of lubricant removed
+during recovery must be measurable. This is usually (but
+not always) indicated by removed oil being collected in
+a transparent graduated container.
+If a large quantity of lubricant was removed during recov-
+ery, the A/C system probably had a lubricant overcharge.
+To replace any lubricant removed during a recovery pro-
+cess, use only new lubricant of the type and viscosity
+specified by the vehicle or compressor manufacturer.
+Lubricant removed during recovery must not be reused
+in the system. Used lubricant should be disposed of in
+accordance with federal, state and local requirements
+(visit http://www.ecarcenter.org/ecartour.html for more informa-
+tion on specific disposal requirements).
+```
+To prevent damage to the compressor or system, it is im-
+perative that the correct type and viscosity of lubricant
+(and correct amount of lubricant) is used in an A/C system.
+
+Too little, or the wrong viscosity oil can cause inter-
+nal compressor failure. But too much oil can also cause
+problems. Too much oil can cause the compressor to
+“liquid slug,” possibly even hydraulically lock up. Too
+much oil can also result in reduced overall system per-
+formance. The excess oil can heavily coat the interior
+surfaces of the heat exchangers, insulating the refriger-
+ant from those surfaces.
+
+Do not mix lubricants. Use only the type of lubricant
+specified by the system manufacturer. The A/C system
+label will identify the vehicle, compressor or A/C system
+manufacturer’s recommended lubricant, often by an OE
+part number or designation. However, the label may not
+
+_A vehicle’s A/C system information label lists the type of lubricat-
+ing oil that the system requires._
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+## Best Service Practices for Mobile A/C Systems.
+
+### Sources of Refrigerant Emissions
+
+```
+Your electronic leak detector(s) must be certified to meet the SAE
+spec (the detector should be labeled as such), and must be used
+in accordance with the procedures outlined in the SAE J1628 spec.
+We’ve provided an overview of J1628 under “Using Electronic Leak
+Detectors,” (this page) and in the sidebar on page 19.
+```
+```
+Typical leak detector certification label. It shows that this leak
+detector meets the minimum performance requirements outlined
+in SAE standard J2791.
+```
+Motor vehicle air conditioning systems can release re-
+frigerant into the atmosphere in a number of ways:
+
+```
+Leaks from system part failures and seepage, which
+occur when a leak is not repaired and the system is
+recharged or “topped off.”
+Refrigerant released during various service procedures.
+Refrigerant released from service equipment, mani-
+fold gauges and equipment hoses.
+When using small cans to charge a system, refrigerant
+remaining in the can is likely to ultimately be vent-
+ed. The refrigerant remaining in larger (30 pound)
+disposable containers that has not been recovered is
+also sometimes vented when they are scrapped.
+Collision or other types of physical damage.
+```
+Checking Mobile A/C Systems for Leaks
+
+The EPA and MACS recommend that leaking systems should
+be repaired. To pinpoint leaks in mobile A/C systems,
+MACS recommends using the SAE J1628 service procedure.
+
+This requires the use of an electronic leak detector certi-
+fied to SAE standard J1627, J2791 or J2913. As minimum
+criteria, J1627 electronic leak detectors are capable of
+identifying leakage rates of 0.5 ounces per year at a
+distance of 1/4 inch from the leak point.
+
+Detectors which have the most sensitive detection lev-
+els will help identify smaller leaks. Manufacturers’ ser-
+vice and maintenance procedures must be followed to
+ensure proper operation of the equipment.
+
+SAE standard J2791 (covering HFC-134a) and J2913 (cov-
+ering for HFO-1234yf) electronic leak detectors, requires
+improved performance compared to J1627 detectors. De-
+tectors certified to this standard, have the capability of
+identifying leakage rates as low as 0.15 ounces per year
+at a distance of 3/8 inch.
+
+The charts on the next page provide a comparison for
+different types of leak detection devices and methods.
+
+Using Electronic Leak Detectors
+
+The following procedures are recommended by A/C system
+manufacturers to best identify system leaks, and are also
+an overview of the SAE J1628 leak detection procedure.
+
+The system should first be visually inspected by looking
+for traces of oil on refrigeration system components. Oil
+traces can be indications of possible leak sites.
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+The vehicle’s engine should not be running during the
+leak check, since air movement can affect the detec-
+tor’s ability to locate leaks. All fittings and components
+should be checked on all of their surfaces. Leaks can be
+present at any point, at the top or bottom of the part
+being checked. (Cleaning the surface with a clean cloth
+can be helpful. Do NOT use any cleaning solvent!)
+
+To prevent contamination, leak detection must only be
+done with the refrigerant that is specified for the sys-
+tem. Do not attempt to use shop air for leak detection
+purposes. This may introduce air, moisture and other con-
+taminants to the system. The use of other gases under
+high pressure, such as nitrogen, can result in damage to
+the A/C system (for example, it may cause an evaporator
+to rupture). Plus, as shown in Chart A (see above) high
+pressure gas and soap bubbles will not detect small leaks.
+
+```
+The SAE J1628 procedure does not require a fully charged
+A/C system. If the system has only a few ounces of re-
+frigerant and at least 50 psig of pressure (at approx-
+imately 55° F), that is sufficient to check for a leak.
+Static pressure will be higher with the same amount of
+refrigerant if the working area temperature is warmer.
+For example, with HFC-134a, the pressure will be about
+125 psig at 100° F.
+If the system is completely empty, it will be necessary
+to add some refrigerant to the system in order to use an
+electronic leak detector. About 15% of the total system
+charge is enough to obtain a minimum system pressure of
+around 50 psi. Once the system contains sufficient refrig-
+erant, adding more will not increase pressure.
+With this limited amount of refrigerant, you can deter-
+mine if the system has a leak, but you cannot determine
+if the system will provide cooling. If you intend to oper-
+ate the compressor, the system must contain its speci-
+fied amount of refrigerant.
+CAUTION: To prevent possible compressor damage, do
+not operate the compressor without the full charge of
+refrigerant as specified by the vehicle manufacturer.
+```
+_Chart B: This chart compares the effectiveness of SAE J1627 and
+J2791 electronic leak detectors._
+
+NOTES:
+
+_Chart A: This chart demonstrates the effectiveness of various
+leak detection methods. Soap bubbles will only identify leaks
+that are in excess of 1100 grams (about 40 ounces) per year,
+compared to the use of an SAE J1627, J2791 or J2913 electronic
+leak detector, which can identify leakage rates as low as 4 grams
+(0.15 ounce) per year._
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Another (Big) Reason to Find and Fix
+
+Refrigerant Leaks
+
+Loss of refrigerant can reduce oil circulation – even be-
+fore the low pressure switch or other sensor cuts power
+to the compressor clutch. Clutchless compressors may
+operate until a catastrophic failure occurs.
+
+**1. What conditions can affect the ability of**
+    **electronic leak detectors to find leaks?**
+_Dirt and moisture coming in contact with the detector’s
+probe tip can be hindrances when it comes to electronic
+leak detection. Distance from the probe to the leak site
+and windy environments also dramatically reduce detec-
+tors’ abilities to pinpoint leaks._
+**2. What should a technician look for when**
+    **purchasing an electronic leak detector?**
+_Technicians should look at the type of sensor technol-
+ogy used, and whether they are comfortable with the
+pros and cons of that type. They should also look at de-
+tector sensitivity, power requirements and battery life.
+Practical considerations like the length and flexibility of
+the probe in order to get into hard-to-reach places, what
+type of maintenance the unit requires and the unit’s ease
+of use should also be considered._
+**3. What is the best way to use an electronic**
+    **leak detector?**
+_High temperatures increase system pressure and there-
+fore leak rates and actually help to find leaks. Conversely,
+cold temperatures, especially below 60° F, may reduce
+pressure/leak rate enough to make it difficult to find
+leaks.
+According to SAE International, the best procedures for
+using electronic leak detection are detailed in SAE docu-
+ment J1628._
+    _a. The document specifies that the user should perform_
+       _leak detection in accordance with the equipment_
+       _manufacturer’s operating instructions and with the_
+       _engine off._
+    _b. In order to get the best performance, the system_
+       _should be sufficiently charged with refrigerant to_
+
+```
+maintain at least 50 psi. This may not be possible
+when the work area temperature falls below 55° F.
+c. When working with the detector, care should be
+taken to not contaminate the detector probe. If
+cleaning of a part is necessary, do not use cleaners
+or solvents, which may contain substances that the
+detector will sense.
+d. A visual inspection should be made for signs of lu-
+bricant leakage, damage and corrosion, and each
+damaged area should be inspected with the de-
+tector. Other areas to concentrate on are fittings,
+couplings, valves, service port caps, brazed or weld-
+ed areas and component attachment points. Take
+care to inspect the entire system so no potential
+source of leaks will be missed.
+e. To obtain the best chance of detecting the leak,
+move the probe no faster than 1-2 inches per second
+and hold it no more than 1/4-inch from the surface.
+If you find a potential leak, verify it by blowing shop
+air around the area and retesting.
+f. Leak testing of the evaporator core is a challenging
+task. This is best accomplished by running the air
+conditioner blower on high for at least 15 seconds,
+and then turning the blower off. Wait for refrigerant
+to accumulate in the evaporator case (the manufac-
+turer of the equipment will specify the amount of
+time). By inserting the leak detector probe into the
+blower resistor hole (if near evaporator), condensate
+drain or other appropriate opening (use a heater or
+vent duct as a last resort), you should be able to
+perform a refrigerant leak test.
+g. When all service has been completed, leak test the
+system again to verify a complete repair.
+```
+## Three Questions about Electronic Leak Detectors
+
+```
+If a vehicle comes into your shop with a failed compressor
+and the system is low on refrigerant, just replacing the
+compressor is not going to fix the apparent leak. It is im-
+portant to determine if there were multiple leak sources.
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+To isolate a suspected leak site in an area where air
+currents could dissipate leaking refrigerant, if pos-
+sible, tape a piece of aluminum foil or plastic wrap
+around the connection or component. Allow some
+time for possible leaking refrigerant to collect in the
+plastic wrap or foil. Then, make a small hole in the
+foil or wrap at the lowest area possible and place the
+leak detector probe at the hole to check for the leak.
+Lastly, most electronic leak detectors require periodic
+maintenance to function properly. Refer to your leak
+detector’s instruction manual for more information.
+
+## Another Tip on Using
+
+## Electronic Leak Detectors
+
+_To help confirm a suspected leak, place aluminum foil or
+plastic wrap and tape it around the connection or compo-
+nent. If there truly is a leak, after a few minutes, refrigerant
+should accumulate inside the plastic wrap or foil. Make a
+small hole in the foil or wrap at the lowest point possible
+and place your leak detector probe at the hole. The detector
+will indicate “refrigerant found” if a leak is actually present._
+
+```
+Using Dye to Find Leaks
+Ultraviolet (fluorescent) trace dye systems are a popular
+choice for techs today in their efforts to hunt down elusive
+leaks. Not only are they an inexpensive and easy-to-learn
+method of locating leaks, they also have the advantage of
+giving the shop visual proof of a leak, which can turn into
+an interactive experience with the customer.
+```
+```
+A typical UV dye leak detection kit contains dye, a dye injector
+(or some other type of tool to introduce dye to a system), a UV
+flashlight, and the correct goggles for the dye being used. Always
+wear the goggles to protect your eyes from the UV light. This kit
+also contains a special cleaner to remove traces of the dye after
+the leak is repaired.
+```
+```
+Dye Formula
+Ultraviolet dye is a microscopic particulate suspended in
+a base fluid. This base fluid varies from manufacturer to
+manufacturer. This particulate and base fluid, when intro-
+duced into the refrigeration system, mixes with the lubri-
+cant and is transported throughout the A/C system. When
+a leak occurs, this particulate seeps out and leaves a stain
+on the outside of the component. This stain is then vis-
+ible when a specific type of UV light is cast upon it.
+Dye manufacturers stress that the purity of the dye and
+its thermal stability is crucial, as the dye will often see
+A/C system high-side temperatures of over 250° F, then
+cycle through evaporator at temperatures in the 30° F to
+40° F range. The dye should not contain solvents of any
+kind that could damage system components or diminish
+the lubricant’s properties (including viscosity).
+To this effect, the SAE has issued standard J2297 to en-
+sure that dyes are tested for system compatibility, and
+to make certain that they will not affect lubricant vis-
+cosity when used in proper doses. Make sure your dye
+meets this standard; there are some dyes that don’t.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+Like this technician, always be sure to wear the special goggles
+that came with your UV dye leak detection kit. Not only do they
+protect your eyes from the UV light, they also make dye traces at
+leak sites stand out better.
+```
+```
+You can use a mirror to reflect the UV light underneath compo-
+nents in hard to see locations. If dye is present at a leak site, you
+should see it glowing.
+```
+How Much Dye Is Too Much?
+
+It is important that dyes be safely and properly used. Ex-
+cessive dye can result in compressor damage. Check the
+manufacturer’s recommendation; the basic rule of thumb
+is 1/4 oz. per conventional system (up to 3 lbs. refriger-
+ant or 10 oz. of oil).
+
+Lamps & Goggles
+
+Most manufacturers design their UV lamps to work best
+with their own dyes (so the dye particles fluoresce with
+their lamp for the best wavelength), and use a reflector
+and lens to direct and filter the light properly. The UV
+lamp should also be UL-listed.
+
+The coloration of the special yellow glasses that come
+with most UV dye leak detection systems enhance the
+dye’s fluorescence and also protect your eyes from UV
+rays. UV rays are harmful to your eyes, and you should
+not stare at a UV lamp, just as you would not stare di-
+rectly at the sun.
+
+Before You Begin Using UV Dye to
+
+Find Leaks
+
+Always start with the dye manufacturer’s instructions.
+They vary slightly, but the process is pretty straightfor-
+ward. Also, first check to see if there is factory-installed
+dye in the A/C system. To prevent damage, dye should
+not be added to a system unless the vehicle manufac-
+turer has approved the specific product.
+
+Choosing Your Delivery System
+
+A MACS survey found that technicians did not have a con-
+sensus on the best way to install dye into A/C systems. It
+seems that techs are using just about every method, from
+in-hose dye canisters to caulking gun-type/syringe-type
+injectors, to simply pouring dye into an open system.
+
+No matter which delivery method you choose, make sure
+you have a full refrigerant charge to allow the dye to
+thoroughly circulate in the system.
+
+Add the dye, then let it circulate. Refrigerant escapes at
+the leak point as gas, but the dye is brought to the leak
+site with the lubricant, remaining behind so you can see
+it glow under a UV lamp.
+
+Looking for Leaks
+
+When scanning the system with your lamp, put on the
+supplied glasses and examine all fittings, lines and com-
+ponents. A helpful trick is to use a mirror to reflect the
+UV light underneath the components. If you don’t have
+
+```
+space for a mirror, then use a clean rag to wipe under-
+neath the component and hold the rag under your lamp.
+How much time should it take for the leak to appear?
+Dye makers say that the dye could take anywhere from a
+few minutes to a few days to show up at the leak site(s),
+so don’t expect the dye to show up immediately every
+single time. The length of time depends on the size and
+location of the leak.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+In cases where a leak does not become readily apparent,
+you might want to consider instructing the customer to
+drive the car and use the A/C for a week or so, then bring
+it back so you can look for visual evidence of leakage.
+Do not let the customer run the car for months before
+coming back for their inspection and expect to see dye
+traces. Some of these dyes will wash off or lose their
+fluorescence over time.
+
+After all system leaks have been identified, and the nec-
+essary repairs completed, the system should again be
+thoroughly leak tested.
+
+You should find that using an electronic detector, along
+with ultraviolet dye, will often lead to great leak detec-
+tion results.
+
+Flushing A/C Systems
+
+Most A/C system manufacturers recommend that flush-
+ing not be performed. Open vent flushing often will not
+remove debris from a system. Connecting flush equip-
+ment to the system service ports, even with the valve
+cores removed, will not provide adequate system flush-
+ing, and may not result in the removal of debris and
+other substances. Many A/C system manufacturers con-
+sider the use of in-line filters to be an effective method
+of trapping debris.
+
+Many A/C system and component manufacturers also
+have reservations concerning the use of solvents to flush
+systems. Other than possible ineffectiveness, the manu-
+facturers’ main area of concern is the fact that some
+solvent may remain in the system, because depending
+upon a solvent’s boiling point, a vacuum pump may not
+remove all of it, even after a prolonged deep vacuum.
+This residual solvent can dilute the lubricant, which can
+lead to inadequate compressor lubrication and possible
+subsequent compressor failure. It could also possibly af-
+fect the chemical stability of the refrigerant, seals and
+hose materials.
+
+Flushing compounds that are certified to SAE standard
+J2670, “Stability and Compatibility Criteria for Additives
+
+_In-liquid-line filters can be installed to trap debris that may be in an A/C system after it has suffered a catastrophic compressor failure.
+Filters of this type are available from a number of different A/C parts suppliers._
+
+```
+Today’s condensers have very tiny refrigerant multi-flow pas-
+sages. Not only can’t you even fully insert a toothpick into some
+of them, others are so small, a push pin will barely go in. This is
+why attempts to flush debris-clogged condensers are often not
+successful.
+```
+```
+and Flushing Materials Intended for Aftermarket Use in
+R-134a and R-1234yf Vehicle Air Conditioning Systems,”
+have been tested for compatibility with A/C system com-
+ponents, and found to be compatible. However, this does
+not assure they will clean the component being flushed.
+If a flush solvent is used, determine if the solvent is
+classified as a hazardous material. Dispose of it in ac-
+cordance with local, state and federal regulations (visit
+http://www.ecarcenter.org for more information on specific dis-
+posal requirements).
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+To assure proper performance, vacuum pumps must be serviced at
+the intervals specified by their manufacturers. Vacuum pump ser-
+vice usually consists of not much more than changing the vacuum
+pump’s oil. Typical vacuum pump oil change intervals run from the
+oil needing to be changed after every 10 hours of pump operation.
+Consult your vacuum pump’s operational manual to find out how
+often you need to change its oil.
+```
+_Note how a “total vacuum” changes as elevation increases. This
+is not a concern. If your vacuum pump is working properly, it
+will do the job right wherever you are. Just don’t expect to reach
+total vacuum with a lower CFM vacuum pump._
+
+A/C System Evacuation
+
+Before a system is recharged, it must be evacuated to
+remove air and any remaining refrigerant. It is neces-
+sary to use a quality, well-maintained vacuum pump to
+perform a worthwhile evacuation. But there’s a lot more
+to evacuation than that.
+
+To thoroughly outgas refrigerant, a good vacuum pump,
+whether stand-alone or built into a recovery/recycling
+machine, should be capable of drawing the system down
+to at least 29 inches of vacuum (however, at facilities
+located at higher elevations, the gauge reading will
+naturally be less; see chart below). A weak or improperly
+
+```
+functioning vacuum pump may not be strong enough to
+achieve complete refrigerant outgassing and removal of
+air. Incomplete refrigerant removal introduces the poten-
+tial of overcharging a system, which can result in system
+performance problems.
+Testing has shown that even when the low-side gauge
+reads 29 inches of vacuum (where achievable), the in-
+side of the system has not actually reached that level of
+vacuum. The gauge reading more indicates the vacuum
+level in the service hose, not in the system.
+Consider that the small openings in the service valve
+cores are major restrictions. It is very difficult to reduce
+the actual system to the reading on your gauge, and
+even with a very good vacuum pump, it can take a long
+time to pull the entire system into a true deep vacuum.
+Therefore, manufacturers suggest evacuation times of
+30 to 45 minutes to assure that an adequate evacuation
+has been performed. However, if a J2788-spec R/R/R
+machine was used to recover the refrigerant, this time
+can possibly be reduced. Consult the machine’s opera-
+tor’s manual for more information.
+When it comes to removing moisture, the entire system,
+not just the service gauge reading, must be at a true,
+deep vacuum.
+```
+**Altitude (in feet) Vacuum Gauge Reading
+above Sea Level (In. HG. ABS.)**
+
+**0 29.92
+1000 28.86
+2000 27.82
+3000 26.82
+4000 25.84
+5000 24.90
+6000 23.99
+7000 23.10
+8000 22.23
+9000 21.39
+10,000 20.58**
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+So the bottom line is, even the best vacuum pump or
+recovery/recycling machine may not remove moisture
+through evacuation. The best assurance for control of
+excess moisture in the A/C system is to replace the
+desiccant.
+```
+```
+Desiccant Failure
+When the refrigerant fittings (lines and components)
+are left un-capped and open to the atmosphere for an
+extended period of time, moisture can enter the sys-
+tem and result in the desiccant becoming saturated. It
+is advisable to keep the refrigerant circuit connections
+closed. If left open for a period longer than normal
+servicing activity, the desiccant should be replaced to
+provide moisture control. Systems left unsealed during
+extended vehicle collision repairs can result in moisture
+entry.
+```
+```
+Properly Charging (and Recharging)
+Mobile A/C Systems
+To reduce refrigerant emissions, newer mobile A/C sys-
+tems use less refrigerant. Because of this, today’s systems
+are “critical charge.” A critical charge system is one that
+is substantially less tolerant to variations in charge.
+Undercharges can result in poor cooling, and even worse,
+poor lubricant circulation, which can lead to compressor
+failures. Overcharges can result in high operating pres-
+sures, which can also cause poor cooling performance,
+and even component damage. During hot weather, over-
+charged systems can shut down from the high side pres-
+sure control switch, due to high system pressure. Because
+of this, mobile A/C systems should only be charged with
+known amounts (by weight) of refrigerant. “Top-off” is no
+longer acceptable.
+```
+NOTES:
+
+_The only way to remove significant moisture from a system is to
+replace the desiccant. Not only that, most compressor supplier’s
+warranties require that the R/D, A/D, or desiccant be replaced
+when one of their compressors is being installed._
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+This machine is displaying the refrigerant charge amount in
+pounds and ounces. However, the label on every vehicle you ser-
+vice won’t list the spec this way, so calculations will be needed;
+an easy place to make a mistake. (Some machines allow you to
+change the display units, but how many techs do so every time
+they can or should?).
+```
+### Incorrect System Charges – Some Reasons Why
+
+Following are several more reasons that A/C systems
+end up getting charged with the incorrect amount of
+refrigerant.
+
+Making an Unintentional Mistake While
+
+Determining the Charge Amount
+
+One reason for incorrect charge is making an uninten-
+tional mistake while determining the recharge amount.
+We sometimes see this because a vehicle manufacturer
+may find out long after a vehicle hits the street that
+they can get better A/C performance by increasing or
+reducing the system’s charge. Or, there may have been
+a late change in a component that changes the charge
+spec, and that change was not made on the production
+line or on the vehicle’s A/C system information label. So
+unless you have access to the latest service bulletins,
+you may not know about it.
+
+Sometimes, new refrigerant labels are released. Howev-
+er, the odds that a new refrigerant label was actually at-
+tached to the vehicle are pretty remote, so checking for
+bulletins is important, including those for the not-so-
+new models that you’re likely to be working on. Please
+keep in mind that the original charge was approved after
+testing, so if there’s a new charge specification, it may
+not improve cooling under all conditions.
+
+Also, some replacement condensers require a change in
+system charge spec, usually a reduction. These units are
+accompanied by instructions stating the new spec, as
+well as a new label that you are directed to place over
+the vehicle’s original charge spec label. But does every
+tech always read all of the instructions that come in a
+box with a part? And even if so, once again, will every
+tech be diligent enough to affix the new label to the
+system? Always be on the lookout for these types of
+“outside the box” circumstances.
+
+Incorrect Calculation of Charge
+
+Probably the easiest error to make is calculating pounds
+to ounces when there’s a decimal involved. Here’s a case
+history from a Chrysler minivan with a 3.13 lb. spec. An
+inexperienced tech charged 3 lbs., 13 ounces (3 lbs. x
+16 for a total of 48 ounces, plus 13 equals 61 ounces)
+into the system. The correct amount is 50 ounces (0.13
+lb. x 16 ounces is 2.08 ounces. Add in 48 ounces and
+the total is 50.08 ounces). So the results were about
+an 11 ounce overcharge, high discharge pressures and a
+puzzled technician.
+
+```
+Or the reverse could apply: A label in ounces and a ma-
+chine with a display in pounds (with the decimal). In
+this case, divide the total number of ounces by 16. Ex-
+ample: 50 divided by 16 equals 3.13 lbs. If your machine
+display is calibrated to a single decimal place, round off
+3.13 lbs. to 3.2 lbs.
+Still another calculation issue: grams and kilograms when
+you have a machine in pounds and/or ounces. There are
+28.4 grams per ounce, and 2.2046 pounds per kilogram.
+The numbers are usually rounded off on spec labels, and if
+so, you won’t have to worry about that level of accuracy.
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+Nissan (Maxima) label shows refrigerant capacity in pounds and
+kilograms, to two decimal places, and a tolerance to three deci-
+mal places.
+```
+```
+Infiniti (M45) label shows refrigerant capacity in pounds and
+kilograms, but with no tolerance listed.
+```
+_Don’t guess at U.S. to metric conversions. Use a calculator with
+this conversion chart (or an equivalent) for easy reference. And
+watch those decimal points._
+
+Volkswagen uses grams, so if you’re converting to ounc-
+es, divide by 28.4. Example: 750 grams equals 26.4
+ounces (just under 26-1/2 ounces) and the tolerance
+is plus (no minus) 50 grams, which equals 1.76 ounces
+(just over 1-3/4 ounces). So the precise range is 26.4 to
+28.16 ounces.
+
+```
+Conversion Chart
+Ounces (oz) to pounds (lbs.) ...............................divide by 16
+Pounds to ounces .............................................multiply by 16
+Ounces to grams (g) .....................................multiply by 28.4
+Grams to ounces ..............................................divide by 28.4
+Pounds to kilograms (kg) ............................... divide by 2.205
+Kilograms to pounds ..................................multiply by 2.205
+Kilograms to ounces ..................................multiply by 35.27
+Ounces to kilograms ................................multiply by 0.0284
+```
+NOTES:
+
+_This Volkswagen label gives refrigerant capacity in grams, along
+with the plus tolerance (notice there’s no minus, so the range
+is 750-800). In this case (although ounces are not listed), the
+specification tolerance of 50 grams can be rounded off to two
+ounces in any conversion._
+
+```
+Nissan uses pounds and kilograms, and if your machine
+is calibrated in pounds, please notice that the plus/mi-
+nus tolerance is just 0.055 lb., which is 0.88 ounces, less
+than the 0.1 lb. on most decimal scales. Here again, take
+the range and aim for something within it. The specified
+charge is 1.21 lbs., so the range is 1.155 to 1.265 lbs. or
+18.48 to 20.24 ounces.
+Nissan is not totally consistent, at least not between the
+Nissan Maxima and the Infiniti M45 labels shown below.
+No tolerance is specified for Infiniti, just a single number.
+It’s a good rule of thumb to have a combination of equip-
+ment, and to work out a method that will always enable
+you to be able to charge within 5% of the specs.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Equipment Inaccuracy
+
+The accuracy of shop equipment is a major issue.
+
+```
+You might be using an old recovery/recycling/re-
+charge machine. Its accuracy was never great in its
+best days. For example, the GM ACR-4, the first dealer
+recovery/recycling/recharge machine for HFC-134a
+systems, had a tolerance that was later discovered
+could go as high as plus/minus six ounces – a 19%
+variation in a two-pound system. At one time, that
+might have been close to acceptable. But since sys-
+tem capacities have dropped, and tolerances with
+them, you can encounter a performance problem if
+you’re more than 5% off.
+Your scale, after years of use with little or no main-
+tenance (and probably some abuse) is likely to have
+become inaccurate. Just because it’s calibrated to
+one ounce or 0.1 lb. does not mean it’s accurate
+to within one ounce or 1.6 ounces. There may be a
+big difference between the resolution of the digital
+display and the actual accuracy of the machine in
+delivering a charge.
+Some machines have a calibration feature for the
+scale, but if nothing else, you can put 33 pen-
+```
+```
+33 pennies weigh three ounces,
+and most shops can come up with
+them. They can be used to check
+the scale on your recharge machine.
+Place them on top of the refrigerant
+tank, and check the scale reading
+on the machine’s readout. If the
+scale is working properly (within
+tolerance), the scale reading should
+show an increase in weight of at
+least 0.1 lb. or two ounces, up to
+0.2 lb. or three ounces. If this does
+not happen, the scale needs either
+calibration or replacement. Any-
+thing else is not accurate enough
+for charging today’s tight tolerance
+systems.
+As you can see, the scale on this re-
+covery/recycling/recharge machine
+is dead on. With 33 pennies placed
+on top of its refrigerant tank, its
+readout shows an increase in weight
+from 34 lbs., 4 oz. to 34 lbs., 7 oz.
+```
+```
+nies on top of the jug and see if the scale can
+tell the difference. 11 pennies weigh one ounce,
+so with 33, there should be an increase in weight
+of at least 0.1 lb or two ounces, up to 0.2 lb.
+or three ounces.
+R/R/R machines that meet SAE Standard J2788 will pro-
+vide more accurate refrigerant removal and charging
+measurements, and provide a method for calibration of
+the scale.
+SAE J2788 equipment provides the following measure-
+ment accuracy:
+The equipment must be capable of both indicating
+and recharging the system to within 15 g (0.50 oz)
+of vehicle manufacturer’s specifications.
+If a scale is used in the machine, its manufacturer
+shall provide a method for the technician to check
+scale accuracy, and include any necessary accura-
+cy-checking device (such as a calibration weight(s))
+with the machine.
+If you are having a problem with system performance or
+high system operating pressure, you may want to check
+if your equipment is charging the correct amount of re-
+frigerant.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+Some technicians still attempt to use small cans and pressure
+gauge readings to charge systems, but accurate charging is not
+possible with this method.
+```
+Not Accounting for the Refrigerant Inside
+
+the Service Hoses
+
+A typical six-foot service hose holds approximately
+two ounces of refrigerant. The use of very long service
+hoses can cause a system to receive an overcharge if
+procedures are not followed that take hose length into
+consideration. Some charging equipment is program-
+mable to allow for different hose lengths, which should
+assure an accurate charge. Refer to your machine’s in-
+struction manual for more information.
+
+Technician Doesn’t Accept the Specs
+
+It’s amazing how many shops refuse to accept the fac-
+tory spec, even if there’s no bulletin to the contrary. Or
+somehow, they have acquired this idea that a little more
+refrigerant should be helpful. If they’re unlucky, along
+with something else they do, or a part they replace, the
+system cools better – in the shop – than when it came
+in. Why is that unlucky? Because when it’s really hot and
+the car is slow-moving in traffic, the high side pressure
+goes way up and the system shuts down. Then maybe
+some other shop gets the job, does a recovery and re-
+charge, and enjoys a “phantom repair” at the expense of
+the first shop’s reputation.
+
+Charging Systems with Small Cans or by
+
+Attempting to Use Pressure Readings
+
+If you’re charging with small cans, or even using 30
+pound cylinders, but trying to charge a system going by
+gauge readings, or using any other method that does not
+involve accurately weighing the amount of refrigerant
+entering the system, **STOP!**
+
+## Notes: ________________________________________________
+
+## ______________________________________________________
+
+## ______________________________________________________
+
+## ______________________________________________________
+
+## ______________________________________________________
+
+## ______________________________________________________
+
+## ______________________________________________________
+
+```
+Pressure gauges are a diagnostic tool, but you can’t use
+them to meter refrigerant into a system, and no vehicle
+or system manufacturer provides exact pressure specs
+for a precise charge. Even if you have reliable pressure
+readings, there isn’t enough of a pressure difference to
+indicate over or undercharge.
+System pressure readings, whether the system is oper-
+ating or off, will not identify the amount of refriger-
+ant in a system. The only way to assure that any given
+system’s refrigerant charge is correct is to recover all of
+the existing refrigerant, perform a thorough evacuation
+and install a known amount. If you have a recovery/
+recycling only machine, consider purchasing an accurate
+digital scale, perhaps one with a solenoid-type dispens-
+ing valve.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+NOTES:
+
+Whenever you hear the term “refrigerant contamina-
+tion,” the first thing you probably think of is mixed re-
+frigerants. However, the most prevalent contaminant,
+particularly in recycled refrigerant, is air.
+
+This section will provide tips on dealing with both of
+these problems; excessive amounts of air in refrigerant
+and cross-contaminated refrigerant.
+
+Three Questions on Air-contaminated
+
+Refrigerant
+
+1. What problems are caused by excess air in a vehicle air
+    conditioning system?
+_Air, in excess of allowable amounts, can cause the system to
+operate at pressures that are higher than normal. This can
+result in noisy system operation and loss of air condition-
+ing performance. (Air is not a good heat transfer medium,
+and higher pressures also mean higher condenser tempera-
+tures, which can also degrade system performance.) It can
+also cause the system’s high pressure cut out switch to in-
+hibit compressor clutch operation, and/or, depending on
+the circumstance, possibly cause damage to system compo-
+nents due to overpressure conditions._
+
+_The maximum acceptable amount of air contamination is
+generally considered to be no more than 2%._
+
+2. How can technicians determine if refrigerant contains
+    too much air?
+
+_The only way to determine the AMOUNT of air contained
+in refrigerant is to use a refrigerant identifier. But, to de-
+termine if a container of refrigerant has EXCESS air, the
+following approach can be used._
+
+```
+The container must be kept at a stable temperature for
+several hours before taking the readings.
+Contamination can also be caused by mixed refriger-
+ants which can produce readings similar to those in the
+charts on page 30, mimicking air contamination. In
+other words, the pressure/temperature method cannot
+identify whether the higher readings are being caused
+by air in the refrigerant, or if they are being caused due
+to refrigerant cross-contamination.
+```
+**_Pressure/Temperature Method for Determining the Amount
+of Air Contained Within Refrigerant in a Container_**
+
+_To determine if a tank of recycled refrigerant contains
+an excessive amount of air, the tank must be stored at
+a temperature of at least 65° F for a period of 12 hours,
+protected from direct sunlight. It is also advisable not to_
+
+```
+store tanks directly on the cement shop floor since the
+floor temperature can affect the tank temperature. Placing
+some form of insulation, such as a piece of wood between
+the tank and the floor will help stabilize the tank pressure.
+If these conditions have been met, a check for air may be
+performed as follows:
+Install a calibrated pressure gauge to the refrigerant con-
+tainer (some R/R/R machines have built-in ones).
+```
+### Avoiding Refrigerant Contamination
+
+```
+This is a typical tank pressure gauge on a recovery/recycling ma-
+chine. Its reading, with the ambient temperature reading and
+Tables 1 and 2 (on page 30), can be used to determine if excess
+air is in the refrigerant storage tank. If the pressure reading is
+too high, air must be purged from the tank until the gauge read-
+ing matches the proper one listed in the table. Still, a refriger-
+ant identifier is the best tool to use to obtain a reading on the
+amount of air that might be in recycled refrigerant.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+_To obtain the refrigerant liquid temperature, measure
+the temperature of the lower one-half of the refrigerant
+container’s outer surface (make sure the thermometer
+is in contact with the “liquid zone” of the tank). Using
+only the air temperature reading in the vicinity of the
+refrigerant container can result in incorrect information._
+
+_Compare the pressure gauge and temperature read-
+ings with the limits found in Tables 1 and 2. Use the
+figures in Table 1 for CFC-12, and the figures in Table
+2 for HFC-134a._
+
+_If tank pressure is below the figure listed in the table,
+the refrigerant does not contain an excessive amount
+of air. If tank pressure is higher than that listed in the
+table for the ambient temperature, it is advisable to use
+a refrigerant identifier and confirm if the high pressure
+is due to excess air or cross-contamination. If it’s de-
+termined to be excess air,_ **_slowly_** _vent (purge) the air
+from the tank. Continue purging until tank pressure is
+below that shown in the table. As the purge process is
+performed, the container will cool and the tank pressure_
+
+```
+You can use the recovery/recycling/recharge machine’s air purge
+valve to purge excess air from recycled refrigerant. Let the air
+out, and watch the pressure gauge on the machine’s panel. When
+the gauge reading reaches the appropriate number in the table
+(based on the ambient temperature), close the purge valve. The
+recycled refrigerant now does not contain an excessive amount of
+air, and can be reused to recharge an A/C system.
+```
+```
+Temp º F PSI Temp º F PSI Temp º F PSI Temp º F PSI Temp º F PSI
+65 74 75 87 85 102 95 118 105 136
+66 75 76 88 86 103 96 120 106 138
+67 76 77 90 87 105 97 122 107 140
+68 78 78 92 88 107 98 124 108 142
+69 79 79 94 89 108 99 125 109 144
+70 80 80 96 90 110 100 127 110 146
+71 82 81 98 91 111 101 129 111 148
+72 83 82 99 92 113 102 130 112 150
+73 84 83 100 93 115 103 132 113 152
+74 86 84 101 94 116 104 134 114 154
+```
+TABLE 1 - Maximum Allowable Container Pressure – Recycled CFC-12
+
+TABLE 2 - Maximum Allowable Container Pressure – Recycled HFC-134a
+
+```
+Temp º F PSI Temp º F PSI Temp º F PSI Temp º F PSI Temp º F PSI
+65 69 75 83 85 100 95 118 105 139
+66 70 76 85 86 102 96 120 106 142
+67 71 77 86 87 103 97 122 107 144
+68 73 78 88 88 105 98 125 108 146
+69 74 79 90 89 107 99 127 109 149
+70 76 80 91 90 109 100 129 110 151
+71 77 81 93 91 111 101 131 111 153
+72 79 82 95 92 113 102 133 112 156
+73 80 83 96 93 115 103 135 113 158
+74 82 84 98 94 117 104 137 114 160
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+If you mistakenly draw mixed refrigerant into your ser-
+vice equipment, not only could it possibly damage the
+equipment, but unless detected, you will contaminate
+every other vehicle that you use the equipment to ser-
+vice. Even a small amount of one refrigerant mixed with
+another can ruin the entire batch.
+Mixed refrigerants can result in elevated system operat-
+ing pressures. The raising of system operating pressures
+above normal can result in poor A/C performance and
+could also cause damage to system components.
+Mixed refrigerants cannot be separated by recycling ma-
+chines and are considered hazardous waste. They must
+be transported to an off-site facility for reclamation or
+destruction.
+```
+```
+Two More Issues Concerning Refrigerant
+and System Contamination
+Just because a vehicle is equipped with a retrofit label
+and conversion fittings, it would not be wise to assume
+that the refrigerant in the system is a match to the fit-
+tings and the information on the label. There have also
+been cases of CFC-12 systems being directly charged
+with HFC-134a, with no labels, fittings, or any other
+type of indication that this was done. A vehicle could
+have passed through any number of hands before enter-
+ing your shop, and there’s no telling what could have
+happened along the way.
+Also keep in mind that even approved chemicals, such as
+dye or lubricant, can become contaminants if they are in
+a system in excessive amounts.
+```
+```
+will decrease. Allow the temperature to stabilize then
+re-perform the check to confirm if there is still excess air
+remaining in the tank.
+```
+**_Remember:_** _The information in the tables is only reliable
+if the tank has been kept at a stable temperature for sev-
+eral hours before the readings are taken, has been kept out
+of direct sunlight, contains some liquid refrigerant, and
+no refrigerant cross-contamination exists. It is also im-
+portant that during the purge process, the tank does not
+become cold, since a cold tank of refrigerant will reflect an
+incorrect pressure reading. Also keep in mind that while
+pressures higher than those in the charts indicate contami-
+nation, they do not indicate the type of contamination (is
+it air, mixed refrigerants, or a combination of both?)._
+
+_This procedure cannot be used to determine if a mobile A/C_
+**_system_** _has contamination from air or mixed refrigerant._
+
+3. What can I do to address the problem of air in, and
+    getting in, my refrigerant supply? How do I remove
+    excess air from an A/C system?
+_Air can be introduced into the refrigerant supply when re-
+frigerant is recovered if there are any leaks in the A/C
+system or the service hoses. Inspection of service equip-
+ment hoses and connections is important to assure that
+they are not a leak source._
+
+_The A/C system must be checked for leaks using approved
+leak detection equipment and methods. After performing re-
+frigerant identification, the refrigerant must be recovered
+from the system using approved and properly maintained
+refrigerant recovery or recovery/recycling equipment. All sys-
+tem leaks (if any) must be repaired. After all refrigeration
+system service is completed, the system must be properly
+evacuated (to a deep vacuum) to ensure that all air is re-
+moved. Short cutting evacuation or failing to purge air from
+the recovered/recycled refrigerant are two of the most com-
+mon causes for air to exist in refrigerant and A/C systems.
+Others are improperly operating or maintained recovery, re-
+covery/recycling equipment, and vacuum pumps in need of
+oil changes and/or other maintenance._
+
+_Properly operating recycling equipment, used in accordance
+with its manufacturer’s instructions, will remove excess
+air from refrigerant, ensure that the maximum allowable
+amount of air in recycled refrigerant is not exceeded, and
+provide recycled refrigerant that is ready for use._
+
+Mixed/Cross-contaminated Refrigerant
+
+Mixed/cross-contaminated refrigerant is harmful for a
+number of different reasons.
+
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+R-What?
+
+The potential for refrigerant cross-contamination
+has been a reality for many years. Initially the
+threat was viewed as being generated by a do-it-
+yourselfer, or maybe even another shop, introducing
+a can of the blend du jour or some illegal hydrocar-
+bon cocktail into the A/C system before eventually
+bringing the car to an A/C specialist for repair.
+
+But the threat is more complicated than that. Not
+only is there concern about what consumers or other
+shops introduce into the A/C system, professional
+shops must be vigilant about the supposedly virgin
+HFC-134a they are buying and using. Counterfeit re-
+frigerant has also been around for a while, but the
+counterfeiters are growing in number and becoming
+more sophisticated.
+
+DuPont Refrigerants issued a press release urging
+“members of the HVACR industry to increase their
+awareness of, and action against, counterfeit refrig-
+erant activity.
+
+“This problem is real and it is growing, and the im-
+pact can include significant injury and tragic loss of
+life,” said Greg Rubin, global business manager for
+DuPont Refrigerants. “Counterfeit refrigerants also
+have the potential for significant business impact,
+especially in emerging regions.”
+
+All of the major refrigerant manufacturers have
+stepped up efforts to combat counterfeit activ-
+ity, but it seems to be an uphill battle. Gus Ro-
+lotti, another industry expert, commented on that
+challenge noting, “We have recently seen cylinders
+that were copied almost exactly as the originals and
+were filled with refrigerants other than those on
+the label. Further, we have seen original, legitimate
+cylinders that were fraudulently obtained from the
+authorized cylinder manufacturers by a third party
+and filled with low quality or other refrigerant from
+what the label says. Just because the cylinder is
+(or looks) authentic, is no guarantee that the re-
+frigerant it contains is pure or within specs. Buyers
+should indeed beware.”
+
+Service providers should check each and every ve-
+hicle before doing anything to the A/C system. They
+
+## Counterfeit Refrigerants
+
+```
+should also check every cylinder of refrigerant be-
+fore installing it on a machine.
+When the pace in your shop picks up, it might be
+tempting to skip that step of identifying the refrig-
+erant you’re removing from the car. When times are
+tough and margins tight, you might also be tempted
+to go for a deal on refrigerant you find on the Inter-
+net or though a friend of a friend.
+Remember that your reputation is on the line with
+every job you do. Take the time to identify the re-
+frigerant you are working with and using, and buy
+your refrigerant through a known refrigerant manu-
+facturer’s authorized distributor.
+In the end, it may cost you more to take short-cuts
+versus taking the time to accurately identify what is
+in the vehicle and what is in the container.
+Counterfeits can potentially:
+Prevent proper use of automated refrigerant
+R/R/R equipment.
+Cause internal corrosion of the A/C system, or
+may destroy hoses and other plastic/rubber com-
+ponents, which may allow escape of the refriger-
+ant into the atmosphere, or into passenger cabin.
+Cause premature equipment failures.
+Void warranties on equipment.
+Cause explosions or fires, if flammable/explosive
+substances are used as the counterfeiting agents.
+Cause serious injury or death due to violent rup-
+ture of the contaminated system.
+```
+```
+Dangerous Counterfeit HFC-134a
+In 2012 there were warnings about counterfeit
+HFC-134a refrigerant contaminated with significant
+quantities of R-40 (aka: methyl chloride or chloro-
+methane). R-40 is extremely toxic, flammable and
+highly reactive when exposed to aluminum. In some
+cases R-40 may react with aluminum to form a third,
+highly unstable compound (trimethylaluminum or
+TMA) that ignites in contact with air.
+This counterfeit HFC-134a mixed with R-40 and
+other refrigerants has apparently been purposely
+designed to mimic pure HFC-134a at a substantially
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+reduced cost, the likely motivation of the coun-
+terfeiters. Refrigerant identifiers, certified to SAE
+J1771, are not designed to directly identify R-40.
+Some newer refrigerant identifiers, certified to SAE
+J2912, are designed to recognize small amounts of
+R-40 and classify it as an “Unknown” refrigerant.
+Prior to issuing the warning, Neutronics Inc.’s Re-
+frigerant Analysis Division had been engaged by the
+oceangoing shipping industry to assist with an HFC-
+134a refrigerant contamination problem involving
+R-40 that resulted in three deaths in three sepa-
+rate incidents. Since that time, Neutronics has been
+working with the Army, which positively identified
+HFC-134a contaminated with R-40 in Army depot
+supplies. Ground combat and tactical vehicles ser-
+viced in Afghanistan and Iraq were affected, and
+while the Army does not currently know the depth
+of contamination, it suspects that vehicles and re-
+claimed supplies may be contaminated.
+It should be noted that these contaminated refriger-
+ant systems can pose a major safety issue to those
+working on them. Currently the industry is working
+on, but has not determined, the best service proce-
+dures to be used. Contaminated systems can damage
+recovery and recycling equipment, and can result in
+the requirement to replace all vehicle refrigerant cir-
+cuit components.
+In April 2012, lab tests confirmed the presence of
+R-40 in a number of containers of recovered refriger-
+ant in the U.S. With the confirmation from the mili-
+tary that infected vehicles have invaded our shores,
+```
+```
+containment actions are of paramount importance.
+This problem has been seen in many parts of the
+world having much smaller mobile A/C fleets, so
+there is the potential for the same problem in the
+North American market.
+While there is no reason to believe that this con-
+tamination is widespread in the U.S. market, its exis-
+tence serves as one more reason service shops should
+remain vigilant and purchase their refrigerant from
+authorized distributors of their chosen refrigerant
+manufacturer.
+```
+```
+Steps to Avoid Counterfeit Refrigerants
+KNOW YOUR SUPPLIER. Obtaining refrigerant from
+a trusted and well-known source that can provide
+traceability is a good practice to prevent contami-
+nation of equipment.
+VERIFY REFRIGERANT IN CYLINDER BEFORE USING.
+Proper verification of refrigerant in service cylin-
+ders prior to use can ensure authenticity of the
+refrigerant. Checking refrigerant cylinders with
+a portable or integrated refrigerant analyzer is
+mandated by SAE service standards.
+VERIFY REFRIGERANT IN SYSTEMS BEFORE REPAIR-
+ING/SERVICING. Proper verification of refrigerant
+in systems prior to repairing and/or servicing is
+imperative to safety. Testing refrigerant in systems
+prior to removing the charge also prevents possible
+contamination of your current (existing) supply.
+```
+Recovery and Disposal of Contaminated
+
+Refrigerant
+
+Under federal law, contaminated refrigerant cannot be
+vented. Contaminated or unknown refrigerant must be
+removed from a system using dedicated recovery-only
+equipment, and properly disposed of.
+
+There are currently two types of equipment that can be
+used to recover contaminated refrigerant:
+
+```
+Recovery-only units offered by some equipment
+manufacturers that are specifically designed for this
+purpose;
+You may dedicate a CFC-12 or HFC-134a recovery unit
+specifically for the purpose of recovering contami-
+nated refrigerant.
+```
+```
+Caution: If the refrigerant contains flammable sub-
+stances, such as propane and butane, a fire or explosion
+could occur if the refrigerant is exposed to an ignition
+source within the equipment. Recovery equipment that
+has been certified for use with CFC-12 or HFC-134a is
+not approved for use with a flammable refrigerant and
+may become a safety hazard if used. Make sure you
+determine if features have been incorporated into your
+equipment to guard against these hazards.
+Also, refrigerant containing flammable substances may
+be considered hazardous, and you must follow any local,
+state or federal requirements governing the storage and
+disposal of ignitable materials (visit http://www.ecarcenter.org
+for more information on specific disposal requirements).
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+_Make sure new HFC-134a you intend to purchase meets the SAE
+J2776 and/or the ARI 700-2006 purity standard(s), and has a
+1/2-inch Acme tank fitting._
+
+Contaminated refrigerant must be sent off-site to an EPA
+certified refrigerant reclaimer for either reclamation or
+destruction. A list of EPA certified refrigerant reclaimers
+can be found on the EPA’s web site at _https://www.epa.
+gov/section608/epa-certified-refrigerant-reclaimers._
+
+Used Refrigerant from Non-mobile
+
+Sources
+
+CFC-12 and HFC-134a are also used in residential and com-
+mercial refrigeration systems, such as refrigerators, wa-
+ter chillers and central cooling systems. Many different
+contaminants and acids may be present in refrigerant re-
+covered from these systems. Automotive-type recovery/
+recycling equipment will not remove these contaminants.
+
+Refrigerant which contains acids and other contami-
+nants, as well as possibly mixed refrigerants, will cause
+serious problems if it is used in a mobile A/C system.
+
+Refrigerant from non-mobile sources should not be used
+unless it has been purchased from a reclamation center
+which can certify that the refrigerant meets ARI 700
+specifications.
+
+Purity of New HFC-134a
+
+In 2006, both the SAE and the ARI issued more stringent
+standards concerning the purity of new HFC-134a, SAE
+J2776 and ARI 700-2006.
+
+```
+Standard AHRI 700: Specification for Fluorocarbon
+Refrigerants
+1.1 Purpose. The purpose of this standard is to es-
+tablish purity specifications, to verify composition,
+and to specify the associated methods of testing for
+acceptability of fluorocarbon refrigerants regardless
+of source (new, reclaimed and/or repackaged) for
+use in new and existing refrigeration and air condi-
+tioning products within the scope of AHRI.
+1.1.1 Intent. This standard is intended for the
+guidance of the industry including manufacturers,
+reclaimers, repackagers, distributors, installers, ser-
+vicemen, contractors and users of fluorocarbon re-
+frigerants.
+1.1.2 Review and Amendment. This standard is
+subject to review and amendment as technology ad-
+vances or as additional data becomes available. This
+data can be submitted to AHRI for review.
+Section 2. Scope
+2.1 Scope. This standard specifies acceptable levels
+of contaminants (purity requirements) for fluorocar-
+bon refrigerants regardless of source and lists ac-
+ceptable test methods.
+```
+```
+To meet the ARI 700-2006 and SAE J2776 purity require-
+ments, “volatile impurities” shall not exceed 40 parts
+per million (ppm). These impurities cannot be identi-
+fied in the field, and the purity information is not nor-
+mally part of the refrigerant’s Material Safety Data Sheet
+(MSDS). These impurities have been identified to poten-
+tially result in A/C system problems and health issues.
+Refrigerant meeting SAE J2776 will have a label on the
+carton and container stating: “Meets SAE J2776 purity
+standard.” Containers will have 1/2-inch Acme fittings
+that will attach to the automotive service equipment.
+Refrigerant containers not having this fitting may not
+meet the SAE J2776 purity requirements.
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+_Before they are discarded, disposable refrigerant cylinders should
+be connected to recovery equipment and brought to a vacuum. This
+will ensure that all refrigerant has been removed._
+
+_Empty refrigerant cylinders should be marked “Empty” before
+disposal._
+
+```
+Recovering Refrigerant from Disposable
+Cylinders
+Before they are discarded, disposable refrigerant cyl-
+inders should be connected to recovery equipment and
+brought to a vacuum. This will ensure that all refrigerant
+has been removed. The cylinder should then be marked
+“Empty.” (Note: Some disposal facilities will not accept
+these cylinders unless some type of visual assurance ex-
+ists that the cylinder is completely empty (such as a hole
+drilled in the cylinder.)
+```
+```
+Standard J2296: Retest of Refrigerant Container
+Issuing Committee: SAE International Interior Climate
+Control Fluids Committee
+This Standard defines a procedure to inspect a re-
+frigerant cylinder used in equipment servicing mo-
+bile air conditioning (A/C) systems. This includes
+the pressure cylinder used for refrigerant recovery/
+recycling and charging equipment.
+```
+NOTES:
+
+```
+Field Coupling of Flexible Hose
+Assemblies
+SAE J2064 is an engineering standard for joint integrity
+of hose couplings. This standard is important because it
+covers refrigerant hoses you install or repair. Improp-
+erly coupled hose assemblies are a reliability problem
+and result in loss of refrigerant. With smaller refrigerant
+charges, all the seals, joints and fittings have to be de-
+signed to leak far less. In today’s small capacity systems,
+just a few ounces lost is enough to affect performance.
+And now, the systems are getting even tighter.
+A MACS survey showed that half of the replacement hose
+assemblies are field coupled instead of installing new
+replacement assemblies. And because some of those
+shops make hose assemblies for other shops, they have
+a multiplier effect.
+The following are some suggestions that will probably
+help you do a better job.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+The conscientious shop can do a great job when it comes
+to the field-assembly and repair of A/C system hoses.
+```
+```
+Measure Twice, Crimp Once
+Is your bulk A/C hose a quality brand and do you have a
+hose cutter that produces a neat end?
+Lube the hose end with mineral oil and insert the fitting.
+Although it won’t be a difficult force fit, it shouldn’t be
+drop-off loose either, even with the lubrication. The hose
+end should be visible in the small inspection hole on the
+side or end of the ferrule. If it isn’t visible, it isn’t fully
+inserted, and you could get a poor crimp.
+```
+```
+Appearance Counts
+Inspect the crimp for a good visual appearance. It should
+be uniform and the fitting itself should not be deformed.
+Oblong, out-of-round or irregular crimps usually indicate
+worn die carriers or a mismatch of the two dies.
+If the correct hose is used with the correct fittings,
+and the assembly operation is performed properly, you
+should be able to build and repair hose assembles that
+meet the requirements for reduced leakage.
+```
+```
+Replacement Refrigerants and
+Retrofitting Mobile A/C Systems
+Retrofitting CFC-12 systems to use an alternate refrig-
+erant is permitted, provided that correct procedures
+are followed.
+EPA regulations require that CFC-12 systems undergo-
+ing retrofit must have ALL of the CFC-12 recovered, ap-
+propriate conversion fittings must be installed on all of
+the original CFC-12 service ports, and a new A/C system
+information label must be affixed to the vehicle. The
+retrofit label must include the following information:
+the name and address of the technician and the com-
+pany performing the retrofit; the date of the retrofit;
+the trade name, and charge amount of the refrigerant
+installed; and the type, manufacturer and amount of lu-
+bricant used. A high-pressure compressor cut-off switch
+must be installed IF the system does not already have
+one AND it contains a high-pressure refrigerant relief
+device. In addition, depending on the refrigerant being
+used, the installation of barrier hoses on systems that
+do not already have them may be required.
+When retrofitting, the use of an alternate refrigerant
+not approved by the system manufacturer could result
+in damage to A/C system components. All mobile A/C
+system manufacturers encourage the continued use of
+CFC-12 in systems originally designed to use it.
+```
+```
+Assembly crimped, rotated and recrimped.
+```
+_Incorrect tube and hose combination causing tube to seriously
+deform._
+
+Practical Matters
+
+Typical problems with the field-coupled hoses are dam-
+age to the coupling and incorrect crimping.
+
+To assure the best field coupled hose and minimize re-
+frigerant leakage, follow the hose coupling procedures
+for tube and hose fit and coupling requirements as out-
+lined by the supplier.
+
+Make sure to maintain your crimper and always use the
+proper dies for the particular job. Make sure that the fit-
+tings and hoses are a within-tolerance fit, and that the
+crimp meets the dimensions specified.
+
+Do you just cut off the needed length of bulk hose, in-
+sert the fittings and turn the crimper’s forcing screw
+until the joint seems “tight enough?” If so, what you’re
+doing might be producing a coupling that will leak.
+
+A major issue is the hose, which has greater size toler-
+ances than the metal fittings. There are cases where the
+wrong-size fitting has been inserted - so loose that if
+you inverted the hose, the fitting might drop off. We
+also know of shops that believe “one crimper fits all”
+and use a hydraulic hose crimper on an A/C hose. It may
+produce a tight crimp, but it’s been known to crack the
+hose’s barrier lining.
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Retrofit requirements and recommendations may in-
+clude the installation of new o-rings and/or seals, new
+desiccant, a different lubricant, replacement of refrig-
+erant controls, increased condenser capacity and other
+modifications. Not following OEM recommendation may
+result in system damage, loss of performance and could
+also affect component warranties. Additional informa-
+tion on retrofits can be found at the following link:
+_https://www.epa.gov/mvac/choosing-and-using-retrofit-
+refrigerant-cfc-12-mvac._
+
+What About Retrofitting HFC-134a
+
+Systems?
+
+HFC-134a systems are designed and tested only for use
+with HFC-134a and PAG or POE lubricant. There is no
+published information or industry-recognized tests to
+establish system cooling performance, system reliabil-
+ity, material compatibility or the potential for chemi-
+cal damage to the system’s lubricant, seals and hoses
+should a substitute refrigerant be installed in an HFC-
+134a system.
+
+The new alternative refrigerants, HFC-152a, R-744 (CO 2 )
+and HFO-1234yf, are only approved by EPA for use in new
+
+```
+vehicles. A system designed to use HFC-134a cannot be
+retrofitted to use any of these refrigerants.
+A Word on Flammable Refrigerants
+Replacement refrigerants which are or can become flam-
+mable have been sold for use in mobile A/C systems. CFC-
+12 and HFC-134a A/C systems are not designed to use
+flammable refrigerants, and using a flammable refriger-
+ant as a replacement for CFC-12 is prohibited by federal
+law. EPA has explicitly listed any flammable substitute,
+besides HFC-152a and HFO-1234yf, as unacceptable under
+SNAP. Caution should be taken before working on any
+system suspected of containing flammable refrigerant;
+some electronic leak detectors could become an ignition
+source if being used to find leaks in a system contain-
+ing flammable refrigerant; components inside many re-
+covery/recycling machines can also serve as a possible
+ignition source if the equipment is being used to recover
+flammable refrigerant. Either of these situations could
+result in a fire or explosion.
+Connection and disconnection of service equipment of-
+ten results in the release of a small amount of refriger-
+ant at the service ports. If the refrigerant released in
+these circumstances is flammable, and there is a source
+of ignition nearby, a fire or explosion could occur.
+WARNING: REMOVAL AND HANDLING OF FLAMMABLE RE-
+FRIGERANTS MAY BE DANGEROUS.
+```
+```
+The U.S. EPA’s Significant New
+Alternatives Policy (SNAP)
+Under the Significant New Alternatives Policy (SNAP),
+in addition to HFC-134a, the EPA has accepted other al-
+ternate refrigerants. Refer to Tables 3 through 6 on the
+following pages for additional information from EPA on
+these alternatives.
+```
+_Even though a CFC-12 system may be equipped with a retrofit
+label and conversion fittings, that doesn’t provide “proof” of the
+type of refrigerant that may be in the system, or its purity. The
+only way to know for sure is to connect a refrigerant identifier to
+the system and take a reading._
+
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+TABLE 3 - Substitutes in MVAC: Passenger Air Conditioning in Light-Duty, Medium-Duty,
+Heavy Duty and Off-Road Vehicles
+**_NOTE: All substitutes in this sector are acceptable, subject to use conditions, for CFC-12 (Class I ODS) in
+MVACs.* See SNAP Regulations for more information._**
+Substitutes are reviewed on the basis of environmental and health risks, including factors such as ozone depletion
+potential, global warming potential, toxicity, flammability, and exposure potential. Lists of acceptable and unaccept-
+able substitutes are updated several times each year. The list of substitutes is shown below. **_Note: SNAP-related infor-
+mation published in the Federal Register takes precedence over all information on this page._**
+
+_Key: R = Retrofit Uses, N = New Uses
+* Refrigerated cargo areas, buses, and passenger trains using HCFC-22 are not included in the definitions of “motor vehicle air-condi-
+tioners” or “motor vehicle-like air-conditioners” under EPA regulations for servicing of motor vehicle air conditioners.
+1 See use conditions for HFC-152a at 73 FR 33304.
+2 See use conditions for HFO-1234yf at 76 FR 17488.
+3 See use conditions for R-744 (Carbon Dioxide, CO 2 )._
+
+```
+Substitute Trade Name Retrofit/New ODP GWP
+```
+```
+ASHRAE
+Designation
+(Safety
+Classif.)
+```
+```
+Snap Listing
+Date Listing Status
+```
+```
+Evaporative Cooling N 0 N/A N/A March 18, 1994 Acceptable
+```
+```
+Free Zone (HCFC Blend
+Delta)
+```
+```
+Free Zone /
+RB-276
+```
+```
+R/N 0.013 1,592 A1 May 22, 1996;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+Freeze 12 Freeze 12 R/N 0.013 1,606 A1 October 16,
+1996;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+```
+```
+GHG-HP (HCFC Blend
+Lambda)
+```
+```
+GHG-HP R/N 0.056 1,893 A1 October 16,
+1996;July 20,
+2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+```
+```
+GHG-X5 GHG-X5 R/N 0.032 2,377 A1 June 3, 1997;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see notice.
+HFC-134a 134a R/N 0 1,430 A1 March 18,
+1994;
+July 20, 2015
+```
+```
+Unacceptable as of Model Year (MY) 2021,
+except where allowed under a narrowed use
+limit through MY 2025. Acceptable, subject
+to narrowed use limits, for vehicles exported
+to countries with insufficient servicing
+infrastructure to support other alternatives,
+for MY 2021 through MY 2025. Unacceptable
+for all newly manufactured vehicles as of MY
+```
+2026. Detailed conditions apply - see rule.
+HFC-152a^1 N 0 124 A2 June 12, 2008 **Acceptable with Use Conditions:** See rule for
+detailed conditions.
+HFO-1234yf^2 N 0 4 A2L March 29,
+2011;
+December 1,
+2016
+
+```
+Acceptable with Use Conditions: For use in
+newly manufactured passenger cars, light-
+duty trucks, medium-duty passenger vehicles,
+heavy-duty pickup trucks, and complete
+heavy-duty vans; see rules for detailed
+conditions.
+Ikon A Ikon-12, Blend
+Zeta
+```
+```
+R/N 0 N/A A1 May 22, 1996 Acceptable with Use Conditions: See rule for
+detailed conditions.
+R-401C R/N 0 933 A1 June 13, 1995 Acceptable
+R-406A GHG R/N 0.057 1,900 A2 October 16,
+1996;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+```
+```
+R-414A GHG-X4, HCFC
+Blend Xi,
+Autofrost, Chill-it
+```
+```
+R 0.045 1,478 A1 October 16,
+1996;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Table 4 - Unacceptable Substitute Refrigerants
+Alternatives are listed as unacceptable where other available, or potentially available, substitutes pose a lower overall
+risk to human health and the environment.
+
+```
+Substitute
+(Name Used in the Federal Register)
+```
+```
+ODS Being
+Replaced End-uses Reason
+All flammable refrigerants, including OZ-12®
+(Hydrocarbon Blend A), HC-12a® (Hydrocarbon
+Blend B), and Duracool 12a except HFC-152a and
+HFO-1234yf in new MVACs
+```
+```
+CFC-12 Motor vehicle air conditioning, retrofit
+and new
+```
+```
+Lack of adequate assessment that
+characterizes incremental flammability risk
+```
+```
+OZ-12® (Hydrocarbon Blend A), HC-12a®
+(Hydrocarbon Blend B), and Duracool 12a
+```
+```
+CFC-12 All end-uses other than industrial process
+refrigeration, retrofit and new
+```
+```
+Lack of adequate assessment that
+characterizes incremental flammability risk
+R-141b CFC-11 centrifugal chillers, new High ODP; other substitutes with lower overall
+risk have been identified
+R-176 (contains CFC-12, HCFC-22, and HCFC-
+142b. It is a different product from RB-276,
+typically sold under the name "Free Zone.")
+```
+```
+CFC-12 All end-uses, retrofit and new Contains CFC-12
+```
+```
+R-403B R-502 All end-uses, retrofit and new Contains a perfluorocarbon that exhibits
+extremely high GWP*
+R-405A CFC-12 All end-uses, retrofit and new Contains a perfluorocarbon that exhibits
+extremely high GWP*
+MT-31 all CFCs and HCFCs All end-uses, retrofit and new Toxicity of a constituent
+Hexafluropropylene (HFP) and blends containing it all CFCs and HCFCs All end-uses, retrofit and new HFP is toxic
+NARM-22 HCFC-22 All end-uses, retrofit and new Contains HCFC-22
+Self-Chilling Cans using HFC-134a or HFC-152a CFC-12, HCFC-22,
+R-502
+```
+```
+Household Refrigeration, Transport
+Refrigeration, Vending Machines, Cold
+Storage Warehouses and Retail Food
+Refrigeration; retrofit and new.
+```
+```
+Unacceptably high greenhouse gas emissions
+from direct release of refrigerant to the
+atmosphere
+```
+_*See this EPA URL for more detailed information: https://www.epa.gov/snap/unacceptable-substitute-refrigerants._
+
+```
+Substitute Trade Name Retrofit/New ODP GWP ASHRAE Designation Snap Listing Date Listing Status
+```
+```
+R-414B Hot Shot, Kar
+Kool
+```
+```
+R/N 0.098 3,337 A1 October 16,
+1996;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+```
+```
+R-416A FRIGC FR-12,
+HCFC Blend Beta
+```
+```
+R/N 0.009 1,081 A1 June 13, 1995;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see rule.
+R-426A RS-24 R/N 0 1,510 A1 September 28,
+2006;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see notice.
+```
+```
+R-744 (Carbon Dioxide,
+CO 2 )^3
+```
+```
+N 0 1 A1 June 6, 2012 Acceptable with Use Conditions : See rule for
+detailed conditions.
+RS-24 (2002 formulation) R/N 0 1,510 A1 December 20,
+2002
+```
+```
+Acceptable with Use Conditions: See notice
+for detailed conditions.
+Small auxiliary power units that include an
+engine, electrical alternator, water pump, air
+conditioning compressor and a heat exchanger
+used in tractor trailers in conjunction with
+passenger compartment climate control
+systems that already use an acceptable
+substitute refrigerant.
+```
+```
+R/N 0 N/A N/A June 19, 2000 Acceptable
+```
+```
+SP34E SP34E R/N 0 <1,470 A1 December 18,
+2000;
+May 23, 2001;
+July 20, 2015
+```
+```
+Unacceptable as of MY 2017. Detailed
+conditions apply - see notice; use of new
+fittings for small refrigerant cans required.
+```
+```
+Stirling Cycle N 0 N/A N/A March 18, 1994 Acceptable
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Table 5 - Unique Fittings for MVAC Refrigerants
+
+A unique set of fittings is required for each and every refrigerant approved for use in motor vehicle air conditioning
+(MVAC) systems under EPA’s Significant New Alternatives Policy (SNAP). These fittings are attachment points on the car
+itself, on all recovery and recycling equipment, on large refrigerant containers, and taps on small cans of refrigerant
+and other charging equipment.
+
+_+_ **_Direct final rule_** _published March 26, 2012 and effective May 21, 2012 will change this to a left-handed screw fitting with diameter
+8/16 inches and Acme shaped threading with 16 threads per inch, consistent with SAE J 2844 (October 2011 edition)._
+
+```
+REFRIGERANT
+(same list repeats
+next page)
+```
+```
+HIGH SIDE SERVICE PORT LOW SIDE SERVICE PORT
+```
+```
+Diameter
+(inches)
+```
+```
+Pitch
+(threads/inch)
+```
+```
+Thread
+Direction
+```
+```
+Diameter
+(inches)
+```
+```
+Pitch
+(threads/inch)
+```
+```
+Thread
+Direction
+```
+```
+CFC-12 (pre-1987) 7/16 20 Right 7/16 20 Right
+CFC-12 (post-1987) 6/16 24 Right 7/16 20 Right
+HFC-134a Quick connect Quick connect
+Freeze 12 7/16 14 Left 8/16 18 Right
+Free Zone / HCFC
+Blend Delta 8/16^13 Right 9/16^18 Right
+R-414B/HCFC
+Blend Omicron/Hot
+Shot
+```
+```
+10/16 18 Left 10/16 18 Right
+```
+#### R-414A/GHG-X4/
+
+```
+HCFC Blend Xi/
+McCool Chill It
+```
+```
+.305 32 Right .368 26 Right
+```
+```
+6/16 24 Left 7/16 20 Left
+```
+```
+GHG-X5/Autofrost
+X5 8/16^20 Left 9/16^18 Left
+R-406A/GHG-12/
+GHG-X3/McCool .305^32 Left .368^26 Left
+R-416A/FRIGC
+FR-12/HCFC Blend
+Beta
+```
+```
+Quick connect, different from HFC-134a Quick connect, different from HFC-134a
+```
+```
+SP34E 7/16 14 Right 8/16 18 Left
+R-426A (RS-24,
+new formulation)
+```
+```
+Quick connect, different from HFC-134a
+and FRIGC FR-12
+```
+```
+Quick connect, different from HFC-134a
+and FRIGC FR-12
+R-420A 0.5625 (9/16) 18 Right 0.5625 (9/16) 18 Left
+```
+```
+HFO-1234yf
+```
+```
+Outside diameter 17 +0/-0.2mm Outside diameter 14 +0/-0.2mm
+Quick connect consistent with J639 (2011 version) Quick connect consistent with J639 (2011 version)
+```
+```
+HFC-152a
+```
+```
+Outside diameter 15 +0/-0.2mm + Outside diameter 14.1 +0/-0.2mm +
+Quick connect consistent with J639 (2011 version) Quick connect consistent with J639 (2011 version)
+```
+```
+R-744 (CO 2 )
+```
+```
+Outside diameter 18.1 +0/-0.2 mm + Outside diameter 16.6 +0/-0.2 mm +
+Quick connect consistent with J639 (2011 version) Quick connect consistent with J639 (2011 version)
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+The unique set of fittings for each refrigerant prevents the accidental mixing of different refrigerants. This helps pro-
+tect the purity of refrigerant in the MVAC system. An adapter may not be used to convert a fitting. This list includes all
+refrigerants listed under SNAP as acceptable, subject to use conditions, for MVAC as of May 21, 2012 for which unique
+fittings have been established. This table does not include GHG-HP/HCFC Blend Lambda or Ikon-12/Ikon A/Blend Zeta
+because unique fittings have not been developed or approved for those refrigerants.
+
+```
+REFRIGERANT
+(same list repeats
+previous page)
+```
+```
+30-LB. CYLINDERS SMALL CANS
+```
+```
+Diameter
+(inches)
+```
+```
+Pitch
+(threads/inch)
+```
+```
+Thread
+Direction
+```
+```
+Diameter
+(inches)
+```
+```
+Pitch
+(threads/inch)
+```
+```
+Thread
+Direction
+```
+```
+CFC-12 (pre-1987) 7/16 20 Right 7/16 20 Right
+CFC-12 (post-1987) 7/16 20 Right 7/16 20 Right
+HFC-134a 8/16 16 Acme Right 8/16 16 Acme Right
+Freeze 12 8/16 18 Right 6/16 24 Right
+Free Zone / HCFC
+Blend Delta 9/16^18 Right 6/16^24 Left
+R-414B/HCFC
+Blend Omicron/Hot
+Shot
+```
+```
+10/16 18 Right 5/16 24 Right
+```
+#### R-414A/GHG-X4/
+
+```
+HCFC Blend Xi/
+McCool Chill It
+```
+```
+.368 26 Right 14mm 1.25mm spacing Left
+```
+```
+GHG-X5/Autofrost
+X5 9/16^18 Left Not sold in small cans
+R-406A/GHG-12/
+GHG-X3/McCool .368^26 Left 8/16^20 Left
+R-416A/FRIGC
+FR-12/HCFC Blend
+Beta
+```
+```
+8/16 20 Left 7/16 20 Left
+```
+```
+SP34E 8/16 18 Left 5/16 24 Left
+R-426A (RS-24,
+new formulation)
+```
+```
+Quick connect, different from HFC-134a
+and FRIGC FR-12
+```
+```
+Quick connect, different from HFC-134a
+and FRIGC FR-12
+R-420A 0.5625 (9/16) 18 Left 0.5625 (9/16) 18 Right
+```
+```
+HFO-1234yf
+```
+```
+8/16 16 Acme Left^ 8/16 16 Acme Left
+```
+```
+Consistent with SAE J2844 (Oct 2011 version) Submitted, but as of 12/2017 not approvedby the EPA
+```
+```
+HFC-152a Not yet developed* Not yet developed*
+```
+```
+R-744 (CO 2 ) 20.955 +0/-0.127 mm and right-hand thread direction Not yet developed; additional information must be submitted to EPA.*
+```
+## * These refrigerants have not been marketed yet; therefore, fittings have not been developed.
+
+## ^ This unique fitting applies to containers of HFO-1234yf for professional servicing only (77 FR 17344).
+
+```
+Beginning on January 1, 2018, small cans of MVAC refrigerants (including R-134a and R-1234yf) are required
+to be manufactured with self-sealing valves. See EPA Snap Rules on page 52 for more information.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Table 6 - MVAC Refrigerant Label Colors
+
+Historically, EPA established specific label colors for
+each refrigerant as part of its SNAP approval. This table
+includes only those refrigerants for which EPA required
+use of a specific label color as part of the listing deci-
+sion. This table does not include all MVAC refrigerants,
+such as those for which labeling was never developed.
+Also, the use conditions for HFC-152a, R-744 (CO 2 ) and
+HFO-1234yf require compliance with SAE J639, which
+specifies the markings required on labels, but not unique
+label colors. These refrigerants are not included in the
+table below and must be labeled in accordance with SAE
+J639.
+
+```
+REFRIGERANT BACKGROUND
+CFC-12 White
+HFC-134a Sky Blue
+Freeze 12 Yellow
+Free Zone / RB-276 Light Green
+Hot Shot Medium Blue
+GHG-X4 Red
+R-406A Black
+GHG-X5 Orange
+GHG-HP Not developed yet*
+Ikon-12 / Ikon A Not developed yet*
+FRIGC FR-12 Grey
+SP34E Ta n
+RS 426A (RS-24, new formulation) Gold
+R420A Dark Green (PMS #347)
+* These refrigerants have not been marketed yet; therefore,
+label colors have not been developed.
+```
+```
+Standard J2845: R-1234yf (HFO-1234yf) Technician Training for Service and Containment of Refrigerant Used in
+Mobile A/C Systems
+Issuing Committee: SAE International Interior Climate Control Service Committee
+Technician training is required to ensure that recommended procedures are used for service and repair of mobile
+air conditioning (MAC) systems using R-1234yf. The technician shall be trained to recognize which refrigerant is
+being handled, how to handle it safely and be equipped with the essential information, proper equipment and
+tools, which are unique to each refrigerant. Training programs designed in accordance with this standard are not
+intended to ensure or assess the technical skills of technicians regarding the diagnosis and repair of motor vehicle
+air conditioners. Rather, the goal of such programs is to provide information to technicians about safely handling
+refrigerants.
+```
+## Best Service Practices for HFO-1234yf Systems
+
+### Introduction
+
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+Besides following all of the GENERAL safety procedures,
+HFO-1234yf has additional SPECIFIC safety require-
+
+1. HFO-1234yf is classed by ASHRAE as **_A2L – Mildly Flammable_**. It can ignite under certain circumstances. Always
+    follow these steps before working with this chemical:
+    A. Insure good ventilation in the work area and do not allow the refrigerant to pool in or under the vehicle, or
+       in any low area such as a stairwell or pit. Keep car doors and windows open when charging the A/C system
+       to prevent an accumulation of refrigerant in case of a major refrigerant leak.
+    B. Remove ALL sources of sparks, flame or high heat from the immediate work area. This may include non-A/C
+       related equipment such as grinders, welders, dryers and similar equipment. Some common shop tools contain
+       electric motors or switches which spark internally; move this equipment to a safer area. Remember also that
+       a vehicle’s ignition system can produce external sparks under some conditions – take great care to prevent
+       arcing and accidental grounding of electrical circuits.
+    C. Use LED work lights to prevent the risk of a broken bulb in the work area.
+    D. Do not smoke or permit smoking anywhere in or near the work area.
+    E. Keep well-maintained fire extinguishers in the work area and know how to use them.
+2. Avoid contact with liquid or gaseous refrigerant. Always wear personal protective equipment (PPE) during ser-
+    vice, particularly goggles with side panels, and gloves (impermeable to refrigerant). Exposure of the skin to
+    refrigerant may result in frostbite, in which case rub the affected area with lukewarm water. A physician shall
+    be consulted immediately regarding the affected skin areas.
+    A. A physician shall be consulted immediately in the event of complaints following exposure to high refriger-
+       ant concentrations. Complaint symptoms may include: Increased breathing rate, breathlessness, headache,
+       accelerated pulse, dizziness.
+3. Do not store refrigerant tanks in low areas such as basements or stairwells and do not transport tanks without
+    securing them.
+4. If the vehicle uses hybrid or all-electric propulsion, follow the correct procedure to de-activate the high volt-
+    age electrical system before beginning repairs. Note that these de-activation procedures may require additional
+    personal protective equipment.
+5. Prevent accidental release and exposure to refrigerant — only connect service equipment when high-side pres-
+    sures have decreased, usually after the engine and compressor have been off for three minutes or more.
+6. Do not allow anyone under the vehicle while recharging the system. Unexpected refrigerant leakage or a sud-
+    den release of the pressure valve will pool refrigerant near the ground. Always maintain good ventilation in the
+    work area.
+7. HFO-1234yf may only be used in systems specifically designed for it. Do not use this refrigerant in older cars,
+    and do not use different refrigerants in a car designed for HFO-1234yf.
+8. Each machine or device used to service a system with HFO-1234yf must be designed and approved for use with
+    a flammable gas. Do not attempt to use equipment designed for other refrigerants on this system.
+9. Read the label on the vehicle and know the correct amount of refrigerant to return into the system after
+    evacuation.
+10. Order the correct repair parts. Evaporators for HFO-1234yf systems are not the same as those used with HFC-
+    134a, and other system components may be different as well.
+11. You are responsible for the work you perform. Do not put your customers at risk with faulty, incorrect or quick-
+    fix repairs.
+
+```
+ments. To work safely with this chemical, a technician
+must know and follow these procedures.
+```
+### HFO-1234yf: Specific Safety Procedures
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+The refrigerant HFO-1234yf is similar to, but not the
+same as, HFC-134a.
+
+HFO-1234yf has been listed under EPA’s SNAP as accept-
+able, subject to use conditions, for use in new vehicles;
+the refrigerant was not listed as acceptable for retrofit.
+The use conditions for HFO-1234yf include compliance
+with SAE J639, and manufacturers must conduct Fail-
+ure Mode and Effect Analysis (FMEA) as provided in SAE
+J1739. (Additional information may be found in 40 CFR
+82, subpart G, appendix B.) The new system designs will
+include some new components and materials.
+
+Risks and Hazards
+
+The primary difference between this refrigerant and
+HFC-134a is its flammability, and care must always be
+taken concerning this hazard. However, technicians work
+with and around a variety of flammable materials every
+day including fuels, lubricants, welding gases and other
+materials. Common sense and safe shop practices can
+greatly reduce any hazard from this gas.
+
+To become flammable in an enclosed area (such as a ve-
+hicle’s cabin), the mixture of air and refrigerant must
+contain between 6.5% and 12.3% of the chemical va-
+por. Additionally, the mixture then requires a significant
+amount of energy to ignite—in some laboratory tests a
+spark similar to a direct short at the battery did not ignite
+the mixture. Other tests showed that a typical static dis-
+charge will not have sufficient energy to ignite the refrig-
+erant. It is difficult to ignite, but not impossible.
+
+Because of its flammability, and the possibility of re-
+frigerant build-up in the passenger area from a leaking
+evaporator, manufacturers are being very careful in their
+system design. The industry has agreed to use special
+stronger evaporators in these systems. These units pro-
+vide increased protection against corrosion and bursting
+and are also more resistant to pinhole leakage.
+
+The increased performance specifications for evapora-
+tors are explained in SAE Standard J2842. It requires
+all evaporators for HFO-1234yf systems, both original
+equipment and replacement, to have a permanent mark-
+ing (label, stamp, or etching) indicating the refrigerant
+for which it was designed and that the evaporator design
+meets the requirements of SAE J2842. **(Note: Only new
+evaporators should be used in CO 2 systems, as well.)**
+
+Also note that it is unsafe to attempt any shop repair
+on a leaking evaporator – it should always be replaced
+with a correct, new unit to maintain occupant safety.
+
+```
+Comparison of energy required to ignite various chemical mix-
+tures. (W. Hill & SAE Int’l)
+```
+### Unique Properties of HFO-1234yf Systems
+
+#### SAFETY IS IMPORTANT
+
+```
+Read the Material Safety Data Sheet (MSDS) for HFO-
+1234yf. The MSDS gives details of how to handle
+problems, including accidental inhalation, spills and
+fires. MSDS and product safety sheets are available
+from many sources, including your refrigerant sup-
+plier or on the Internet.
+```
+```
+Standard J2844: R-1234yf (HFO-1234yf) New Re-
+frigerant Purity and Container Requirements for
+Use in Mobile Air Conditioning Systems
+Issuing Committee: SAE International Interior Climate
+Control Fluids Committee
+This SAE Standard applies to new refrigerant used in
+motor vehicle passenger air conditioning (A/C) sys-
+tems designed to use R-1234yf, including belt and
+electrically driven compressors. Refrigerant for use
+in hermetically sealed, refrigerated cargo systems is
+not covered by this document.
+```
+```
+The re-use of a salvage or used evaporator from anoth-
+er vehicle may be dangerous and is not recommended,
+although a refrigerant control device such as a thermal
+expansion valve (TXV) or block valve may be reused if
+it is serviceable.
+As these systems are developed and refined by their man-
+ufacturers, other components may also change including
+hose materials and desiccants. Always be very careful to
+order correct replacement parts for these systems.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+PURCHASE, STORAGE, AND TRANSPORT
+All compressed gas in cylinders or portable tanks must
+be stored, handled and transported in accordance with
+the Compressed Gas Association Pamphlet P-1. Storage
+of multiple containers of refrigerant may be subject to
+local, state or federal rules or regulations.
+Refrigerant cylinders must not be: exposed to direct sun-
+light or any other heat source; subject to mechanical stress
+resulting from dropping or throwing; stored in below ground
+areas or in front of cellar windows; filled in the workshop
+by workshop personnel; filled with another refrigerant; or
+transported without being securely stowed.
+In general, do not expose any compressed gas cylinders
+(HFC-134a, HFO-1234yf, CO 2 , etc.) to temperatures in ex-
+cess of 52 degrees C (125 degrees F), as this will result
+in cylinders becoming liquid full.
+Rules from the U.S. Department of Transportation (DOT)
+already cover transporting flammable compressed gas-
+ses. In general, they affect large shipments by truck, rail,
+ocean or air. However, shops and suppliers who transport
+more than a few refrigerant containers at a time should
+review the DOT rules to see if any changes will be needed.
+```
+```
+Similarities to HFC-134a
+Although HFO-1234yf is not the same as HFC-134a, it is
+similar in many ways. As a refrigerant, it works at almost
+the same temperatures and pressures as HFC-134a.
+Vapor pressures for the two refrigerants are very similar.
+A technician will find that many present diagnostic pro-
+cedures, such as measuring inlet and outlet tempera-
+tures at the condenser, will produce familiar results in
+these systems.
+Industry tests showed that PAG oil is satisfactory for
+use with HFO-1234yf. PAG oil does not damage plastic or
+elastomeric components like the seals, connectors and
+o-rings used in an air conditioning system. The correct
+amount and type of oil will be determined by each ve-
+hicle or system manufacturer and may be shown on a
+label under the hood.
+However, not all vehicles will use PAG oil. Many hybrids
+and other vehicles with electric compressors require a
+POE or other oil. Always check for the label to learn the
+correct TYPE of oil and then use the correct AMOUNT of
+oil during repair.
+```
+```
+-40 -20 020406080 100
+```
+```
+0
+```
+```
+0.5
+```
+```
+1
+```
+```
+1.5
+```
+```
+2
+```
+```
+2.5
+```
+```
+3
+```
+```
+3.5
+```
+```
+R-134a
+R-1234yf
+```
+```
+Vapor Pressure
+```
+```
+PRESSURE, MPa
+```
+```
+TEMPERATURE, °C
+```
+_Vapor pressures for the two refrigerants are very similar except
+at extreme pressures._
+
+```
+Example of a high voltage disconnect device on a hybrid
+vehicle. When performing service on any hybrid or electric
+vehicle, ALWAYS follow the vehicle manufacturer’s recom-
+mended safety procedures.
+```
+```
+Hybrids and EVs
+Many hybrid and electric vehicles use air condition-
+ing compressors operated by high voltage. These
+types of vehicles usually incorporate a device to
+disconnect high voltage from the air conditioning
+system components. Before performing service on
+these systems, follow the vehicle manufacturer’s
+recommended safety procedures. Not doing so could
+result in serious injury or death.
+```
+```
+Note: Proper operation of the mobile air conditioning and cooling systems in a hybrid vehicle is important not only for
+passenger comfort, but for the optimal operation of on-board computers and battery packs.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+### Tanks, Labels, and Fittings
+
+Refrigerant Tanks
+
+Tanks containing HFC-134a are light blue in color. Tanks
+and containers of HFO-1234yf are identified by informa-
+tion on printed labels and by the color and design of the
+container itself. To prevent confusion, HFO-1234yf con-
+tainers will be white with a red stripe or band. The red
+is used to remind users that the product is flammable.
+
+```
+The refrigerant label is easy to find on the 2013 Cadillac XTS but
+you may have to look around on other vehicles.
+```
+```
+Label used on the 2013 Cadillac XTS, the first GM car to use the
+new refrigerant.
+```
+```
+The label for HFO-1234yf systems contains more infor-
+mation than those used on HFC-134a systems.
+```
+```
+Note that, at the left of the label, the triangle and excla-
+mation mark is the international symbol for a hazard. The
+center symbol indicates that the product is flammable,
+and the last one shows that special training is required to
+use this product. (The worker has a small medal or ribbon
+denoting completed training.)
+Across the top are the symbols for “keep hands clear” and
+automatic fan(s) plus a warning that injury can occur –
+note the severed fingers! The last symbol directs techni-
+cians to consult “Information” in the service manual.
+The snowflake is an international automotive symbol for
+air conditioning – it is used to identify both the refrig-
+```
+Refrigerant Labels
+
+**CONTAINERS**
+
+The label and printed matter on the refrigerant container
+will identify the contents and provide limited emergency
+response information, including telephone numbers for
+use in an emergency. There are also directions for safe
+storage and handling of the chemical and other infor-
+mation. Note that the company may also display a trade
+name for the product and the names may be very different
+between companies. Always check that the tank contains
+HFO-1234yf and not another refrigerant.
+
+**VEHICLES**
+
+U.S. law requires every vehicle manufacturer to provide
+a standard label identifying the type and quantity of re-
+frigerant used in the vehicle’s air conditioning system and
+also the type of compressor lubricant (oil) used.
+
+The label is always located in the engine compartment
+and is frequently on a crossmember near the radiator, or
+on the underside of the hood.
+
+_Aftermarket packaging of one brand of HFO-1234yf._
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+erant and the type of lubricating oil (oil lamp symbol).
+Note that the amount of refrigerant may be indicated
+in kilograms, grams, ounces or pounds-and-ounces. De-
+pending on your service equipment, you may have to
+perform mathematical conversions of the units before
+performing repairs and recharging.
+
+Fittings
+
+The law requires that the service fittings (“ports”) and
+connectors be unique for each refrigerant used. This re-
+quirement prevents contamination by assuring that ser-
+vice equipment for one refrigerant will not connect to
+a system using a different chemical. The rule applies
+to connections on supply tanks, service tools and the
+vehicle itself.
+
+Most vehicle air conditioning systems have two service
+ports – HI pressure and LO pressure – while others have
+
+```
+only one. You may find the same thing on vehicles using
+HFO-1234yf refrigerant, but the service ports for these
+vehicles are different in size, shape and thread patterns
+from those on older systems.
+The service ports on HFO-1234yf vehicles also still use
+the protective external caps, but the caps are new and
+use the new diameter and threads.
+Your service and test equipment and the refrigerant
+tanks must have the correct connectors to match and
+connect to the vehicle. You will have to purchase new
+equipment (manifold gauges, recovery machines, etc.)
+to service HFO-1234yf refrigerant systems.
+Do NOT attempt to connect older or incorrect equipment
+to these systems. Forcing a connector into place or us-
+ing any type of adapter is not safe and is illegal.
+```
+### Identifying HFO-1234yf
+
+Technicians must always identify the refrigerant in a
+system before any other work is performed. It is criti-
+cally important to keep refrigerants separated and to
+prevent contamination in both the vehicle and in your
+shop equipment. Mixing refrigerants, even accidentally,
+can lead to improper system pressures, system and com-
+ponent damage, diagnostic errors, and hazards to people
+and the environment.
+
+Start by checking the refrigerant label to learn what
+should be in the system. Then connect the identifier to
+learn what is in the system. Remember that labels may
+be missing and owners may install adapters and other
+refrigerants.
+
+A vehicle may also have been repaired with incorrect
+or impure refrigerant during mechanical or body shop
+repairs, or even by an owner trying to save some money.
+An identifier can prevent harmful chemicals from enter-
+ing your shop equipment. You can also use the tool to
+double-check what is in a tank of refrigerant.
+
+SAE J2843 requires that all recovery/recycle/recharge
+machines built for use with HFO-1234yf have either an
+integrated refrigerant identifier that complies with SAE
+J2927 or shall be capable of receiving input from a non-
+integrated, SAE J2912 compliant identifier, via an inte-
+grated USB port.
+
+Identifiers are simple to use. Some detect certain refrig-
+erants, while others are capable of sensing many gases.
+Naturally, you need a refrigerant identifier that is ca-
+pable of detecting HFO-1234yf.
+
+```
+Neutronics, Inc. refrigerant identifier
+```
+```
+If you already have a refrigerant identifier for other re-
+frigerants, it is unlikely that it can be updated to also
+identify HFO-1234yf. You will need a new unit. When
+you purchase a refrigerant identifier (which is not part
+of a recovery/ recycle/ recharge machine) make certain
+it meets the specifications of SAE J2912. That document
+establishes criteria for the identifier’s level of sensing
+accuracy and other functions.
+Keep in mind that even the best identifier may not be
+able to identify all of the possible combinations of
+chemicals that could be in an A/C system or storage
+tank.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+them from damage. Any detector you purchase should
+meet the performance requirements of SAE Standard
+J2913, which insures the tool (when set to its most sen-
+sitive mode) will be able to detect a leak as small as 0.15
+ounces per year.
+```
+```
+WARNING
+If your refrigerant identifier shows an indication of
+“HC” or “hydrocarbon,” take extra caution.
+These gases, (propane, butane, or others) are highly
+flammable and explosive. Take extreme care to con-
+tain these chemicals properly and recover them with-
+out leakage, using appropriate equipment.
+```
+Refrigerant identifiers are delicate electronic tools. They
+should be used carefully, stored properly and given peri-
+odic service to maintain their operation.
+
+Connect the refrigerant identifier according to instruc-
+tions that came with it. You may need to allow a bit of
+time for the unit to perform an internal calibration.
+
+After the identifier samples the refrigerant, it will re-
+port the results. Some tools give only a Pass-Fail in-
+dication while others will report the percentages of
+
+```
+REMEMBER
+Always identify the refrigerant in every system before
+beginning work.
+```
+### Finding Leaks
+
+Electronic Leak Detectors
+
+Make certain that your leak detector will recognize and
+react to HFO-1234yf.
+
+Electronic leak detectors are sold under many brand
+names and use different methods to detect refrigerant.
+They require maintenance and careful use to protect
+
+```
+chemicals found. Identifiers that meet the SAE speci-
+fication look for at least 98% concentration before re-
+porting that the refrigerant is “pure.” If the identifier
+shows “Fail” or reports mixtures of refrigerants, the
+system must be evacuated into a “junk” tank, not the
+regular supply tanks of refrigerant.
+```
+_Electronic leak detectors are available from these and other manufacturers._
+
+```
+CPS Automotive Inficon Robinair
+Group
+```
+```
+Techno Tools
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+Robinair
+```
+```
+Bright Solutions International
+```
+```
+Trace dyes, injectors, and detection lights are available individu-
+ally or in kits from many suppliers.
+```
+```
+Standard J2299: Ultraviolet Leak Detection: Per-
+formance Requirements for Fluorescent Refrigerant
+Leak Detection Dye Injection Equipment for After-
+market Service of Mobile Air Conditioning Systems
+Issuing Committee: SAE International Interior Climate
+Control Fluids Committee
+This SAE Standard applies to fluorescent refrigerant
+leak detection dye injection equipment for use in
+ultraviolet leak detection when servicing mobile air
+conditioning systems.
+```
+Using Dyes
+
+Before adding any dye to an A/C system, you must
+know what its manufacturer recommends. If a dye is
+permitted, you must use a product that is compatible
+with HFO-1234yf.
+
+_The leaking dye will glow under ultraviolet light. (Courtesy CPS
+Automotive Group)_
+
+```
+CPS Automotive Group
+```
+```
+Read the label and make sure the dye product you choose
+meets SAE specification J2297. By meeting this criteria,
+you are assured that the dye is compatible with the re-
+frigerant and will not harm seals or lubricants.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+### Using Recovery, Recycling, and Recharging Equipment
+
+_The certification label shows the standards the unit meets and
+that the machine is for HFO-1234yf only (Courtesy Robinair)._
+
+```
+Prior to operating the R/R/R machine, the technician
+will need to identify the vehicle or its refrigerant capac-
+ity by entering the data through the machine’s keyboard.
+```
+Basic Rules
+
+1. Every tool or machine used to service or repair an
+    HFO-1234yf system MUST be approved for use with
+    that refrigerant.
+2. Fittings and connectors for HFO-1234yf are different
+    from any other refrigerant.
+
+Equipment Certification
+
+Equipment for HFO-1234yf has been designed to safely
+handle flammable gas, and this equipment is NOT the
+same as equipment for other refrigerants.
+
+For HFO-1234yf, recovery/recycling/recharge equipment
+must meet SAE Standard J2843 or J3030. Recovery-only
+units must meet SAE Standard J2851. Always use equip-
+ment that meets these standards.
+
+**WHY IT’S IMPORTANT**
+
+Since HFO-1234yf A/C systems use a different refriger-
+ant, some steps and processes for servicing the system
+are different from other refrigerants. In all cases, the
+refrigerant MUST be recovered.
+
+A/C System Recharge
+
+Recovery and recharge equipment for HFO-1234yf repre-
+sents a new generation of tools. The equipment is de-
+signed to prevent refrigerant leakage by checking the
+system under both vacuum and pressure.
+
+```
+Standard J2888: R-1234yf Service Hose, Fittings
+and Couplers for Mobile Refrigerant Systems Ser-
+vice Equipment
+Issuing Committee: SAE International Interior Climate
+Control Service Committee
+This SAE Standard covers fittings, couplers, and hoses
+intended for connecting service hoses from mobile
+air conditioning systems to service equipment such
+as charging, recovery and recycling equipment. This
+specification covers service hose fittings and cou-
+plers for MAC service equipment service hoses, per
+SAE J2843, SAE J3030, and SAE J2851, from mobile air
+conditioning systems to service equipment such as
+manifold gauges, vacuum pumps, and air conditioning
+charging, recovery and recycling equipment.
+```
+```
+Standard J2099: Standard of Purity for Recycled
+R-134a (HFC-134a) and R-1234yf (HFO-1234yf) for
+Use in Mobile Air Conditioning Systems
+This฀SAE฀Standard฀applies฀to:฀•฀recycled฀R-134a฀re-
+frigerant, used in servicing of motor vehicle air con-
+ditioning (A/C) systems that were designed for use
+with R-12 and have been retrofitted for use with R-
+134a;฀•฀recycled฀R-134a฀refrigerant,฀used฀in฀servic-
+ing of motor vehicle air conditioning (A/C) systems
+that฀were฀designed฀for฀use฀with฀R-134a;฀•฀recycled฀
+R-1234yf refrigerant, used in servicing of motor ve-
+hicle air conditioning (A/C) systems that were de-
+signed for use with R-1234yf. Hermetically sealed,
+refrigerated cargo systems are not covered by this
+document.
+Specifications for recycled R-1234yf :
+3.1.1.1 High Boiling Residues (Lubricant) - 500 ppm
+by weight, by gravimetric method
+3.1.1.2 Non-condensable Gases (Air) - 1.5% by vol-
+ume, at 23.9 ºC by gas chromatography
+3.1.1.3 Moisture - 50 ppm by weight, by Karl Fischer
+method, or an equivalent method
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+```
+If a leak is detected, the equipment will continue to
+hold for further external leak checking, and will lock
+out all operations except recovery and/or re-evacuation.
+If the vacuum decay and pressurized leak checks are
+passed, then the balance of the programmed amount
+will be charged.
+Extra care should be taken to avoid significant over-
+charging of the refrigerant system.
+```
+```
+Critical Charges
+HFO-1234yf systems use much less refrigerant than old-
+er systems, and are less tolerant of incorrect amounts.
+HFO-1234yf systems are designed to work best with a
+specific amount of refrigerant. More is NOT better, and a
+larger charge will not make the system cool better.
+Although most recharging will be done with automatic
+equipment, mistakes are still possible and technicians
+must take every care to be accurate.
+Undercharges can result in poor cooling and poor lubri-
+cant circulation in the compressor. Too much refriger-
+ant or overcharging can cause high operating pressures,
+and poor cooling in the cabin.
+```
+```
+CPS Products Mahle Service Solutions Robinair
+```
+```
+READ THE LABEL - HEED THE LABEL!
+Do not install an additional problem for
+your customer.
+Always read the refrigerant capacity label on the
+vehicle and install that amount.
+```
+_You will need a new R/R/R machine just for HFO-1234yf. Some are available now and more will enter the market soon._
+
+Before delivering a full system charge, equipment used
+to recharge R-1234yf systems will first place the system
+under a minimum vacuum of -0.09 MPa gauge (26.9 in
+of mercury). The machine will then monitor the applied
+vacuum, and note if it decays. If the slope of the vacuum
+decay exceeds 51mm Hg/min (2.0 in HG/min) in five min-
+utes, a leak is indicated and the machine will not permit
+the recharge process to continue. The technician shall
+locate and repair the leak(s) before again attempting to
+recharge the system.
+
+If the system passes the vacuum decay check, the ma-
+chine will instruct the user to turn the vehicle’s HVAC
+blower motor on low (A/C off), with air distribution
+mode set to “floor,” to run the blower for 1-2 minutes
+to clear any residual contamination, and to place an op-
+erating J2913 compliant leak detector’s probe, with the
+unit set for maximum sensitivity, in the center of a floor
+ducts outlet.
+
+The machine will require the user to verify that the leak
+detector is in place and the blower motor is on low. If
+“No,” the machine will not allow user to continue.
+
+If “Yes,” the machine will charge 15% of the refrigerant
+system charge specified on the SAE J639 vehicle label,
+into both the high and low sides of the system. The
+user will be required to monitor the J2913 leak detector
+for 5 minutes for indication of a leak. The machine will
+require the user to indicate if a leak is detected or not.
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+### System Servicing Procedures.
+
+### EPA SNAP Rules
+
+Working with HFO-1234yf is not difficult, but it is dif-
+ferent from many procedures you already know. At all
+times, the secrets to success are knowledge and safety.
+
+Remember the Basics:
+
+```
+Learn and follow the safety procedures for storage
+and handling of HFO-1234yf. Anticipate problems
+and eliminate them.
+All refrigerant (except CO 2 ) must be recovered. Re-
+frigerant oil must also be recovered and disposed of
+according to all federal, state and local rules.
+Prevent contamination of refrigerants by using the
+proper equipment on each vehicle. Always identify
+refrigerants in a system before beginning any other
+work or connecting other equipment.
+Have the correct equipment before beginning. Any
+equipment connected to an HFO-1234yf system must
+be rated or approved for use with a flammable gas.
+```
+```
+Any component used to repair an HFO-1234yf air
+conditioning system MUST be rated or approved for
+use with that refrigerant. Substituting other com-
+ponents may present a hazard to vehicle occupants.
+For occupant safety, always replace failed evapo-
+rators with new units specifically designed for the
+task and complying with SAE J2842. Never attempt
+to repair a leaking HFO-1234yf evaporator or replace
+it with a used (salvage) unit.
+Always replace o-rings and seals with new pieces.
+Reusing old parts usually causes leaks.
+Take care to align the components when mating fit-
+tings and seals. Mount all components and lines
+securely to eliminate vibration and rubbing.
+Always tighten threaded fittings to the correct
+torque value given by the manufacturer.
+```
+2016 EPA SNAP Update
+
+On September 26, 2016, US EPA finalized rules that will
+reduce the projected growth and emissions of HFCs. They
+affect Section 608 of the Clean Air Act, which extends
+the ODS (Ozone Depleting Substance) sales restriction
+to HFCs and other non-exempt substitutes, with the ex-
+ception of small cans containing two pounds or less of
+(primarily) HFC-134a for servicing motor vehicle air con-
+ditioners. These small cans can continue to be sold with-
+out technician certification so long as the small cans
+have a self-sealing valve to reduce refrigerant leakage.
+It also applies to other non-ozone depleting substitutes
+
+```
+such as R-1234yf, the new HFO that’s quickly becoming
+the replacement of choice for car and light truck manu-
+facturers around the world due to its lower GWP (global
+warming potential).
+The rule also lists HFO-1234yf as acceptable, subject
+to use conditions, for limited HD vehicle types, such as
+medium-duty passenger vehicles, HD pickup trucks and
+complete HD vans. It allows the use of yf in newly manu-
+factured medium and heavy duty vehicles with a GVWR
+of between 8,500 and 14,000 pounds (Classes 2b and 3)
+that are built with an air conditioning system designed
+to use R-1234yf.
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+## REFRIGERANT RECYCLING AND SERVICE PROCEDURES FOR
+
+## MOBILE AIR CONDITIONING TECHNICIANS
+
+Before the 1990s, it was common practice during the
+service of mobile air conditioning systems to just add
+refrigerant to leaking systems. It was also common prac-
+tice to vent the entire refrigerant charge to the atmo-
+sphere if the refrigeration system required any type of
+service which involved opening the refrigerant circuit.
+These practices were acceptable because refrigerant was
+relatively inexpensive and thought to be environmen-
+tally benign.
+
+But, knowing what we do today about the role of CFC-12
+in the degradation of the earth’s protective ozone layer,
+and the potential of global warming, venting refriger-
+ants is irresponsible and is not permitted. Under the
+Clean Air Act, this activity is illegal; the EPA prohibits
+the venting of all mobile A/C refrigerants, except CO 2.
+
+### The Historical Context
+
+### Ozone Depletion
+
+Ozone is a pungent, slightly blue gas that absorbs certain
+wavelengths of the sun’s radiation. Ozone is concentrat-
+ed in a part of the atmosphere called the stratosphere.
+The stratosphere is located between 10 and 30 miles
+above the earth’s surface.
+
+The ozone layer acts as a shield against harmful solar Ultra-
+violet Beta (UVB) radiation. Ozone normally absorbs UVB.
+Decreasing the amount of stratospheric ozone results in
+higher levels of UVB reaching the earth’s surface, and this
+increase can be harmful to humans, animals, plants, and
+the environment as a whole. It is estimated that for every
+percentage point that stratospheric ozone is reduced, ex-
+posure to ultraviolet radiation is increased by 1.5 to 2%.
+
+Substances like chlorine, from synthetic chemicals called
+chlorofluorocarbons (CFCs), and bromine, from chemi-
+cals called halons, when released to the atmosphere,
+react in a way which reduces the amount of ozone in
+the stratosphere. CFCs were used as blowing agents in
+plastic foam products (cushioning, insulation and pack-
+aging), as refrigerants, as solvents, as sterilants, and in
+aerosol applications. Additionally, halons are used as fire
+extinguishing agents.
+
+Growing awareness about the threat to the global envi-
+ronment, and the type and amount of refrigerant used
+
+```
+CFCs were used for many different purposes, including refriger-
+ants in mobile A/C systems prior to about 1992. Leaks and other
+releases allow them to enter the atmosphere.
+```
+```
+To protect the ozone layer, the United States, and over
+180 other nations ratified the 1987 Montreal Protocol on
+Substances which Deplete the Ozone Layer. This land-
+mark international agreement is designed to control the
+production and consumption of certain chlorofluorocar-
+bon and halon compounds.
+Before the early 1990s, mobile air conditioning systems
+used CFC-12 refrigerant. With the advent of the Montreal
+Protocol, the industry changed to HFC-134a. In 1990,
+the U.S. Clean Air Act addressed the refrigerants used in
+mobile air conditioning systems.
+CFC-12 has both an Ozone Depletion Potential (ODP) and
+Global Warming Potential (GWP). HFC-134a is not ozone-
+depleting, but is considered to have global warming po-
+tential. By late 1994, all new mobile air conditioning
+systems produced in the United States used HFC-134a.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+in mobile air conditioning systems, resulted in system
+design changes, and new service procedures and equip-
+ment to reduce system lifetime emissions.
+
+```
+The ozone layer is located in the stratosphere about 10 to 30
+miles (16 to 48 kilometers) above the earth’s surface.
+```
+CFCs and their Effect on Ozone
+
+Possible depletion of the ozone layer from CFCs was
+first reported in 1974. Research indicated that chlorine
+released from CFCs could migrate to the stratosphere
+and destroy ozone molecules (Molina and Rowland,
+1974).
+
+Some CFCs have an atmospheric lifetime of more than
+120 years (which means they do not break down in the
+lower atmosphere). As a result, they migrate slowly to
+the stratosphere where radiation from sunlight strikes
+them, releasing chlorine.
+
+In the stratosphere, these chemicals absorb UV radia-
+tion, break apart, and react with ozone, taking away one
+oxygen atom and forming chlorine monoxide. Chlorine
+monoxide further breaks down ozone by pulling away
+a single oxygen atom, creating two oxygen molecules.
+
+Once freed, the chlorine acts as a catalyst, repeatedly
+combining with, and breaking apart ozone molecules. It
+is believed that one CFC molecule can destroy as many as
+100,000 ozone molecules.
+
+Because of the long atmospheric lifetimes of CFCs, it
+will take many decades for the ozone layer to return to
+its former concentration. As CFC levels are reduced, the
+natural atmospheric process will rebuild the ozone level.
+
+```
+Chlorine atoms from CFCs break apart ozone molecules. This re-
+sults in a reduction of stratospheric ozone.
+```
+```
+1) In the upper atmosphere, ultraviolet light breaks off
+a chlorine atom from a chlorofluorocarbon molecule.
+```
+```
+2) The chlorine attacks an ozone molecule, breaking it
+apart. An ordinary oxygen molecule and a molecule
+of chlorine monoxide are formed.
+```
+```
+3) A free oxygen atom breaks up the chlorine monoxide
+molecule. The chlorine atom is then free to repeat
+the process.
+```
+```
+Chlorofluorocarbon
+molecule
+```
+```
+Chlorine atom
+```
+```
+Chlorine
+atom
+```
+```
+Ozone Molecule
+```
+```
+ULTRAVIOLET
+LIGHT
+```
+```
+Chlorine monoxide
+```
+```
+Oxygen molecule
+```
+```
+New oxygen
+molecule
+```
+```
+Former chlorine
+monoxide molecule
+```
+```
+Free oxygen
+atom
+```
+```
+Ozone molecule
+```
+```
+This shows how ozone depletion has resulted in an ozone hole
+located over the South Pole.
+```
+```
+Until that time, increased UV levels can lead to a greater
+chance of overexposure to UV radiation and the health
+and environmental problems that result.
+```
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+_Types of skin cancer_
+
+_Increased levels of UV radiation can contribute to the formation
+of cataracts._
+
+Health and Environmental Effects
+
+The Environmental Protection Agency’s (EPA) assess-
+ment of the risks from ozone depletion has focused on
+the following issues:
+
+```
+Increases in skin cancers
+Increases in cataracts
+Damage to the human immune system
+Damage to crops
+Damage to aquatic organisms
+```
+Other Impacts
+
+**Degradation of Polymers** - Ozone depletion accelerates
+weathering (i.e. chalking, yellowing, and cracking) of
+plastics used in outdoor applications.
+
+**Climate Change** - CFCs (and HFCs as well) are green-
+house gases which contribute to global warming and ris-
+ing sea levels.
+
+```
+Global Problem
+Ozone protection is a global concern. CFCs and halons
+have been produced in the United States, and in other
+countries, and are still being used in nations around the
+world. Given their long atmospheric lifetimes, they have
+become widely dispersed over time. As a result, the re-
+lease of these chemicals by one country can migrate up
+into the stratosphere, travel globally and adversely af-
+fect the health and welfare of other countries.
+The United States, for example, was one of the larg-
+est producers and consumers of CFCs. Other nations also
+have been significant users.
+Therefore, to protect the ozone layer, an international
+solution was critical.
+```
+```
+Montreal Protocol
+Recognizing the global nature of the problem, on Sep-
+tember 16, 1987, in Montreal, Canada, 24 nations and the
+European Economic Community (EEC) signed the Montreal
+Protocol on Substances which Deplete the Ozone Layer.
+The U.S. and other countries signing the Protocol agreed
+to phase out production of ozone-depleting substances.
+The 1990 Clean Air Act Amendments incorporated the Pro-
+tocol’s original phase-out date: the year 2000. In 1992,
+President George H. W. Bush pledged to halt almost all
+U.S. production of CFCs by the end of 1995.
+```
+```
+AMENDMENT TO ADDRESS HFCs UNDER THE
+MONTREAL PROTOCOL
+On October 15, 2016, 197 countries adopted an amend-
+ment to phase down HFCs under the Montreal Protocol in
+Kigali, Rwanda. Under the amendment, countries com-
+mitted to cut the production and consumption of HFCs
+by more than 80 percent over the next 30 years. The
+ambitious phase down schedule will avoid more than 80
+billion metric tons of carbon dioxide equivalent emis-
+sions by 2050—avoiding up to 0.5° Celsius warming by
+the end of the century—while continuing to protect the
+ozone layer. The US and other developed countries will
+reduce HFC consumption beginning in 2019 and freeze
+consumption in 2024, with a small number of developing
+countries freezing consumption in 2028.
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+## Important Dates
+
+```
+Jan. 1, 1992: Since this date, containment and
+recycling of CFC-12 and HCFC refrigerants has
+been required.
+Nov. 15, 1992: Since this date, sales of contain-
+ers of CFCs under 20 pounds to anyone other than
+certified Section 609 technicians has been pro-
+hibited.
+Nov. 14, 1994: Since this date, the sale of ozone-
+depleting refrigerants in any size container is re-
+stricted to certified technicians.
+July 1995: Since this date, any CFC-12 mobile air
+conditioning system that is converted (retrofit-
+ted) to use an EPA accepted alternate refrigerant
+must have installed the appropriate unique ser-
+vice fittings and label listed for that refrigerant.
+Nov. 15, 1995: Since this date Section 608 of the
+Clean Air Act (the Act) prohibits individuals from
+knowingly venting substitutes* for CFC and HCFC
+refrigerants during the maintenance, service, re-
+pair and disposal of air conditioning and refrig-
+eration equipment.
+January 1, 2018: Starting on this date, the sale
+of ODS and substitute refrigerant is restricted to
+certified technicians.
+It must be noted that the above regulations ap-
+ply no matter where a system is undergoing service,
+whether it be in a shop, or at an “off-site” location,
+such as a farm field, construction site, parking lot,
+etc. Approved recovery-only, or recovery/recycling
+equipment can, and must be used any time refriger-
+ant must be removed from a system for any reason.
+*CO 2 is exempt from this venting prohibition.
+```
+The Chemicals
+
+Listed below are chemicals and their associated ODP
+(Ozone Depletion Potential) values as well as their
+GWP (Global Warming Potential) values. An ODP value
+is a measure of a chemical’s relative ability to destroy
+ozone molecules in the stratosphere. A GWP is a mea-
+sure of a chemical’s relative ability to produce a global
+warming effect.
+
+The higher the ODP value, the greater a chemical’s potential
+to destroy ozone in the stratosphere. The higher the GWP
+value, the greater a chemical’s influence on global warming.
+
+Tax on CFC-12
+
+On January 1 of each year, businesses with an inventory,
+or floor stock, of 400 pounds of CFC-12 or more, are re-
+quired to report their inventory and pay the difference
+between the prior year tax rate per pound. Each year,
+the floor tax increases 45 cents on each pound of refrig-
+erant in stock. (Refrigerant recycled on-site from mobile
+A/C systems is not taxable.)
+
+The floor stock tax on ozone-depleting chemicals is due
+and payable without assessment or notice on or before
+June 30.
+
+If a businesses’ inventory is 399 pounds or less, no tax
+payment is required. If inventory is 400 pounds or more,
+tax is required on all of the refrigerant – the first 399
+pounds is not exempted.
+
+**_Note: Consult your tax advisor for additional information._**
+
+CFC-12 Possession and Use
+
+It is legal to store and use CFC-12 for servicing mobile
+A/C systems. However, only technicians certified under
+section 608 or 609 of the Clean Air Act may purchase it.
+
+For more information on EPA regulations applicable to
+mobile A/C system service, visit _https://www.epa.gov/
+mvac._
+
+```
+Fully-Halogenated Chlorofluorocarbons
+ODP GWP
+CFC-11 1.0 4,680
+CFC-12 1.0 10,900
+Comparison to HFC-134a
+ODP GWP
+HFC-134a 0 1,430
+```
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+NOTES:
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+## EPA Regional Offices
+
+Send your form to the EPA office listed under the state or territory in which the
+
+establishment is located.
+
+Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, Vermont
+CAA section 609 Enforcement Contact, EPA Region 1; 5 Post Office Square, Suite 100,
+OES04-02, Boston, MA 02109-3912.
+
+New York, New Jersey, Puerto Rico, Virgin Islands
+CAA section 609 Enforcement Contact, EPA Region 2 (2DECA-AC); 290 Broadway, 21st
+Floor; New York, NY 10007-1866
+
+Delaware, District of Columbia, Maryland, Pennsylvania, Virginia, West Virginia
+CAA section 609 Enforcement Contact, EPA Region 3 – Wheeling Operations Office; Mail
+Code 3AP12, 303 Methodist Building, 11th and Chapline Streets, Wheeling, WV 26003
+
+Alabama, Florida, Georgia, Kentucky, Mississippi, North Carolina, South Carolina,
+
+Tennessee
+CAA section 609 Enforcement Contact, EPA Region 4 (APT-AE); Atlanta Federal Center;
+61 Forsyth Street SW, Atlanta, GA 30303
+
+Illinois, Indiana, Michigan, Minnesota, Ohio, Wisconsin
+CAA section 609 Enforcement Contact, EPA Region 5 (AE17J); 77 West Jackson
+Boulevard, Chicago, IL 60604-3507
+
+Arkansas, Louisiana, New Mexico, Oklahoma, Texas
+CAA section 609 Enforcement Contact, EPA Region 6 (6EN-AA); 1445 Ross Avenue,
+Suite 1200, Dallas, TX 75202
+
+Iowa, Kansas, Missouri, Nebraska
+
+```
+CAA section 609 Enforcement Contact, EPA Region 7; Mail Code APCO/ARTD; 11201
+Renner Boulevard, Lenexa, KS 66219
+```
+Colorado, Montana, North Dakota, South Dakota, Utah, Wyoming
+
+```
+CAA section 609 Enforcement Contact, EPA Region 8; 1595 Wynkoop Street, Denver, CO
+80202
+```
+American Samoa, Arizona, California, Guam, Hawaii, Nevada
+CAA section 609 Enforcement Contact, EPA Region 9; Mail Code AIR-5, 75 Hawthorne
+Street, San Francisco, CA 94105
+
+Alaska, Idaho, Oregon, Washington
+CAA section 609 Enforcement Contact, EPA Region 10 (OAQ-107); 1200 Sixth Avenue,
+Seattle, WA 98101
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+
+#### © 2018 MOBILE AIR CONDITIONING SOCIETY WORLDWIDE
+
+
+
+Note:
+
+```
+To learn more about the stratospheric protection program or to order publications,
+visit the EPA’s website, located at:
+https://www.epa.gov/mvac
+```
+Certification Training Manual:
+
+```
+Including: Refrigerant Recycling and Service Procedures for Mobile Air Conditioning Technicians
+and Best Service Practices
+```
+```
+©2018 Mobile Air Conditioning Society Worldwide. All rights reserved.
+```
+Published by:
+
+```
+MOBILE AIR CONDITIONING SOCIETY (MACS) WORLDWIDE
+No part of this publication may be produced in any form, in an electronic retrieval system or otherwise,
+without the prior written permission of the publisher.
+```
+```
+National Office
+P.O.฀Box฀88฀•฀Lansdale,฀PA฀19446
+Phone:฀215-631-7020฀•฀Fax:฀215-631-7017
+E-mail:฀info@macsw.org฀•฀Website:฀http://www.macsw.org
+```
+```
+President:
+Elvis฀L.฀Hoffpauir
+```
+```
+MACS Technical Advisor:
+Ward Atkinson
+MACS Technical Editor:
+Steven G. Schaeber, Jr.
+```
+

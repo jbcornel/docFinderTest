@@ -1,0 +1,1810 @@
+# Maple Syrup
+
+# Quality Control Manual
+
+## by Kathryn Hopkins, Extension educator Bulletin #
+
+
+
+## Table of Contents
+
+
+**Appendix**
+
+         - UMAINECOOPERATIVEEXTENSIONBULLETIN#7038
+- Cleanliness and Maple Syrup Quality.
+- Sanitizers and Maple Syrup Quality.
+- Quality Begins in the Sugarbush.
+   - Spouts.
+   - Buckets and Pails.
+   - Pipelines, Tubing and Conduits.
+      - Installing Pipeline for High-Quality Production.
+      - Choosing Tubing for High Quality Production.
+      - Clean Tubing and Quality
+- Tree Tapping.
+   - Tap Only in White Wood.
+   - Clean the Tap Holes.
+   - Sap Collection.
+      - Timing is Important
+      - Sap Gathering Pails
+      - Be Observant
+      - Sap Ice
+   - Sap Filtering.
+   - Sap Tanks.
+      - Keep Tanks Clean Throughout the Season
+      - Keep Tanks Cool and Covered
+      - Storing Sap.
+- Quality Continues in the Sugarhouse: Processing Sap.
+   - Prompt Processing: One Key to High Quality.
+      - Reverse Osmosis.
+      - Defoamer.
+      - Evaporator Pans.
+   - Maple Syrup Quality Control Puts the Accent on Flavor.
+   - Syrup Density. 2MAPLESYRUPQUALITYCONTROLMANUAL
+      - Low-Density Syrup.
+      - Density Check at Draw-Off.
+      - Syrup Refractometer.
+      - Hydrotherm.
+      - Light Transmittance Meter.
+      - Automatic Draw-off.
+   - Syrup Filtering.
+      - Care of Filters.
+      - Pressure Filters.
+- Quality Continues in the Sugarhouse: Syrup Packing.
+   - Packing in Bulk.
+   - Filling Drums.
+   - Filling Retail Containers.
+      - Hot Packing
+      - Avoid Stack Burn.
+      - Code All Syrup.
+   - Grading Syrup for the Retail Customer.
+      - Grading Kits
+      - Color.
+   - Care and Storage of Canned Syrup.
+      - Temperature.
+      - Air
+      - Time.
+   - Reducing Lead in Syrup.
+      - Equipment
+      - Practices.
+- After Sugaring: Quality Begins for Next Season.
+   - Care of Evaporators.
+   - Painting Equipment.
+   - Storing Equipment.
+   - Cleaning Pipelines.
+- Summary.
+   - Chapter 347: Maple Syrup Processing. Department of Agriculture, Food and Rural Resources Division of Regulations:
+
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 3
+```
+## Cleanliness and Maple Syrup Quality.
+
+The most important contributor to
+maple syrup quality is cleanliness.
+Microorganisms, bacteria and yeast are
+enemies of high quality syrup. They
+affect both color and flavor. Since these
+culprits are found on unclean equipment,
+and may grow rapidly in sap and
+syrup, careful sanitary practices are
+critical when you collect sap, and make,
+pack and store syrup.
+
+## Sanitizers and Maple Syrup Quality.
+
+Although cleanliness is a “must,”
+most cleaning compounds cannot be
+used in maple production. Household
+detergents, and soaps that have any
+fragrance, and iodine-based dairy
+sanitizers should not be used to sanitize
+syrup production equipment. They can
+ruin syrup flavor, making the syrup
+unsaleable.
+
+One part unscented household
+chlorine bleach (such as unscented
+Clorox™) to 20 parts of clean water may
+be used for rinsing, but you’ll need to
+flush equipment afterwards with clean,
+clear water. Don’t use a stronger
+solution, or let the solution stand in
+galvanized equipment, because flavor
+problems may result.
+
+**Caution! Household chlorine
+bleach is generally a 5.25 percent
+sodium hypochlorite solution.
+Commercial bleaches are stronger. The
+“one part bleach to 20 parts water”
+noted in this manual refers to
+household bleach.**
+
+Remember that anything added to
+sap, even in minute quantities, will
+become concentrated as the sap is
+boiled to syrup, causing an off-flavor.
+Plenty of “elbow grease” and lots of
+
+```
+clean, hot water are the best cleaning
+agents for maple syrup equipment.
+```
+## Quality Begins in the Sugarbush.
+
+```
+The equipment you use will also
+have a big impact on your final product.
+Don’t use rusty or corroded spouts,
+buckets, or other maple utensils.
+Otherwise you may find toxic metals
+and metallic off-flavors in your syrup.
+```
+### Spouts.
+
+```
+Before using spouts, sanitize them.
+First, clean them and dip-rinse them in
+a chlorine bleach solution (one part of
+unscented chlorine bleach to 20 parts of
+water). Then rinse them thoroughly in
+hot water. (As a substitute for the dip-
+rinse, metal spouts may be boiled in
+clean water.) A sanitized spout will
+keep the tap hole open longer, increasing
+sap yield, and will help to keep tubing
+lines free of microorganisms.
+```
+### Buckets and Pails.
+
+```
+Scrub buckets and pails thoroughly
+by hand or by machine with hot water.
+If you use a chlorine bleach solution to
+sanitize them (one part unscented
+household chlorine bleach to 20 parts
+water), take care to rinse each bucket
+well. Do this at the end of the season so
+next year’s work is easier, and to
+prevent metal deterioration.
+```
+## Pipelines, Tubing and Conduit
+
+```
+Installing Pipeline for High Quality
+Production
+Pipeline, tubing and conduits help
+the sugarmaker get the freshest possible
+sap to the sugarhouse. “Down hill,
+straight and tight” is a slogan to keep in
+mind when installing tubing. Pipeline
+that sags, or is not pitched enough may
+retain sap, which can develop
+microorganisms as it ages, lowering
+```
+## Household
+
+## detergents,
+
+## and soaps
+
+## that have any
+
+## fragrance,
+
+## and iodine-
+
+## based dairy
+
+## sanitizers
+
+## should not be
+
+## used to
+
+## sanitize syrup
+
+## production
+
+## equipment.
+
+
+4MAPLESYRUPQUALITYCONTROLMANUAL
+
+```
+syrup quality. Use pipeline that’s wide
+enough to move sap quickly, so you
+maintain the sap’s high quality.
+```
+#### Choosing Tubing for High Quality Production.
+
+```
+Install tubing that’s specific for
+maple syrup production. Tubing
+companies have designed products that
+move large volumes of sap long
+distances in favorable conditions. Non-
+commercial materials, such as black
+plastic water pipe, which draws heat
+from the sun, should be used with care
+or not used at all. Sap flowing long
+distances in dark pipeline exposed to
+the sun may reach temperatures as high
+as 80 degrees, even though air
+temperatures are much lower.
+Warm sap in lines, and later in
+storage tanks, encourages microorganism
+growth. To prevent this problem, dark
+colored pipe may be painted white with
+a non-toxic paint.
+No matter what piping you use, be
+certain that lines have no sags; sags trap
+the sap, and permit bacteria growth.
+```
+```
+If you use pipe that is not designed
+specifically for sap collection, it must be
+of high grade, the kind that is designed
+for drinking water. Be certain that all
+tubing is made of food-grade materials.
+```
+#### Clean Tubing and Quality
+
+```
+Clean tubing is vital to maximize
+production of high-quality syrup.
+Sanitize tubing right after the last sap
+run. Some producers force a chlorine
+bleach solution through the tubing (one
+part unscented household chlorine
+bleach to 20 parts water). They leave
+this solution in the lines for a day or
+two, after making certain that the lines
+are completely filled.
+Be sure all solution is thoroughly
+rinsed from the lines. In addition to
+```
+```
+flushing with water after the use of a
+chlorine solution, many producers
+allow the first sap to run onto the
+ground. This gives tubing an extra rinse
+at the beginning of the new season,
+which is important for two reasons:
+(1) even though most traces of chlorine
+will evaporate during the sap boiling
+process, the sodium or salt remains,
+and becomes concentrated in the
+syrup, ruining the flavor; and
+(2) some sugarmakers and researchers
+feel that rodents may be attracted by
+the salt, so rinsing at both the
+beginning and the end of the season
+can help reduce rodent damage.
+A hot water/air-mixture can be
+forced through the sap lines as an
+alternative to the chlorine bleach
+sanitizing process. The turbulence of the
+air mixed with water is an effective
+cleaner, and leaves no chlorine residue
+that could contaminate the sap.
+Whatever procedure you choose, be
+absolutely certain to rinse all chlorine
+from lines and tanks. Don’t let any
+chlorine solution to enter the lines that
+may end up in the evaporator.
+```
+## Tree Tapping.
+
+### Tap Only in White Wood.
+
+```
+Drill all tap holes into healthy, clean,
+white wood. Generally a depth of not
+more than 1½ inches is recommended.
+When dark-colored wood shows in a
+hole, that tap should not be used. A bad
+tap hole will yield little or no sap, and
+may spoil the flavor of large amounts of
+syrup.
+```
+### Clean the Tap Holes.
+
+```
+Insert spouts right after drilling. Tap
+them in gently to avoid any unnecessary
+damage to the tree. When removing
+wood chips, use a twig or other clean
+```
+## Whatever
+
+## procedure
+
+## you choose,
+
+## be absolutely
+
+## certain to
+
+## rinse all
+
+## chlorine from
+
+## lines and
+
+## tanks. Don’t
+
+## let any
+
+## chlorine
+
+## solution enter
+
+## the lines that
+
+## may end up
+
+## in the
+
+## evaporator.
+
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 5
+```
+tool to brush them out. Blowing into the
+hole to remove chips is an unsanitary
+practice. It will contaminate the tap hole.
+
+**Warning: Don’t use para-
+formaldehyde pellets.** In the past,
+paraformaldehyde pellets were
+recommended for use in tap holes; some
+out-of-date sugaring manuals still
+suggest their use. Research shows that
+the use of paraformaldehyde pellets can
+damage the trees, so they are now
+illegal. Similarly, the use of denatured
+alcohol as a disinfectant for tapholes is
+also illegal in Maine.
+
+### Sap Collection.
+
+#### Timing is Important
+
+Gather sap promptly, especially
+when temperatures are above freezing.
+Fresh, clean sap that has been kept cool
+during collection and prior to boiling
+will produce syrup that is one to two
+grades higher than old, contaminated
+sap. Since higher quality syrup
+commands a higher price, it makes
+sense to collect and boil sap as quickly
+as possible.
+
+#### Sap Gathering Pails
+
+Gather sap from buckets in
+containers that are specifically for that
+purpose. Don’t use pails that have
+contained non-food products.
+
+#### Be Observant
+
+Maple sap and syrup pick up off-
+flavors easily. Be sure that particles
+from exhaust pipes of tractors do not
+float into gathering pails or tanks. If sap
+has contact with any petroleum product
+it is especially dangerous.
+
+#### Sap Ice
+
+Ice formed in sap buckets can help
+keep sap cool in storage; however,
+many sugarmakers throw it away
+
+```
+because they believe that it contains
+very little sugar. With today’s high fuel
+costs, you may wish to check the sugar
+content of melted ice before deciding
+whether or not to keep it.
+```
+### Sap Filtering.
+
+```
+You’ll need to filter sap through
+multiple filters, first through a coarse
+filter to remove bark, small wood
+shavings and debris, then through a
+finer filter. Removing foreign materials
+from the sap before it is evaporated will
+usually upgrade syrup by at least one
+grade, a higher price for a small
+investment. Change all sap filters often
+and keep them clean to avoid off-
+flavors. (Please see manufacturer’s
+information regarding the care of filters.)
+For filtering sap, many sugarmakers use
+filtering materials that are available
+from maple equipment suppliers.
+```
+### Sap Tanks.
+
+#### Keep Tanks Clean Throughout the Season
+
+```
+Rinse and scrub gathering and
+storage tanks with hot water between
+runs, when practical. Be cautious if
+you’re using a chlorine solution. Make
+sure that everything the sap has come in
+contact with has been thoroughly
+rinsed, so that no chlorine residue
+remains. The solution should not be
+permitted to remain in the tanks, since
+chlorine has corrosive effects on
+galvanized metal.
+```
+```
+Keep it Cool and Covered
+Tanks should be located outside the
+sugarhouse, preferably on the north or
+northwest side, away from direct
+sunlight. A loose covering over the
+storage tanks will prevent rain and
+foreign materials from lowering the
+quality of the sap.
+```
+## No matter
+
+## what piping
+
+## you use, be
+
+## certain that
+
+## lines have no
+
+## sags; sags
+
+## trap the sap,
+
+## and permit
+
+## bacteria
+
+## growth.
+
+```
+Sap gathering pail
+```
+
+6MAPLESYRUPQUALITYCONTROLMANUAL
+
+#### Storing Sap.
+
+```
+Sap should not be left long in tanks
+when weather is above freezing; the
+quality of the sap will begin to deteriorate,
+producing lower-grade syrup.
+```
+## Quality Continues in the Sugarhouse: Processing Sap.
+
+### Prompt Processing: One Key to High Quality.
+
+```
+For the highest quality syrup,
+evaporate sap as quickly as possible.
+Holding sap in buckets or tanks lowers
+the quality of the syrup produced from
+that sap. Always try to evaporate sap
+completely before stopping. Generally,
+a shallow sap depth and a hot fire make
+for rapid syrup production, and high-
+grade syrup.
+```
+#### Reverse Osmosis.
+
+```
+Reverse osmosis units are becoming
+more common. They allow the
+sugarmaker to remove large quantities
+of water before the conventional
+evaporation process. As with all
+sugaring equipment, cleanliness is
+critical. Follow the manufacturer’s
+suggestions for cleaning. If you use an
+anti-bacterial storage solution, or any
+sanitizing solution, be sure to rinse
+thoroughly with clean water before
+processing sap to avoid off-flavor
+and/or syrup contamination.
+```
+#### Defoamer.
+
+```
+Use as little defoamer as possible,
+and be sure it’s fresh. Old defoamer
+becomes rancid, and causes a rancid
+flavor in syrup. Excess use of some
+defoamers can also cause “fatty” off-
+flavors.
+```
+```
+If you use vegetable oil because of
+special market requirements (religious
+or dietary) take care to use the smallest
+```
+```
+possible amount. In recent years, some
+off-flavors due to vegetable oil have
+occurred; the vegetable oil flavor tends
+to especially affect the light amber
+grade syrup.
+```
+```
+Evaporator Pan
+Keep pans clean. Change draw-off
+sides often to prevent the accumulation
+of niter (sugar sand), which can cause
+scorching and off-flavored syrup. In
+recent years producers have noted an
+increase in off-flavored syrup due to
+burnt niter. When evaporating with
+reverse osmosis concentrate, niter build-
+up is faster, requiring more frequent
+change of draw-off sides. Should any
+scorching occur, shut down and clean
+up the burned area to prevent off-
+flavors in the next batch of syrup.
+```
+### Maple Syrup Quality Control Puts the Accent on Flavor.
+
+```
+Maple syrup flavor must be
+guarded from sap to store shelf. Flavor
+can be damaged from contaminated,
+unfiltered, or old sap, new and used
+filters, caramelized sugar, fermentation
+and mold, detergents, chemicals and rust.
+```
+## Syrup Density
+
+```
+Maine law requires maple syrup to
+be evaporated to a density greater than
+66 percent Brix at 68 degrees F.
+Remember that syrup having a density
+reading below 66 percent Brix is illegal.
+Such syrup is more likely to ferment.
+Syrup with a density above 68 percent
+Brix may crystallize, causing consumer
+complaint. Various instruments can be
+used to check the density: hydrometers,
+hydrotherms, refractometers and light
+transmittance meters. For best results,
+know how the instrument works and
+how to protect its accuracy.
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 7
+```
+#### Low-Density Syrup.
+
+The principal causes of low-density
+syrup:
+
+- Not making an adjustment of syrup
+    temperature when checking density
+    with a hydrometer.
+- Using an inaccurate hydrometer.
+- Inaccurate adjustment of heavy-
+    density syrup.
+- Steam condensing on surfaces, and
+    running into the last containers of
+    syrup to be packed. The last syrup in
+    the tank should not be canned unless
+    checked carefully for proper density.
+
+#### Density Check at Draw-Off.
+
+Use a deep container of small
+diameter (hydrometer cups are
+convenient) so that the hydrometer may
+be floated immediately after each draw
+off. Lower the hydrometer gently. Be
+sure that the hydrometer does not touch
+the bottom or sides of the hydrometer
+cup. Make the reading at the point on
+the hydrometer stem that is level with
+the surface of the syrup (not the top of
+the meniscus).
+
+#### Syrup Refractometer.
+
+Syrup refractometers are
+instruments that may be used to test
+maple syrup density. They are available
+through maple equipment dealers. If
+you use a refractomer, be sure to follow
+instructions. Occasionally, problems can
+occur that are due to incorrect calibration
+of the instrument, leading to light or
+heavy syrup. Also, producers and the
+Department of Agriculture have found
+that some instruments do not consistently
+provide accurate readings when testing
+hot syrup. You can check a refractometer
+by comparing measurements to those
+taken with an accurate, tested hydrometer
+and a thermometer, or a refractometer.
+
+#### Hydrotherm.
+
+```
+Hydrotherms are special
+hydrometers with thermometers built in
+to locate the point on the hydrometer to
+measure standard density syrup. It is
+used like a hydrometer but allowed to
+sit for 30 to 40 seconds for the
+thermometer column in the hydrotherm
+to warm or cool to the syrup
+temperature. The Department of
+Agriculture does not recommend using
+hydrotherms because they are not
+calibrated to a standardized scale.
+```
+#### Light Transmittance Meter.
+
+```
+A light transmittance meter is a
+newer tool that is used to check syrup
+color. In a light transmittance meter, a
+syrup sample is checked for color by
+passing light through the sample. The
+percent of light transmission is compared
+to light transmission rates set for
+different grades. When using one, you
+need to be sure there are no fingerprints
+on the syrup test bottle, and that the
+syrup sample has no bubbles or
+cloudiness. Any of these conditions may
+diminish the light that is transmitted
+through the sample and therefore
+lowers the grade of the sample.
+```
+#### Automatic Draw-off.
+
+```
+Automatic draw-offs are not
+completely accurate. Change the draw-
+off side often, within hours, not days, or
+when your scoop shows niter beginning
+to build up in the pan. Using a
+hydrometer or refractometer, test the
+first syrup drawn off at the new side.
+Adjust the draw-off frequently each
+day, using a hydrometer or
+refractometer, to establish the right
+adjustment.
+Important Note: Do not scoop near
+the automatic draw-off until after it
+shuts off. Scooping near the draw-off
+will change the density reading of the
+```
+```
+Hydrometer
+```
+
+8MAPLESYRUPQUALITYCONTROLMANUAL
+
+```
+drawn-off syrup. Clean the control
+when changing sides. Nylon scouring
+pads (unscented and soap-free) are
+helpful. Never use steel wool. It will
+scratch the pan and speed the build-up
+of niter.
+```
+### Syrup Filtering.
+
+#### Care of Filters.
+
+```
+Filters can impart off-flavors to
+syrups, making the product unfit for
+sale. Do not store filters in mothballs,
+cedar closets, airtight containers, or near
+scented materials. Clean filters
+thoroughly, dry thoroughly, and store
+in a cloth bag in
+clean, dry, airy,
+storage.Chlorine
+bleach should not
+be used to clean
+filters.
+Despite
+repeated washings,
+rinsings and
+airings, filters that
+have been
+washed with
+bleach still impart
+off-flavors to
+syrup. Scented
+cleansers, fabric softeners, and “dryer
+sheets” should not be used either. New
+filters and pre-filters must be
+thoroughly boiled in clean water (not in
+sap pans) and air dried (in the sun if
+possible). Use the “sniff” test to provide
+an added check for your filters. Musty
+old filters, or new chemical-smelling
+filters should not be used.
+```
+```
+The use of synthetic filters as pre-
+filters (“cone” type or “flat type” filters)
+save much labor. When they are used,
+more effective filtration results, and the
+heavy filters may be in service longer
+between cleanings. Wash and dry pre-
+filters often in pure, hot water.
+```
+```
+Old, threadbare filters will cause
+cloudy syrup. Hold filters up to bright
+light to check for filter problems (cloudy
+syrup must be graded substandard).
+Remember to filter hot syrup (
+degrees F) immediately after removal
+from the pan. Do not stir syrup through
+the filter.
+```
+#### Pressure Filters.
+
+```
+Clean all pressure filter parts
+thoroughly with hot water prior to each
+reassembly.
+Filter plates have numbers or
+patterns that indicate how the filter
+press should be assembled. Line up
+each numbered plate and smooth each
+cloth so that there are no creases. Put a
+thin rod through the plates during
+assembly to help maintain the correct
+position. Care taken with the assembly
+of pressure filter units will help to
+prevent niter in finished syrup, and loss
+of finished syrup.
+```
+```
+Experiment to find the exact amount
+of filter aid (food grade Diatomaceous
+Earth) needed to filter the syrup.
+Filter papers should be changed
+often enough and the pressure regulator
+should be watched to avoid building up
+of pressure and bursting of filter paper;
+careful monitoring of the filter press
+will help to avoid cloudy syrup.
+```
+## Quality Continues in the Sugarhouse: Syrup Packing.
+
+```
+Most sugarmakers will find it
+advantageous to pack some syrup in
+consumer-size containers during the
+producing season. However, at least
+part of the crop should be packed in
+bulk containers for later reheating and
+packing. Bulk containers offer these
+advantages when used for long-term
+storage:
+```
+- Packing syrup closer to the date of
+
+```
+Clean all pressure filter parts thoroughly with
+hot water prior to each reassembly.
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 9
+```
+```
+sale reduces the possibility of grade
+change in the consumer size container.
+This is especially important when
+packing in plastic jugs.
+```
+- The potential of metallic flavors from
+    cans is reduced.
+- Reheating at packing time renews the
+    fresh maple flavor.
+- The possibility of rusty containers is
+    lessened.
+- The producer has greater versatility
+    in meeting the current market
+    demand for a specific container size
+    and style, but also maintain the
+    potential for bulk sale.
+- The potential of waste due to leftover,
+    unwanted sizes is eliminated.
+- You can blend different “runs” to
+    achieve greater uniformity of
+    product.
+- For small producers, five-gallon cans
+    offer similar advantages to the 30-
+    gallon barrel.
+
+### Packing in Bulk.
+
+Here are some tips for successful
+bulk packing:
+
+- Always examine bulk containers
+    before filling.
+- More bulk syrup is downgraded or
+    ruined due to storage in drums that
+    are in poor condition than by any
+    other single storage cause.
+- Use a flashlight to examine the
+    interiors of drums.
+- Use only bulk storage barrels or five-
+    gallon cans that are rust-free, clean
+    and dry. Steam cleaning is the best
+    assurance of completely clean
+    barrels.
+- “Sniff” test the barrel and do not use
+    if a foreign odor is present.
+       - If you are buying new barrels,
+          purchase stainless steel barrels.
+
+### Filling Drums.
+
+```
+For the best results fill containers or
+drums with hot syrup (above 180
+degrees), and fill them full. Any air
+space in the drum may cause problems.
+Use new gaskets; tighten bungs as soon
+as possible. Keep a sample from each
+drum in your freezer and identify each
+sample and its drum number. Then you
+can repack the syrup without opening
+additional drums. Remember to store
+drums in a cool, dry place, and to
+educate your bulk customers in the
+proper storage and handling of bulk
+syrup.
+```
+### Filling Retail Containers.
+
+```
+Here is a list of suggestions
+that will help you ensure a
+high-quality product ready for
+retail sale.
+```
+- Open the cartons in which
+    syrup cans are packed so that
+    the empty cans are upside
+    down. Keep the cans in that
+    position until they are filled,
+    so foreign material can’t get
+    inside.
+- Closely examine all
+    containers. Return any that
+    are damaged by excess flux or
+    solder, dents or other
+    imperfections. Do not fill cans
+    that have any rust.
+- “Sniff” test empty containers. This
+    will sometimes help you cull out
+    unusable containers.
+- Fill containers full to assure correct
+    volume for the consumer, and to
+    minimize airspace, that contributes to
+    product spoilage.
+
+```
+A variety of retail syrup
+product containers.
+```
+
+10 MAPLESYRUPQUALITYCONTROLMANUAL
+
+#### Hot Packing
+
+```
+“Cold” pack has caused more
+spoilage of syrup than almost any other
+factor. Always pack syrup hot! When
+packed at the right temperature, the hot
+syrup will sterilize its container,
+preventing spoilage. Then, when
+properly sealed, a vacuum will be
+created, preventing contamination.
+The lowest safe temperature for
+packing syrup is 180 degree F when the
+cap goes on. Syrup that is left uncapped
+for a few moments can cool sufficiently
+and collect enough yeast and mold
+spores from the air to spoil some cans in
+an otherwise perfect lot.
+Research by Dr. MariaFranca
+Morselli of the University of Vermont
+Maple Research Center indicates that
+packing syrup at temperatures higher
+than 180 degrees F (but not higher than
+200 degrees F) will result in fewer
+trouble-causing microorganisms.
+```
+```
+However, if temperatures are raised too
+high for too long, new niter may
+precipitate, causing cloudiness.
+(Refiltering reheated syrup can
+eliminate cloudiness.) Continue to check
+temperature with a sterile thermometer
+immediately prior to filling the container.
+For best results when heating syrup,
+use a continual flow method rather than
+heating a large volume of syrup in a
+vat. Some syrups may deteriorate in
+both color and flavor when heated in
+large vats or pans, and held until canned
+in retail containers. If the syrup is
+continually flowing through several
+compartments, while heating, it will
+retain most of the original flavor and
+quality. This also makes it easier to
+maintain the correct packing temperature
+(180 degrees and above).
+Remember, the last container filled
+from any batch may not be of correct
+density. When a cover is used on filter
+tanks, condensation may cause the last
+syrup to be thin. If no cover is used, the
+last syrup may be heavy.
+```
+```
+When sealing plastic containers, be
+sure inner seals are in container caps
+when they are put on.
+After capping the hot syrup,
+immediately lay each container on its
+side, neck down, to sterilize the air
+pocket and cap. Check the closure for
+leaks.
+When containers are cool, spot
+checking a few cans for density, color
+and flavor is strongly recommended.
+This will insure that the syrup meets the
+standards for which it is labeled.
+```
+```
+Avoid “Stack Burn”
+“Stack burn” is grade change caused
+by hot containers of newly canned syrup
+stacked together, intensifying the heat,
+and prolonging the cooling time. Stack
+```
+```
+If you are interested in testing your syrup for lead,
+contact any of the following labs:
+```
+```
+Analytical Laboratory
+Department of Plant, Soil & Environmental Sciences
+5722 Deering Hall, Rm. 407
+University of Maine
+Orono, ME 04469-
+Phone: 207-581-
+Cost: $23.
+```
+```
+Agricultural and Environmental Testing Lab
+220 Hills Building
+University of Vermont
+Burlington, VT 05405
+```
+```
+New Hampshire Public
+Health Labs
+Attn. George Robinson
+6 Hazen Dr.
+Concord, NH 03301
+Phone: 603-271-
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 11
+```
+burn can change a low Grade A Medium
+Amber syrup to Grade A Dark Amber.
+This is a common cause of grade violations.
+
+To prevent stack burn, make sure
+you cool cans quickly. Space cans apart
+so that air may circulate around them.
+Do not place cans in cartons or on
+pallets until cool. A fan may help to
+speed the cooling process.
+
+#### Code All Syrup.
+
+Code each batch of syrup as it is
+packed. If problems are found later,
+positive identification will allow you to
+recall only the syrup from the lot that is
+defective.
+
+## Grading Syrup for the Retail
+
+## Container
+
+#### Grading Kits
+
+Grading is an important step in
+your production process. First, be sure
+that your grading kit is accurate, and
+right for your operation. You can’t grade
+a round bottle of syrup in a kit intended
+for square bottles, or by using bottles of
+different sizes. This can cause off-grade
+syrup. Also, colored glycerin grading
+guides fade with age. After one year,
+most of these temporary guides are off-
+grade. Check old kits, or replace them.
+
+#### Color.
+
+Proper grading can only be done
+against a correct background. A clear,
+blue sky is ideal; a fluorescent light is
+better than a regular incandescent bulb.
+
+Syrup should not be graded too
+close to the minimum. Allow a little
+extra premium color, especially when
+packing in plastic or ceramic containers.
+Stored syrup tends to darken in color,
+particularly when packed in plastic and
+ceramic jugs.
+
+### Care and Storage of Canned Syrup.
+
+```
+The three main enemies of all stored
+syrup are temperature, air, and time.
+```
+```
+Temperature: Store syrup in a clean,
+dry place of cool (if not refrigerated),
+uniform temperature.
+Some producers use a
+household air
+conditioner in the
+storage room to retain
+syrup quality,
+protecting grade and
+price.
+Air: Even small
+heads of air in
+containers can cause
+problems. Be sure to
+completely fill all
+containers.
+Time: When packing or repacking
+into retail-size containers, plan to fill
+only the amount that you will sell within
+the next few weeks. Retail containers
+may lose their sales appeal, and the
+syrup may lose flavor, color and grade
+when stored for long periods. (Grade
+loss is especially true of plastic containers,
+in which syrup has been found to
+darken as much as one grade in only
+three months.)
+```
+### Reducing Lead in Syrup.
+
+```
+The lead content of most maple
+syrup is extremely low, even when made
+with lead containing equipment.
+However, the only way to know the
+lead content of your syrup is to have it
+tested. Maine testing services are
+available at the University of Maine. If
+tests show your syrup has lead levels
+within acceptable levels (below 250 ppb
+```
+```
+Grading is an important step in your
+production process. First, be sure that
+your grading kit is accurate, and right for
+your operation.
+```
+
+12 MAPLESYRUPQUALITYCONTROLMANUAL
+
+```
+in Vermont), then your use of older
+equipment is satisfactory, provided you
+manage your equipment properly and
+retest periodically.
+Samples sent for lead testing should
+be representative of most of your syrup.
+Try to sample syrup from several syrup
+batches and try to sample syrup made
+at the beginning and end of a sap run.
+Sample only syrup that has received the
+final filtering. Collect samples in a clean
+glass or plastic container and combine
+into one lot. Send the required amount,
+usually only a few ounces, to the lab of
+your choice.
+Lead does not come from trees. Sap
+collected using lead-free plastic
+materials has virtually no lead in it. Sap
+collecting and syrup making materials
+that contain lead include: 50/50 solder,
+used before 1995 for evaporators, tanks
+and some buckets (Leader Evaporator
+switched to lead-free solder in 1991);
+galvanized equipment made before
+1994; most brass and bronze; and
+terneplate, an alloy with a high lead
+content used for some older equipment.
+```
+```
+Sugar sand concentrates any lead in
+the sap as it is formed so it should also
+be treated as lead containing. Roadside
+dust and dirt may also contain lead. In
+tests of several models, all older metal
+spouts added lead to maple sap. Very
+old spouts may be made of terneplate
+and will leach large amounts of lead
+into the sap. Lead-free metal spouts are
+now available. Not all buckets are equal
+when it comes to lead. In tests,
+Wheeling buckets added the least
+amount of lead, while old “tin” buckets
+added the most. Some old buckets have
+shinier terneplate bottoms; beware of
+these.
+Lead containing buckets begin to
+leach lead into sap within the first few
+hours, and continue to add lead to sap
+```
+```
+as long as it is in contact with metal
+surfaces. Storage of sap in buckets for
+several days, which may occur when sap
+runs slowly, can result in very high sap
+lead concentrations.
+Galvanized and lead-soldered tanks
+also add some lead to sap, although
+usually less than buckets, because their
+surface-to-volume ratio is smaller.
+In an evaporator, a lead-soldered back
+pan adds more lead than a lead-soldered
+front pan, due to the many solder seams.
+The lead content of partially made syrup
+often decreases in the front pan, as lead is
+precipitating and sticking to the pan in the
+form of sugar sand.
+```
+```
+After the evaporator is shut down,
+lead will continue to accumulate in the
+partially boiled syrup from lead solder.
+Draining the front pan into buckets and
+adding the syrup again once boiling
+resumes, reduced lead accumulation.
+Cleaning the front pan with water may
+remove some of the sugar sand (source of
+lead) but also re-expose lead solder
+(source of lead). Water cleaning had little
+effect on syrup lead concentration.
+Frequently cleaning a lead-soldered pan
+with acid will likely result in higher syrup
+lead content.
+Sugar sand may contain extremely
+high amounts of lead, depending on the
+concentrations of lead in the evaporator.
+Good filtering is essential for keeping lead
+out of syrup.
+In tests, cone filters were as effective as
+filter presses in removing lead. A large
+percentage of lead in syrup is in a
+dissolved form, however, which is not
+filterable.
+Bronze used in the manufacture of
+gear pumps usually contains lead, and
+these pumps can add lead to sap and
+syrup. Unnecessary pumping, particularly
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 13
+```
+of sap, should be avoided. Other pump
+models are available which contain little
+or no lead.
+
+Old milk cans frequently contain
+terneplate, an alloy with a high lead
+content, and should never be used for
+syrup filtering or storage.
+
+Syrup kept in older, heavy galvanized
+barrels have a much higher lead content
+after 8 months of storage. Newer
+galvanized barrels do not add appreciable
+lead in the same amount of time.
+
+## Standards for Lead
+
+## Concentration
+
+Standards for lead concentration are
+based on models of the maximum syrup
+consumption by children. Standards
+vary within the maple producing
+regions of the U.S. and Canada. Syrup
+producers and health officials share the
+goal of a healthy and fine tasting
+product that is safe from contaminants.
+We are committed to the words “Pure
+Maple Syrup” that we put on our cans.
+
+If you are interested in testing your syrup
+for lead, contact any of the following labs
+listed in the box on page 10.
+
+Reprinted with permission from T. R. Wilmot and
+T.D. Perkins, _Keeping Lead Out of Maple Syrup:
+A Guide to the Use of Sap Collecting and Syrup
+Making Equipment_ (Burlington: University of
+Vermont, 2000). Available at
+[http://www.uvm.edu/~pmrc/LeadOut.pdf](http://www.uvm.edu/~pmrc/LeadOut.pdf)
+
+## After Sugaring Quality
+
+## Begins for the Next Season
+
+To ensure quality for next year,
+clean all equipment as soon as possible
+at the close of the maple season.
+
+### Care of Evaporators.
+
+Some producers allow sap to
+ferment in English tin or stainless steel
+
+```
+pans. If this method is used, watch the
+fermenting action carefully. When scale
+loosens, scrub with a nylon pad. If
+fermenting sap is left in pans too long,
+serious damage may result. Rinse with
+clear water, and dry. If chemical
+cleansers are used, be sure to rinse
+thoroughly to prevent possible damage
+to the pan, and off-flavors next season.
+Materials that collect on the
+underside of the evaporator during the
+season are generally corrosive to metal;
+if corrosive deposits are permitted to
+remain until the next season, holes may
+result in the bottom of the front pan, or
+in the flues. To avoid damage, clean the
+underside of the front pan, and use a
+brush to clean the flues. You can buy
+special flue brushes from maple
+equipment suppliers.
+```
+### Painting Equipment.
+
+```
+If sap tanks or other equipment
+needs to be painted, use a non-toxic
+epoxy paint. Paint meeting these
+standards is available from a maple
+equipment dealer. Painting at the close
+of the season, as opposed to the
+beginning of a new season, allows time
+for odors to dissipate, reducing the
+possibility of off-flavored syrup.
+```
+### Storing Equipment.
+
+```
+Store all equipment where it will
+remain dry, lessening the potential of
+rust.
+```
+### Cleaning Pipelines.
+
+```
+There are many different ways
+sugarmakers have developed to clean
+tubing. The following three are
+probably the most common:
+```
+_1. Pulling Up and Cleaning:_ To do the
+    best job, laterals should be rolled up
+    and tied in bundles, taken to the
+
+## The most
+
+## important
+
+## contribution
+
+## to the
+
+## production of
+
+## high quality
+
+## maple syrup
+
+## and syrup
+
+## products, is
+
+## cleanliness
+
+## and attention
+
+## to detail in all
+
+## parts of the
+
+## production
+
+## process.
+
+
+```
+sugarhouse for cleaning and then
+stored under cover. Before doing
+this, number the system so it can be
+rehung the next year. This is best
+done by painting numbers or letters
+on trees and putting a tag with a
+corresponding number or letter on
+the tubing. You don’t have to
+number each tree, usually every fifth
+or sixth one is adequate.
+There are countless variations of
+identification systems, but the
+important thing is that the laterals go
+up in the same place next year. Once
+the laterals are numbered, roll them
+up into bundles of about 25 taps.
+Take each bundle to a tank filled
+with cleaning solution and fill the
+bundle with solution. This can be
+done by pumping solution into the
+bundle or mounting the bundle on a
+rack that rotates the bundle through
+the solution. Let the bundles sit in
+the sun for one or two days and flush
+them with clean water. As an added
+precaution, some sugarmakers let the
+first sap run through the lines onto
+the ground. The same procedure
+works well for cleaning main lines.
+The rinse step is particularly
+important in preventing off-flavors.
+```
+_2. Cleaning in Place:_ Many sugarmakers
+    leave their tubing up in the woods
+    year round and clean it in place.
+    They usually do this by hooking up a
+    vacuum pump to the lower end of
+    the line, going to the top with a
+    bucket of cleaning solution, pulling a
+    spout, placing it in the bucket so
+    solution is sucked through the
+    tubing, then capping the spout and
+    moving to the next. Some tubing
+    manufacturers make fittings that are
+    tight under positive pressure as well
+
+14 MAPLESYRUPQUALITYCONTROLMANUAL
+
+```
+as vacuum. With this type of fitting,
+the cleaning solution can be pumped
+from the lower end of the line back
+up the system.
+```
+_3. Commercial Systems:_ Maple equipment
+    suppliers have commercial pipeline
+    cleaning equipment which consists of
+    a portable compressor pump that
+    injects air with the cleaning solution,
+    thus increasing the turbulence in the
+    tubing, and improving the cleaning
+    action. Some producers have
+    purchased these in conjunction with
+    one or more other sugarmakers to
+    share the expense.
+
+## Summary.
+
+```
+The most important contribution to
+the production of high quality maple
+syrup and syrup products, is cleanliness
+and attention to detail in all parts of the
+production process. Producers should
+be careful to protect their efforts and
+financial investment and produce the
+highest quality syrup possible. A high
+quality product adds to the image of
+Maine-produced maple products as well
+as to the producers’ profit level.
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 15
+```
+_Appendix_
+
+**01-001 Department Of Agriculture, Food & Rural Resources** — **Division Of Regulations**
+
+**Chapter 347: Maple Syrup Processing**
+
+**Summary** : The purpose of this chapter is to set forth standards for licensing and regulations for maple syrup
+processing.
+
+**1. Definitions.** For purposes of this chapter and unless the context otherwise indicates, the following words shall
+    have the following meanings.
+    A. “Adequate” means that which is needed to accomplish the intended purpose in keeping with good
+       public health practice.
+    B. “Maple Syrup" means the liquid food derived by concentration and heat treatment of the sap of the
+       maple trees (Acer) or by solution in water of maple sugar (maple concentrate) made from such sap. The
+       solids content of the finished maple syrup shall not be less than 66% (sixty-six percent) or more than
+       69% (sixty-nine percent) by weight (in Brix units) at 68° Fahrenheit. Alternatively, the word "syrup" may
+       be spelled “sirup” or “sirop.”
+    C. “Department” means the Maine Department of Agriculture, Food And Rural Resources.
+    D. “Food contact surfaces” means those surfaces of equipment and utensils with which maple syrup comes
+       in contact.
+    E. “Plant” means the building or buildings or parts thereof, used for the manufacturing, processing,
+       packaging, labeling or holding of maple syrup within the State of Maine.
+**2. Premises**
+    A. The grounds of the outer premises of the maple syrup plant shall be reasonably clean.
+    B. Sewage and waste water shall be disposed of sufficiently far from the premises so as not to pose a risk
+       of contamination.
+**3. Plant Construction and Design**
+    A. The plant is to have a roof to protect evaporator from the elements and condensation.
+    B. The fire shall be vented so as to prevent smoke and ashes from contaminating the syrup.
+**4. Equipment and Utensils**
+    A. Equipment and utensils shall be adequate for their intended use.
+    B. Equipment shall be designed to prevent food contamination.
+    C. Light bulbs, fixtures, or other glass suspended over exposed food in any step of preparation, shall be of
+       the safety type or otherwise protected to prevent food contamination in case of breakage.
+    D. Equipment shall be kept in a clean, sanitary condition at all times and sufficiently free from rust so as
+       not to pose a risk of product contamination.
+    E. Only new containers shall be used for finished product.
+**5. Sanitary Facilities and Controls**
+    A. The water supply shall be ample for all operations and shall be obtained from a potable public or
+       private supply. Private water supplies shall be tested yearly.
+    B. All utensils and product contact surfaces of equipment used in the plant shall be cleaned prior to use
+       and following any interruption during which such utensils and contact surfaces may have become
+       contaminated.
+    C. Handwashing facilities shall be available.
+    D. The pipeline tube shall be cleaned with a 5% chlorine solution and rinsed prior to use and following any
+       interruption during which the tube may have become contaminated.
+
+
+16 MAPLESYRUPQUALITYCONTROLMANUAL
+
+**6. Labeling**
+    A. Each container shall bear;
+       1. The name of the product.
+       2. Contents by volume.
+       3. Name and address of manufacturer or distributor and zip code.
+       4. The grade of the product, as determined in accordance with 01-001 Code of Maine Regulations,
+          §892-A. Official grade standards for maple syrup (Official Standards for Maple Syrup Grades).
+**7. Personnel**
+    A. No person suffering from any communicable or contagious disease shall be employed in or about an
+       establishment where maple syrup is manufactured.
+    B. Personnel shall wear clean outer garments when working in the processing areas.
+    C. No tobacco shall be used in any form in the plant.
+**8. Licensing**
+    A. Application and Fee. Application for approval for Maple Syrup Processing Plants shall be filed annually
+       with the Department of Agriculture, Food And Rural Resources. A license fee of $15.00 shall accompany
+       each application if more than 15 gallons of Maple Syrup is manufactured, processed, packaged, or held
+       for sale by the applicant. A license fee of $1.00 shall accompany each application if 15 gallons or less is
+       manufactured, processed, packaged or held for sale by the applicant. In order to allow for the staggering
+       of license expiration dates, initial licenses may be issued for a period exceeding twelve months. In such
+       cases, the initial license fee shall be increased in proportion to length of the license period.
+    B. Inspection and Issuance. Before a license is issued or renewed the Department shall inspect the premises
+       of the applicant.
+       The Commissioner shall, within 30 days following receipt of application, issue a license to operate any
+       Maple Syrup Processing Plant which is found to comply with 22 M.R.S.A., Chapter 551, Subchapter I
+       and the provisions of this chapter. When any such applicant, upon inspection by the Commissioner, is
+       found not to meet such requirements, the Commissioner is authorized to issue either a temporary
+       license for a specified period not to exceed 90 days, during which time corrections specified by the
+       Commissioner shall be made by the applicant for compliance or a conditional license setting forth
+       conditions which shall be met by the applicant to the satisfaction of the Commissioner.
+
+**Statutory Authority** : 10 MRSA § 2625, 22 MRSA §§ 2153, 2154, 2167, 2168 and 2169
+**Effective Date** : January 25, 1983
+**Effective Date (Electronic Conversion)** : May 4, 1996
+
+**01-001 Department Of Agriculture, Food & Rural Resource—Division Of Grading Services**
+
+**Chapter 117: Official Standard For Maple Syrup Grades**
+
+**Summary** : The purpose of this chapter is to establish official standards for grading maple syrup in the State.
+
+**1. Definitions**
+
+```
+A. Buddy Flavor/Buddiness. Buddy flavor or buddiness means the unpleasant flavor characteristic of syrup
+made from sap collected from maple trees as they come out of dormancy.
+```
+```
+B. Clean. Clean means that the syrup shall be practically free from foreign material such as pieces of bark,
+soot, dust, or dirt.
+```
+```
+C. Cloudiness. Cloudiness means the presence, in suspension, of fine particles of mineral matter, such as
+malate of lime, niter, sugar sand, calcium malate, or other substances that detract from the clearness of
+the syrup.
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 17
+```
+```
+D. Color. Color has reference to the color of maple syrup when examined by means of the U.S.D.A.
+permanent glass color standards for maple syrup. The color standards are available only from the
+approved supplier under a license from the U.S. Department of Agriculture.
+```
+```
+E. Consumer Size Container. Consumer size container means a container which has a volume capacity of
+less than one gallon, as determined when the liquid is 680 F. Consumer size containersinclude, but are not
+limited to, quart, pint and fluid ounce subdivisions of the gallon.
+```
+```
+G. Fairly Good Color. Fairly good color means that the syrup color is darker in color than the U.S.D.A.
+Dark Amber Glass Color standard, but is not off-color for any reason.
+```
+```
+H. Good Color. Good color means that the syrup color is bright and typical of maple syrup prepared from
+sound, properly gathered sap.
+```
+```
+I. Maple Sugar. Maple sugar means sugar made exclusively by the evaporation of pure maple syrup or
+pure maple sap.
+```
+```
+J. Maple Syrup. Maple syrup means the liquid food derived by concentration and heat treatment of the
+sap of the maple trees (Acer) or by solution in water of maple sugar (maple concentrate) made from
+such sap. The solids content of the finished maple syrup shall not be less than 66% (sixty six percent) by
+weight (brix) at 680 Fahrenheit. Alternatively, the word “syrup” may be spelled “sirup.”
+```
+```
+K. Serious Damage. Serious damage means any defect that seriously affects the edibility or market value of
+the syrup. Badly scorched syrup, buddy syrup, fermented syrup, or syrup that has any distasteful
+foreign flavor or disagreeable odor shall be considered as seriously damaged.
+```
+```
+L. U.S. Department of Agriculture Color Standard. U.S. Department of Agriculture Color Standard means
+the official U.S. Department of Agriculture Permanent Glass Color Standards for Maple Sirup.
+```
+**2. Grade Nomenclature**
+
+```
+Grade nomenclature may be prefixed-with the name of the state of manufacture or the letters “U.S.” or words
+“United States” where applicable.
+```
+**3. Determining the Grade of a Lot**
+
+```
+The grade of a lot of maple syrup covered by these standards is determined by the procedures set forth in the
+“Regulations Governing Inspection and Certification of Processed Fruits and Vegetables, Processed Products
+Thereof, and Certain Other Processed Food Products” (7 C.F.R. 2852.1 through 2852.83); PROVIDED:
+```
+```
+(1) When certifying the color of a sample that has been officially drawn and which represents a specific lot
+of maple syrup, the lot shall be considered as being of one color if the number of color deviants does not
+exceed the acceptance number in the appropriate sampling plan. Any lot of maple syrup in which the
+number of color deviants exceeds the acceptance number shall be designated as a lot of “mixed color.”
+```
+```
+(2) No deviants for “serious damage” shall be allowed in grades above substandard.
+```
+**4. Transition**
+
+```
+Containers of maple syrup sold or offered for sale for human consumption may be graded and labeled pursuant
+to this Chapter from the effective date of this Chapter until January 1, 1982. As of January 1, 1982, all containers
+of maple syrup sold or offered for sale for human consumption must be graded and labeled pursuant to this
+Chapter.
+```
+**Authority** : 7 M.R.S.A. § 892
+**Effective Date** : April 7, 1981
+**Effective Date (Electronic Conversion):** May 4, 1996
+
+
+18 MAPLESYRUPQUALITYCONTROLMANUAL
+
+**§892-A. Official grade standards for maple syrup**
+
+**1. Definitions**. As used in this section, unless the context otherwise indicates, the following terms have the
+    following meanings.
+
+```
+A. “Brix” means the scale used to measure the specific gravity of maple syrup. [1991, c. 326, §2 (new).]
+```
+```
+B. “Damage” means any defect that affects the color, appearance, flavor, aroma, edibility or shipping quality of
+maple syrup. [1991, c. 326, §2 (new).]
+```
+```
+C. “Light transmission” means the ability of maple syrup to transmit light as determined optically by means of
+a spectrophotometer. [1991, c. 326, §2 (new).]
+```
+```
+D. “Maple syrup” means the liquid derived by concentration and heat treatment of the sap of the maple tree.
+[1991, c. 326, §2 (new).]
+```
+```
+E. The symbol “%Tc” means the percentage of light transmission through maple syrup, measurable by a
+spectrophotometer using matched square optical cells having a 10-millimeter light path at a wavelength of
+560 nanometers, the color values being expressed in percent of light transmission as compared to A.R.
+Glycerol fixed at 100% transmission. [1991, c. 326, §2 (new).]
+```
+[1991, c. 326, §2 (new).]
+
+**2. Maple syrup grades.** The following grades are established as the official maple syrup grade standard
+    for the State.
+
+```
+A. “Grade A Light Amber” means pure maple syrup that is free of any material other than pure, clear liquid
+maple syrup in sanitary condition; has a color no darker than the federal Department of Agriculture’s visual
+color standard light amber or has a color for light transmittance not less than 75.0%Tc; has a delicately
+sweet, original maple flavor; and has a density of at least the equivalent of 66.0` Brix at 60` Fahrenheit
+Modulus 145. Grade A Light Amber maple syrup must be free of sugar crystals and may not be damaged in
+any way. [1991, c. 326, §2 (new).]
+```
+```
+B. “Grade A Medium Amber” means pure maple syrup that is free of any material other than pure, clear liquid
+maple syrup in sanitary condition; has a color no darker than the federal Department of Agriculture’s visual
+color standard medium amber or has a color for light transmittance between the range of 74.9%Tc to 0.5%Tc;
+and may have a flavor that is more pronounced than that of Grade A Light Amber, but that is not strong or
+unpleasant. Grade A Medium Amber must meet the density requirement of Grade A Light Amber. Grade A
+Medium Amber maple syrup must be free of sugar crystals and may not be damaged in any way. [1991, c.
+326, §2 (new).]
+```
+```
+C. “Grade A Dark Amber” means pure maple syrup that is free of any material other than pure, clear liquid
+maple syrup in sanitary condition; has a color no darker than the federal Department of Agriculture’s visual
+color standard dark amber or has a color for light transmittance between the range of 60.4%Tc to 44.0%Tc;
+and may have a flavor that is stronger than that of Grade A Medium Amber, but that is not sharp, bitter,
+buddy or off-flavor. Grade A Dark Amber must meet the density requirement of Grade A Light Amber.
+Grade A Dark Amber maple syrup must be free of sugar crystals and may not be damaged in any way.
+[1991, c. 326, §2 (new).]
+```
+```
+D. “Grade A Extra Dark Amber” means pure maple syrup that is free of any material other than pure, clear liquid
+maple syrup in sanitary condition; has a color for light transmittance between the range of 43.9%Tc to
+27.0%Tc; and may have a flavor stronger than Grade A Dark Amber. Grade A Extra Dark Amber must meet
+the density requirements of Grade A Light Amber. Grade A Extra Dark Amber maple syrup must be free of
+sugar crystals and may not be damaged in any way. [1991, c. 326, §2 (new).]
+```
+```
+E. “Commercial Grade” means pure maple syrup that is free of any material other than pure, clear liquid maple
+syrup in a sanitary condition; has a color for light transmittance less than 27.0%Tc; and may have a strong
+flavor. Commercial Grade maple syrup must be free of sugar crystals and may not be damaged in any way.
+```
+
+```
+UMAINECOOPERATIVEEXTENSIONBULLETIN#7038 19
+```
+```
+Commercial Grade maple syrup may not be placed in packaged maple syrup containers and may not be
+sold, offered for sale or exposed for sale as packaged maple syrup. [1991, c. 326, §2 (new).]
+```
+```
+F. Substandard” means bulk maple syrup that fails to meet the requirements of any other grade. Such syrup
+may not be placed in packaged maple syrup containers and may not be sold, offered for sale or exposed for
+sale as packaged maple syrup. [1991,
+```
+```
+§893. Labeling of maple syrup
+```
+All containers of maple syrup sold or offered for sale for human consumption by any person, partnership, association,
+firm or corporation shall be labeled with the grade, the volume, name and address of the producer or packer, together
+with the producer's or packer's seal in such form as approved by the commissioner on the cap of the container which
+must be so affixed that the container cannot be opened until such seal is broken. Any marking which indicates pure
+Maine maple syrup shall be used exclusively upon pure maple syrup produced within the State of Maine and which has
+not been bleached or lightened in color by artificial means. [1979, c. 541, Pt. A, § 57 (amd).]
+
+The words “Maine Maple” shall not be used alone or in combinations with other words on a label or container to
+designate the flavor of the contents unless all of the maple flavoring of the contents is a pure maple, produced in this
+State. [1967, c. 104 (new).
+
+**§894. Labeling containers**
+
+Any person, partnership, association, firm or corporation shall not sell or offer for sale in any place, or serve in any
+hotel, restaurant or other public eating place any maple sugar, maple confection or candy or maple syrup or any product
+labeled or represented as such that is in any way combined, interfused or diluted with cane or other sugars or any
+substance without distinctly marking, stamping or labeling the article or the package containing the same or the
+advertisement of or menu statement thereof with an accurate and descriptive name of such article and in the case of maple
+sugar and maple syrup, the percentage in which maple sugar or maple syrup enters into its composition. In case of
+maple confection or candy a list of the ingredients thereof shall be listed in the order of their volume. The word
+“maple”, “mapled”, “mapleing” and words of similar import, except as printed in the percentage statement shall not
+appear in any manner on the said article in which a product of maple sap is so combined, interfused or diluted, unless the
+word “blend” appears immediatelybefore, after, above or below said word or words of similar import in equal prominence
+with the word “maple” or similar term, or unless the term "maple flavored" appears in similar fashion on the label. [1967, c.
+
+104. (new)]
+**895. Advertising**
+
+Any person, partnership, association, firm or corporation, when quoting the price, shall include the grade on all flyers,
+newspapers, radio and television advertisements. [1967, c. 104 (new).]
+
+**§896. Exemptions**
+
+Any producer selling to another producer or packer is exempt, except if containers are labeled with a grade, the contents
+of that container shall meet the grade marked on that container. [1979, c. 541, Pt. A, § 58 (amd).]
+
+**898. Violations**
+
+Any person, firm or corporation who shall violate any of the provisions of sections 891 to 898 or neglect or refuse to
+comply with any of the provisions required in those sections or in any way violates any of those provisions commits a
+civil violation for which the following forfeitures may be adjudged: [1977, c. 696, § 78 (rpr).]
+
+1. First violation. For the first violation, a forfeiture not to exceed $100; and [1977, c. 696, § 78 (new).]
+2. Subsequent violations. For each subsequent violation, a forfeiture not to exceed $200. [1977, c. 696, §78 (new).]
+    c. 326, §2 (new).]
+
+[1991, c. 326, §2 (new).]
+
+
+20 MAPLESYRUPQUALITYCONTROLMANUAL
+
+_Notes_
+
+
+_© 2002, updated 2007, 2010_
+
+_Prepared by the University of Maine Cooperative Extension in cooperation with the Maine Department of Agriculture,
+Food and Rural Resources, Division of Quality Assurance & Regulations, the Vermont Department of Agriculture
+and the Maine Maple Syrup Producers Association._
+
+**[http://www.extension.umaine.edu](http://www.extension.umaine.edu)**
+
+_A Member of the University of Maine System_
+
+Published and distributed in furtherance of Acts of Congress of May 8 and June 30, 1914, by the University of Maine Cooperative
+Extension, the Land Grant University of the state of Maine and the U.S. Department of Agriculture cooperating. Cooperative
+Extension and other agencies of the U.S.D.A. provide equal opportunities in programs and employment. 11/10
+
+**For a printed copy of the UMaine Extension publications catalog, call 800-287-0272 (in Maine) or 207-581-3792
+(TTY 800-287-8957).**
+
+

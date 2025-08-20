@@ -1,0 +1,3173 @@
+## Skills for Inclusive Digital Participation
+
+## Basic Digital Skills
+
+## Training Manual
+
+## Your Guide to Basic
+
+# Digital Skills
+
+**SECOND EDITION**
+
+
+**© British Council 2022,**
+
+The British Council is the United Kingdom's international organisation for cultural relations and educational
+opportunities.
+
+**Skills for Inclusive Digital Participation**
+
+## Basic Digital Skills Training
+
+## Manual
+
+## Your Guide to Basic
+
+## Digital Skills
+
+**SECOND EDITION**
+
+
+**© British Council 2022,**
+
+The British Council is the United Kingdom's international organisation for cultural relations and educational
+opportunities.
+
+## Table of Contents
+
+
+## Table of Contents
+
+
+
+
+
+
+
+
+## List of Figures
+
+
+## List of Figures
+
+
+- 1. Who should read this Manual?
+- 1.1 How to use this manual
+- 1.2 Recommended and discretionary topics
+- 1.2.1 Recommended topics
+- 1.2.2 Discretionary topics
+- 1.3 A suggested learning journey
+- 1.3.1 Day
+- 1.3.2 Day
+- 1.3.3 Day
+- 1.3.4 Follow our suggested learning journey
+- 1.3.5 Annexes and worksheets
+- 1.3.6 The SIDP learning journey and certificates of participation
+- 1.4 Further guidance on delivering the SIDP programme
+- 2. First steps
+- 2.1 What is digital?
+- 2.2 Learning outcomes
+- 2.3 Introducing you to digital technology
+- 2.4 Advantages of using digital devices
+- 2.5 Types of digital devices
+- 2.5.1 Personal Computer (PC)
+- 2.5.2 Laptop
+- 2.5.3 Tablet
+- 2.5.4 Smartphone
+- 2.6 A computer is made up of both hardware and software
+- 2.7 Computer operating systems
+- 2.7.1 Functions of operating system
+- 2.8 Strengths and limitations of different of computer operating systems
+- 2.8.1 Apple iOS
+- 2.8.2 Microsoft Windows
+- 2.8. 3 Apple macOS
+- 2.8.4 Linux Operating System
+- 2.9 Factors to consider when selecting an operating system for your device
+- 2.10 Application Software
+- 2. 11 Hardware
+- 2.11.1 Input devices
+- 2.11.2 Output Devices
+- 2.12 Activity: Recap the fundamentals of computing
+- 3. Turning on your digital device on
+- 3.1 Learning outcomes
+- 3.2 Turning on devices
+- 3.2.1 Turning on a laptop (Windows 10)
+- 3.2.2 Turning on Desktop computer (Windows 10)
+- 3.2.4 Turning on an Android Phone
+- 3.2.5 Turning on an iPhone
+- 3.3 Activity: Turning on (powering up) your device
+- 3.4 Hibernating a device
+- 3.4.1 Importance of hibernating
+- 3.5 Shutting down/turning off a device
+- 3.5.1 Shutting down a Computer (Windows 10)
+- 3.6 Shutting down a tablet
+- 3.6.1 Shutting down an Android phone
+- 3.6.2 Shutting down an iPhone
+- 3.7 Activity: Safely turn off your device
+- 4. Restarting devices
+- 4.1 Restarting a computer/laptop
+- 4.2 Restarting an Android Phone /Tablet
+- 4.3 Restarting an iPhone
+- 4.4 Activity on restarting a device
+- 5. Health and safety while working with digital devices
+- 5.1 Learning outcomes
+- 5.2 Staying healthy and safe when using a PC or laptop
+- 5.3 Precautions to take when you use smartphone or tablet
+- 5.4 Activity: Analyse how you use your digital device
+- 6. Buying a digital device
+- 6.1 How to check the specifications of computer
+- 6.2 Activity: Check system specifications
+- 7. Fixing problems with your device
+- 7.1 The computer does not turn on
+- 7.2 The monitor/screen is not on (PC)
+- 7.3 Computer stops responding (hangs)
+- 7.4 Error messages
+- 7.5 Mouse not responding
+- 7.6 Keyboard not responding
+- 7.7 Wireless mouse not responding
+- 7.8 Laptop Mouse touchpad not working
+- 7.9 Activity: Troubleshooting and fixing problems
+- 8. Navigating your digital device
+- 8.1 Learning outcomes
+- 8.2 Computers and mobile digital devices
+- 8.3 Basic navigation skills
+- 8.3.1 How to use a mouse
+- 8.3.2 How to use a laptop touchpad
+- 8.3.3 Touch screen navigation
+- 8.3.4 Typing on a touch screen device
+- 8.3.5 How to use a keyboard
+- 8.4 Navigating a computer or laptop
+- 8.4.1 Using “Icons”
+- 8.4.2 How to open an Icon on the desktop of a laptop or a computer
+- 8.4.3 Using a “Window”
+- 8.4.4 Title bar
+- 8.4.5 Task Bar
+- 8.5 Navigating your mobile device
+- 8.5.1 Using your smartphone and its applications
+- 8.5.2 Entering information into a smartphone
+- 8.5.3 Creating a folder and-subfolder in an Android smartphone
+- 8.5.4 Activity: Using your mobile device
+- 8.5.5 Activity: Creating folders and directory structures
+- 9. Using accessibility features
+- 9.1 Expected learning outcomes from this topic
+- 9.2 How to use accessibility features
+- 9.2.1 Magnifier
+- 9.2.2 Verbal controls on a typical computer
+- 9.2.3 Other accessibility features
+- 9.2.4 Other accessibility features on a mobile device
+- 9.3 Activity: Using accessibility functions on your digital device
+- 10. Using computers and smartphones safely
+- 10.1 The importance of keeping equipment clean
+- 10.1.1 Laptop and desktop computers
+- 10.1.2 Smartphones
+- 10.2 Step by step instructions to keeping your digital device clean
+- 10.2.1 Laptop and Desktop Computer
+- 10.2.2 Phone
+- 10.3 Charging batteries, and managing risk of fire
+- 10.4 Activity: Familiarise yourself with safety features of your device
+- 11. Creating accounts and creating passwords
+- 11.1 Expected Outcome from Creating Accounts and Password
+- 11.2 Creating Accounts and Password
+- 11.2.1 Purpose of a Password
+- 11.2.2 Bad password practices
+- 11.3 Activity: Create an online account
+- 11.4 Using an online account: Google classroom
+- 11.4.1 Google Classroom assignments
+- 11.4.2 How to use to log in to Classroom if you are a student
+- 11.4.3 How to complete a quiz assignment
+- 12. Introduction to internet and the World Wide Web
+- 12.1 Expected learning outcomes from this topic
+- 12.2 Importance of connecting to the Internet
+- 12.3 Using cables to connect to the internet
+- 12.4 Connecting to the internet through Wi-Fi
+- 12.5 Activity: Connecting to the Internet
+- 13. Using a web browser
+- 13.1 Web addresses, or Uniform Resource Locators (URLs)
+- 13.2 Understanding a URL – the address of a website
+- 13.3 Navigation buttons in Google Chrome
+- 13.4 Bookmarks and history
+- 14 Downloading/saving files
+- 14.1 To download an image
+- 14.2 Steps to downloading a document
+- 15. Safe browsing on the Internet
+- 15.1 Keep your browser updated
+- 15.2 Domain and URL checking
+- 15.3 Be cautious of free software
+- 15.4 Be cautious of peer-to-peer file sharing
+- 15.5 Verifying secure sites
+- 15.5.1 Secure Websites
+- 15.5.2 Activity: Use the internet to search for information and documents
+- 16. Staying safe online: Cyber security and you
+- 16.1 Expected outcomes from the cyber security module
+- 16.2 What is cyber security?
+- 16.3 Key Terms used in Cyber Security
+- 16.4 Types of Personal Data Targeted in Cyber Attacks
+- 16.4.1 Consequences of not Securing Personal Data
+- 16.4.2 Threats to your personal data
+- 16.4.3 Spotting a Fake Email or URL
+- 17. Online abuse and cyberbullying
+- 17.1 Signs of Cyberbullying
+- 17.2 Effects of Cyberbullying
+- 17.3 Strategies for dealing with cyber bullying
+- 17.3.1 Do not respond immediately
+- 17.3.2 Follow up when you are more calm
+- 17.3.3 Take screenshots of the message
+- 17.3.4 Stop frequently checking posts
+- 17.3.5 Report and block
+- 17.4 Specific dangers for women and girls
+- 17.4.1 Typical ways this can happen
+- 17.4.2 Some suggestions to help you stay safe
+- 18. Understanding the difference between real news and fake news
+- 18.1 What is real news?
+- 18.2 What is fake news?
+- 18.3 Types of fake news
+- 18.4 Some of the ways to identify fake news
+- 19. First steps to getting your business online
+- 19.1 Taking your business online
+- 19.2 Online and social marketing
+- 19.3 Simple steps to setting up a website
+- 19.4 Simple steps to setting up an e-commerce site
+- 19.5 Potential threats to online businesses and the information of their customers
+- 19.5.1 Elements of Data Security for Online Business Owners
+- 19.5.2 SQL Injection attacks
+- 19.5.3 Denial of Service (DoS)
+- 19.5.4 Activity: Lesson review and first steps
+- 20. Other basic skills
+- 20.1 Accessing services online
+- 20.2 Automated Teller Machines (ATM)
+- 20.2.1 How to use an ATM machine
+- 20.2.2 Activity: Using your ATM card and high-street banking services
+- Figure 1: A typical desktop personal computer system
+- Figure 2: A typical desktop tower unit PC system
+- Figure 3: A typical desktop system unit
+- Figure 4: Input and output ports for a desktop PC
+- Figure 5: A typical laptop computer
+- Figure 6: A typical computer tablet
+- Figure 7: A typical smartphone
+- Figure 8: A table showing some well-known operating systems and their logos
+- Figure 9: The functions of an operating system in a digital device
+- Figure 10: Input devices
+- Figure 11: Hard copy output
+- Figure 12: A typical location of a power button on a laptop
+- Figure 13: Typical location of a power button on a desktop PC
+- Figure 14: Examples of android OS power off options
+- Figure 15: The location of the power and windows icons on a Windows laptop or PC
+- Figure 16: The location of the Restart button on an Android phone or tablet
+- Figure 17: How to restart an iPhone
+- Figure 18: How to check for specifications on a Laptop with Windows
+- Figure 19: The Task Manager screen that appears if you press Ctrl+Alt+Delete
+- Figure 20: Select the program (or app) to close that is causing
+- Figure 21: A typical mouse and its buttons
+- Figure 22: Location and function of a TouchPad
+- Figure 23: An onscreen keyboard
+- Figure 24: A typical computer keyboard
+- Figure 25: Editing keys and cursor keys on a keyboard
+- Figure 26: Numeric keypad
+- Figure 27: Function keys on a keyboard
+- Figure 28: The Shift Key
+- Figure 29: The Control Key
+- Figure 30: The Escape Key
+- Figure 31: A computer desktop with Icons
+- Figure 32: Some Icons and their meanings
+- Figure 33: Double-clicking an Icon
+- Figure 34: Using "right-click" to open an Icon
+- Figure 35: Two Windows open on a desktop
+- Figure 36: The Title bar in a window allows you to close, expand or shrink a Window
+- Figure 37: The Task Bar has many useful shortcuts and frequently
+- Figure 38: A stylus can be used to help you navigate mobile devices such as
+- Figure 39: The location of the Home button on most smartphones
+- Figure 40: A typical virtual keyboard on a mobile device.
+- Figure 41: How to enable the Dictation, or Speech to text option on a typical smartphone
+- Figure 42: Creating folders/subfolders on an Android smartphone
+- Figure 43: Windows Cortana voice interface
+- Figure 44: How to enable voice controls on a smartphone
+- Figure 45: Logging on to Google Classrooms
+- Figure 46: Cables and connections
+- Figure 47: The Wi-Fi symbol
+- Figure 48: Some popular web browsers
+- Figure 49: The different parts of a web address
+- Figure 50: An address bar in a typical web browser
+- Figure 51: Google Chrome, a typical web browser and basic navigation buttons
+- Figure 52: The bookmark icon on the address bar of a typical web browser
+- Figure 53: Editing the name on a bookmark
+- Figure 54: Accessing your browsing history
+- Figure 55: Right clicking an image to download the image
+- Figure 56: The padlock symbol means the website is more secure
+
+
+
+## List of Tables
+
+
+List of Tables
+
+Table 1: Day 1 3
+
+Table 2: Day 2 3
+
+Table 3: Day 3 3
+
+
+## Table of Contents
+
+## 1. Who should read this
+
+## manual
+
+
+```
+Who should read this Manual?
+```
+```
+This manual is intended for both trainers, and learners, to develop their
+confidence, knowledge, and basic digital skills.
+```
+```
+For trainers, this manual has different resources for use in supporting skills
+development. For advanced learners, the manual can be used for independent
+study, adding to the knowledge and skills gained through trainer-facilitated
+sessions.
+```
+How to use this manual
+
+If you are a trainer then you should read this manual, the supporting materials in the
+accompanying annexes, and the accompanying SIDP **Pedagogy Guide: Guidance and suggestions
+for trainers using Skills for Inclusive Digital Participation.** This guide includes guidance and
+suggestions on how to achieve the most from this document. It also equips you with a step-by-
+step guide on how to disseminate the various learning resources that are meant for the target
+audience who include differently abled learners.
+
+As a trainer or teacher, we assume you have a good understanding of how to use training
+materials to develop knowledge, skills and confidence in your students. We also assume you will
+use materials that are relevant for your students.
+
+We have structured the course materials into self-contained topics to help give you flexibility
+when you use these materials. You could deliver all the training materials to all of your students,
+or you could choose to deliver only the topics that are useful for your students to learn more
+about. It is our hope that this flexibility in the use of training materials will help you deliver
+appropriate learning journeys for your students.
+
+Recommended and discretionary topics
+
+The content in these manuals is divided into topics. The topics are manuals are categorised into
+three types
+
+```
+Recommended topics
+These are topics that important for many learners, but possibly not for all
+learners. A good understanding of these topics is an important foundation for
+developing digital skills. Recommended topics should be covered if possible.
+```
+```
+Recommended topics can be very useful as:
+```
+**1**
+
+
+1. Extension exercises in a training workshop.
+2. As an assignment after a training workshop.
+3. As preparatory work before a training workshop, for instance when a learner
+    moves from basic manual to another manual.
+
+```
+Discretionary topics
+These topics should be covered if there is time, or an interest in the subject. These
+topics cover important areas of knowledge and skills, but they may be slightly
+more advanced in nature, or more specific in application.
+```
+**2**
+
+
+A suggested learning journey
+
+This manual introduces fundamental digital skills and explains their relevance and importance in
+an increasingly digital world.
+
+This manual has a little more emphasis on step-by-step instruction as this is an introductory
+manual than the follow-on manuals.
+
+This manual includes the following topics:
+
+Day 1
+
+**Topic Category**
+
+## 2.3 Introducing you to digital technology
+
+```
+Navigating the Screen and Accessibility Features
+Looking after Hardware
+```
+```
+Recommended
+```
+```
+Recommended
+Recommended
+```
+```
+Table 1 : Day 1
+```
+Day 2
+
+**Topic Category**
+
+```
+Creating and Managing Passwords
+Connecting to the Internet
+```
+```
+Using Computers and Smartphones Safely
+Cyber Security: Staying Safe Online
+```
+```
+Recommended
+Recommended
+```
+```
+Recommended
+Recommended
+```
+```
+Table 2 : Day 2
+```
+Day 3
+
+**Topic Category**
+
+```
+Analysing online news and distinguishing Fake News
+```
+```
+First Steps to getting your Business Online
+Other Basic Digital Skills
+```
+```
+Recommended
+```
+```
+Discretionary
+Discretionary
+```
+```
+Table 3 : Day 3
+```
+
+Follow our suggested learning journey
+
+We have suggested topics that we think are important for you to study (recommended topics)
+and useful topics to study if you have time (discretionary topics).
+
+Study all the recommended topics in order. These topics must be completed to qualify for a
+certificate of participation.
+
+If you wish to continue studying basic digital skills, we suggest you proceed to the discretionary
+topics. You can choose to study some, or all, of the topics that interest you.
+
+Annexes and worksheets
+
+To support you as you work through this manual there are additional materials available. These
+are:
+
+Worksheet annexes
+
+There are standardised activity sheets, and reflection sheets. You can print these and use the
+forms as you progress through the programme.
+
+These worksheets can be filled out in training, or as part of extension working such as preparatory
+work or homework assignments given after training.
+
+Country specific annexes
+
+Each manual has accompanying annexes from countries in the programme – Indonesia, Kenya and
+Nigeria.
+
+These annexes contain local content, case studies and examples, exercises and resources that are
+relevant for that country. These additional materials are an important and useful addition to
+individualise materials for different countries and cultures.
+
+
+Country specific annexes supporting this manual include:
+
+1. Annex_Basic Digital Skills_Indonesia
+2. Annex_Basic Digital Skills_Kenya
+3. Annex_Basic Digital Skills_Nigeria
+
+The SIDP learning journey and certificates of participation
+
+It is expected that learners complete at least the recommended topics and have evidence of their
+activity (through completed and notarised activity worksheet and reflection worksheets) to
+qualify for a certificate of participation.
+
+Further guidance on delivering the SIDP programme
+
+For more information on how to use this manual and materials to deliver the SIDP programme
+please refer to section **Guiding your students on their learning journey** in the Pedagogy Guide.
+
+
+## 2. First steps
+
+
+```
+First steps
+```
+```
+This topic introduces you to the basics of using a computer and other digital
+devices. These devices include computers laptops, tablets, smartphones and other
+gadgets that learners may or may not have been exposed to.
+```
+What is digital?
+
+The term "digital" is currently used to represent everything that a computer uses and produces.
+
+The word "digital" describes a numbering process or a series of number processing. This
+processing is done by a computer device. Therefore, "digital" is closely associated with activities
+that use and are generated by computers.
+
+Learning outcomes
+
+By the end of this topic, you will be able to:
+
+1. Identify different digital devices.
+2. Understand what the internet and the world wide web are.
+3. Identify different types of operating systems.
+
+Introducing you to digital technology
+
+Here are some words and phrases you should know:
+
+1. Digital devices are electronic tools come in many forms. Common devices include
+    computers, laptops, tablets, and smartphones (such as the iPhone or Android phone). A
+    digital device allows you to enter data that is processed, and this results in a useful
+    output. The information can then be stored in the device for future use.
+2. Data is information. Data is entered into a digital device using an input device, for
+    instance via a keyboard, mouse, touchpad, scanners, light pen, or joystick.
+3. Processing of data to information takes place in the brain of the device which is the
+    Central Processing Unit (CPU).
+4. Information or output is data that has been processed. Output can be produced either in
+    hard copy (such as paper or printed photos) or soft copy (such as electronic files).
+    Examples of output devices include monitor/screen, printer, and speakers.
+5. The processed data (information), programs (instructions that tell the computer what to
+    do) and raw data can also be stored for future use on storage devices like SD cards, flash
+    disks, hard disks or optical disks.
+
+
+Advantages of using digital devices
+
+Digital devices allow the user access to digital technology which has many advantages over more
+established tools and processes such as pen and paper, the postal service or face-to-face banking.
+
+These advantages include:
+
+6. Easier, faster, and better communication e.g., emails, social media and social messaging.
+7. Fast access to information (local & global) when the digital device is connected to the
+    internet.
+8. The ability to create a wide variety of content relatively easily.
+9. The ability to sell and buy online.
+10. Accessing learning and knowledge and gaining new skills.
+11. The ability to store a vast amount of data and information.
+12. Increased accessibility and usability as digital devices can be controlled with text, sound
+    and video.
+
+There are also disadvantages and risks associated with digital technology. These include:
+
+13. Digital technology can be expensive to buy, run, insure and replace.
+14. Expensive technology can be seen as valuable and worth stealing.
+15. Digital devices require access to electricity, either as the main power source or to charge
+    batteries that allows the device to be portable.
+16. Access to the internet can be both expensive and difficult to secure.
+17. Excessive use of technology can have negative effect on your physical and mental health
+    and social relationships.
+
+Types of digital devices
+
+There are many different types of digital devices that you can use. Devices can be expensive but if
+you are prepared to use less powerful devices, they can be much less expensive. The size of
+devices can vary, and you need to consider storage and portability when buying one.
+
+The physical form of the device and its contents, such as screen and electronic components, are
+called hardware. This is because you can physically feel this part of a digital device.
+
+Here is a summary of some typical digital devices.
+
+
+```
+Personal Computer (PC)
+A personal computer is a type of computer that is usually placed on a desk and specifically
+designed to be used by one person at a time. It is made up of different parts that are connected
+to work as a single entity. The figure below illustrates a desktop computer.
+```
+## Figure 1: A typical desktop personal computer system
+
+```
+The system unit (sometimes called a base unit)
+This part of the computer contains the brain of the computer and other parts such as the CD/DVD
+Drive. You can connect extra devices to the system unit with special cables.
+```
+```
+There are two main types of system units:
+```
+1. Tower system units are usually placed upright on a table and the monitor is placed next to it.
+
+## Figure 2: A typical desktop tower unit PC system
+
+2. Desktop system units are usually placed flat on a table. The monitor is usually placed on top
+    of it.
+
+
+## Figure 3: A typical desktop system unit
+
+**Peripheral devices (mouse, keyboard, screen)**
+
+Peripheral devices are parts of the computer systems that help a computer get information in and
+out. Peripherals help you control and communicate with a computer.
+
+Peripherals are connected to the system unit through special holes called “ports”.
+
+1. PS/2 port - Used to connect the mouse and the keyboard
+2. VGA Port - Used to connect the monitor or the projector
+3. USB Port - Used to connect the mouse, keyboard, printers, scanners
+4. AUDIO Port - Used to connect the speakers or headphones
+
+## Figure 4: Input and output ports for a desktop PC
+
+
+**Advantages of a desktop computer over a laptop**
+
+5. A desktop computer is relatively cheaper compared to a laptop.
+6. It has many ports so you can connect more peripheral devices compared to a laptop.
+7. You can connect to a large screen/ monitor.
+
+Laptop
+
+A laptop is a smaller and lighter type of personal computer that is designed to be placed on the
+lap when working. As these come with batteries you do not need to be connected to an electricity
+source, except when you need to charge the batteries, this allows you to travel with the laptop.
+However, they are more expensive than desktop computers.
+
+## Figure 5: A typical laptop computer
+
+**Advantages of a laptop over Personal Computer**
+
+8. A laptop is portable so you can move with it from one place to another.
+9. Some peripheral devices are inbuilt such as keypad, touchpad and speakers.
+10. You can work with a laptop, even when there is no power, since it has a battery which is
+    chargeable.
+
+Tablet
+
+A tablet is a mobile device that is smaller and lighter than a laptop. It is operated by touching the
+screen. It has a chargeable battery. Unlike a laptop its keyboard is the screen.
+
+
+## Figure 6: A typical computer tablet
+
+Smartphone
+
+A smartphone is part computer and part mobile telephone. It is a small digital device that is held
+in your hand. It is mostly used for communication through making phone calls or sending a short
+text message. However, it also has other capabilities such as taking photos and videos. You can
+also use a smartphone to connect to the internet.
+
+A smartphone is navigated through touching the screen (commonly referred to as touch screen).
+In this way it is very similar to using a tablet device.
+
+## Figure 7: A typical smartphone
+
+A computer is made up of both hardware and software
+
+A digital device is not one thing, it is made up of many parts. Some of these are physical like the
+“hardware” and some you cannot see like the “software”.
+
+
+Software is the computer instructions that direct a computer on what to do and how to do it.
+Operating systems, sometimes called OS, are very important because it manages the computer's
+memory, power, hardware, and other software. Operating systems such as Microsoft Windows,
+or MacOS, are well known, and they do the basic tasks and housekeeping of a computer.
+
+For a computer to be useful we need other programs. These applications, sometimes shortened
+to “apps”, are types of software that do specific things such as help us write a letter, watch a
+video, or undertake calculations and manipulate data.
+
+Examples of application software includes Microsoft Word, Microsoft Excel, Word Pad and Calc.
+
+Computer operating systems
+
+An operating system is a program that controls all the functions, including both hardware and
+software, in an electronic device. For any communication and storage of data to take place in a
+device, there must be an operating system.
+
+The phrase operating system is sometimes shortened to OS.
+
+```
+Operating system logos Operating system names
+```
+```
+Windows Operating system
+```
+```
+Mac Operating system
+```
+```
+Linux Operating System
+```
+```
+Android
+```
+```
+iOS for iPhones
+```
+## Figure 8: A table showing some well-known operating systems and their logos
+
+Functions of operating system
+
+The operating system in a digital device has many jobs. The operating system makes the tasks you
+do easier because it uses pictures and symbols to help you navigate and use a digital device. This
+
+
+approach to controlling and using a computer is called a graphical user interface (GUI) or user
+interface (UI).
+
+Some jobs an OS does include:
+
+1. Managing other software. This can include application software (or apps) that do specific
+    things.
+2. Control hardware devices such as printers.
+3. Resource allocation such as accessing and using networks.
+4. Enable communication between hardware and software.
+5. Allow users to interact with the software, e.g., gaming, typing.
+
+## Figure 9: The functions of an operating system in a digital device
+
+Strengths and limitations of different of computer operating systems
+
+Apple iOS
+
+Apple’s iOS is a popular operating system for smartphones. It works on Apple hardware, including
+iPhones and iPad tablets. iOS has a simple control system and has strong safety features, known
+as encryption, that prevents unauthorised access to your data. The system allows you to access to
+an application shop where users can buy and download free or paid for apps.
+
+Microsoft Windows
+
+Microsoft Windows is the most common home and office software operating system. It is also
+used by many companies and governments. Microsoft Windows user interface include windows
+which are panel-screens that represent individual applications in a rectangular shape.
+
+
+Apple macOS
+
+Apple laptops use the macOS. Although the graphical interfaces are different, many of the
+programming interfaces and command-line features are similar. macOS has The Dock which is a
+bar of controls that is used to check for programs and files that are commonly used, single
+keyboard keys, including the Command key. macOS is famous for its user-friendly functionalities
+like Siri, a natural-voice personal assistant, and FaceTime a video chatting software.
+
+Linux Operating System
+
+Linux is a secure and customisable operating system. Linux is open-source software. This means
+that it generally very safe against virus attack and errors, and it is also free to use, although you
+may have to pay for support. Many electronic gadgets such as internet routers, washing
+machines, TVs, refrigerators use special Linux software.
+
+Factors to consider when selecting an operating system for your device
+
+1. The cost: open-source software (such as Linux) is usually free for personal use, but
+    licensed software (such as Microsoft Windows) needs to be paid for.
+2. User-friendliness of the operating system.
+3. Availability and range of applications software that works with the chosen OS.
+4. Its security features, particularly against viruses e.g., Linux is more secure than the
+    Windows OS. Antivirus software is available for operating systems or may have this built
+    into the OS, e.g., Windows Defender.
+
+Application Software
+
+These are types of software that help you do useful tasks. Applications are installed on a
+computer and are managed by the operating system e.g., MS Word for document creation, or
+Windows Media Player for playing videos.
+
+Types of application software include:
+
+1. Word processor – for creating documents e.g., MS-Word.
+2. Database – for keeping records and files e.g., MS Access.
+3. Spreadsheet – for calculations e.g., MS Excel.
+4. Desktop publishing – designing publications such as cards or posters e.g., Adobe Page
+    Maker.
+5. Computer-Aided Design – for technical drawing e.g., AutoCAD.
+
+
+6. Graphics software – for designing and manipulating graphics e.g., Photoshop.
+
+Hardware
+
+Hardware is any part of a computer that can be touched or felt. Hardware devices are categorized
+into:
+
+1. Input devices.
+2. Output devices.
+3. Storage devices.
+4. Processor (CPU).
+
+Input devices
+
+These are peripherals or devices that help get information into a computer. Input devices come in
+many forms.
+
+```
+Keyboard/Keypad
+A keyboard or keypad is used to enter data into a computer or
+laptop. One enters data using the keyboard’s letter, numerical
+or special character keys.
+```
+```
+Mouse/ touchpad
+```
+```
+These are pointing devices. They control a pointer on the
+screen usually to select commands.
+```
+```
+Light pen
+This is a handheld pen-like device that has a light sensitive
+point and is used to select options on a touch screen.
+```
+
+```
+Scanning device
+```
+```
+This is a device that reads data which may be in a form of a
+photo, printed work or handwritten (hard copies) and converts
+it to a soft copy (digital copy) that one can manipulate using
+special software.
+```
+```
+Mobile phones have scanner apps such as Cam Scanner.
+Touchscreen
+```
+```
+The user selects an item or enters data by touching the screen
+of a laptop screen, desktop monitor, tablet or smartphone
+screen.
+```
+```
+Digital camera
+Used to take photos that can be stored in a computer for
+sharing or to be edited
+```
+```
+Microphone
+An input device that is used to enter spoken data into a
+computer. It mostly used during online meetings or
+teleconferencing
+```
+## Figure 10: Input devices
+
+Output Devices
+
+These are devices that allow you to access processed information from devices.
+
+There are generally two types of output device:
+
+1. Soft copy output devices – this is output that can only be seen or heard
+2. Hard copy output device – this is an output device that can be touched or felt
+
+```
+Monitor/Screen
+```
+```
+It’s the most commonly used soft copy output device. Displays
+processed information in the form of text, picture and video.
+```
+
+```
+Speaker
+It gives output in the form of sounds. The speakers are either
+inbuilt or external.
+Internal speakers - These are inside the computer
+```
+```
+External Speakers - These are bought separately
+```
+```
+LCD Projectors
+Usually connected to devices to display output to a larger
+audience during conferences or training.
+```
+## Figure 11: Hard copy output
+
+Activity: Recap the fundamentals of computing
+
+For the activity you will:
+
+1. Identify the operating system on your device.
+2. Identify other programs/apps on your device.
+3. Find out the uses of the programs/apps in your device.
+
+After the activity, you should reflect and record your findings.
+
+**4.** Fill in the table below to share your thoughts on digital devices, the programs you have
+    and their importance.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx.
+
+
+
+## 3. Turning on your digital device on
+
+
+```
+Turning on your digital device on
+```
+```
+Devices need to be powered on. Portable devices use batteries, so usage needs to
+be managed, to ensure you do not run out of power.
+```
+Learning outcomes
+
+By the end of this topic, you will be able to:
+
+1. Turn a computer device on.
+2. Hibernate a computer device.
+3. Turn off a computer device.
+
+4.
+
+Turning on devices
+
+You need to switch a digital device on so that you can use it. Devices may need to be switched on
+and off to update software, or to reset the device to fix a problem.
+
+Turning on a laptop (Windows 10)
+
+Here are few simple steps you need to take so you can turn on your Windows laptop safely.
+
+1. Ensure its battery is charged or plug the laptop charger to the socket and switch on the
+    **power socket**.
+2. Press the **power** button
+3. Wait for the laptop to turn on.
+
+**Note:** The power button can be on different places depending on the laptop type. For instance, it
+can be on the left or right under the screen or to the left or right on the side of your keyboard
+
+## Figure 12: A typical location of a power button on a laptop
+
+
+Turning on Desktop computer (Windows 10)
+
+Here are few simple steps you need to take so you can turn on your Windows desktop safely.
+
+1. Check the power cables for both the monitor and the system unit are both connected to
+    the socket.
+2. Press the **power button** of the **monitor**. This is to turn the screen on
+3. Press the **power button** of the **system unit**. This is to turn the PC on
+4. Wait for the computer to turn on.
+
+## Figure 13: Typical location of a power button on a desktop PC
+
+3.2.3 Turning on a tablet
+
+Here are few simple steps you need to take so you can turn your tablet on safely.
+
+1. Make sure the tablet is fully charged.
+2. Press the **power button** (located on the top or right edge of the tablet).
+3. If there is a sim card, then it will prompt you to **type in your PIN**.
+4. Wait for the tablet to turn on.
+
+## 3.2.4 Turning on an Android Phone
+
+
+Here are few simple steps you need to take so you can turn your Android phone on safely.
+
+1. Press and hold the **power button** (located along the top or right edge of the phone).
+2. Wait for your phone to turn on.
+3. **Type in your PIN.** If you have set up a PIN, enter it to access your phone.
+
+## 3.2.5 Turning on an iPhone
+
+Here are few simple steps you need to take so you can turn on your iPhone safely.
+
+1. Press and hold down the **"Sleep/Wake" button** again until the Apple logo appears.
+
+Activity: Turning on (powering up) your device
+
+1. You will now switch on your device.
+2. Are you able to help other people and switch on their devices as well?
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx
+
+Hibernating a device
+
+If you are going to take a short break from working on your device you can put it to sleep, i.e.,
+hibernate it, rather than switch it off. This saves you time, while also reducing the amount of
+power used by the device. This option is mostly available for laptops and might not be available
+for all PCs.
+
+1. Click or tap the **start menu,** or the **start button**.
+2. Click **settings** icon.
+3. Click **system** icon.
+4. Click **power and sleep** option.
+5. Choose the length of time, in minutes, that you want to hibernate or sleep.
+
+Importance of hibernating
+
+Hibernating a device is important because it:
+
+1. Saves on power consumption of your device and increases battery power availability.
+
+
+2. Keeps your device and data safe. People cannot gain access to your device while you are
+    away. They will be forced to enter security details to access your device and information.
+3. Allows you to start working with your open apps on your data from the point you
+    hibernated the device. You don’t need to start up your device and then re-open all the
+    programs and work files you were using.
+
+Shutting down/turning off a device
+
+When you want to switch off your device there are certain procedures that need to be followed
+so as not to damage the device.
+
+Shutting down a Computer (Windows 10)
+
+1. Click or tap the **start menu** or the **windows button** (Located in the bottom left Corner
+    of the screen).
+2. Click on the **power button.**
+3. From the options available, click **shut down.**
+4. Wait for the computer to shut down.
+
+Shutting down a tablet
+
+1. Press and hold the **power button**. You will see the device options menu.
+2. Touch the **Power O** ff Option.
+
+Shutting down an Android phone
+
+1. Press down on the **power button** for a few seconds (sometimes called a long press) the
+    power button.
+2. You will see options (depending on your phone type).
+3. Touch **power off** option.
+4. Some phones will require you to confirm by touching power off again.
+5. The phone is turned off.
+
+
+## Figure 14: Examples of android OS power off options
+
+Shutting down an iPhone
+
+1. Press and hold the **"Sleep/Wake" button** on either the top or the side of your device
+    (varies by model) and hold it for a few seconds until you see the words "slide to power
+    off".
+2. Swipe on the words **“slide to power off”** to power off your device.
+
+## 8.5.4 Activity: Using your mobile device
+
+1. Can you turn off your Device(s)?
+2. When do you turn off your device(s)?
+
+After you have completed the activity, you should reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex. Annex_Activity
+and reflection template.docx
+
+
+## 4. Restarting devices
+
+
+```
+Restarting devices
+```
+```
+You will need to restart your device if:
+```
+1. You have hibernated your device to save power or for security
+reasons.
+2. When the computer is not responsive.
+3. When either the keyboard or mouse suddenly stops responding or working.
+4. When the computer asks for an update, or you manually update your device.
+
+Restarting a computer/laptop
+
+1. Click or tap the **start menu** or the **windows button** (located at the bottom left corner
+    of the screen).
+2. Click on the **power button.**
+3. From the options available click **restart**.
+4. Wait for the computer to restart.
+
+## Figure 15: The location of the power and windows icons on a Windows laptop or PC
+
+
+Restarting an Android Phone /Tablet
+
+These steps are used to unlock your phone using a screen pattern or PIN.
+
+1. Long press the **power button**.
+2. You will see options as in the figure below.
+
+## Figure 16: The location of the Restart button on an Android phone or tablet
+
+3. Touch the **Restart** option.
+4. Some phones will require you to confirm by touching the restart option again.
+5. The Tablet will then Restart.
+
+Restarting an iPhone
+
+1. Press and hold the **volume button** and the **side button** until the power off slider appears.
+2. **Drag the slider** , then wait 30 seconds for your device to turn off.
+3. The device goes off and then on again.
+
+
+## Figure 17: How to restart an iPhone
+
+Activity on restarting a device
+
+1. Can you restart your Device?
+2. When do you restart your device?
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx
+
+
+## 5. Health and safety while working with digital devices
+
+
+```
+Health and safety while working with digital devices
+```
+```
+Long usage of digital devices can be unhealthy for you. Some of the problems are:
+```
+1. Eye strain and headaches.
+2. Wrist strain and limb fatigue.
+3. Back and neck pain.
+4. Body fatigue.
+
+## 8.1 Learning outcomes
+
+By the end of this topic, you will be able to:
+
+5. Use good practice in health and safety while working with the electronic devices.
+
+Staying healthy and safe when using a PC or laptop
+
+Here are some simple tips for staying healthy and safe when you are using a digital device.
+
+6. Avoid using a flickering monitor. This can hurt your eyes and give you headaches.
+7. Adjust the brightness of the monitor/ phone or tablet screen to a comfortable level for
+    your eyes.
+8. Take frequent breaks from using a device, if possible, after every 30 minutes.
+9. Avoid positioning the monitor/screen so that it is reflecting other light into your eyes.
+10. Make sure that your hand/ arm is supported when using mobile devices for long periods.
+11. Avoid eating and drinking to prevent accidental spillage on the computer during use.
+12. Position your laptop/ PC on furniture that does not strain your body:
+    1. The table should be of the right height relative to the seat to provide comfortable
+       hand positioning.
+    2. The seat should have an upright backrest and should be high enough to allow the
+       eyes of the user to be level with the top of the screen.
+    3. Do not place the laptop or the keyboard (if using a desktop computer) at the edge
+       of a table. Leave some room where the hands can rest and be supported by the
+       table when typing.
+
+Precautions to take when you use smartphone or tablet
+
+
+Here is a brief checklist to help you take appropriate health and safety measures when using your
+mobile device.
+
+13. Lock your device when not using it and use the security lock code.
+14. Disable Bluetooth, if not in use.
+15. Smartphones have a unique IMEI number. Key in *#06# to find yours, record it, and keep
+    it safe, this allows you to identify your phone should you lose it.
+16. Only unlock the phone when you need to use it.
+17. Regularly delete unwanted content.
+18. Keep your phone out of sight in your pocket or handbag when not in use. Don’t attract
+    attention to your phone when you are carrying or using it in the street.
+19. Don't leave your phone unattended.
+20. Be careful who you lend your phone to.
+21. Report a lost or stolen phone to the police immediately and insist on receiving a written
+    acknowledgment.
+22. Inform your Service Provider if your phone is stolen or lost.
+23. Warning: Access or forwarding any content, which is pornographic in nature, is a
+    generally a punishable offence in most countries.
+
+Activity: Analyse how you use your digital device
+
+Take a few moments to consider the following:
+
+24. Do you use security codes (such as a PIN number or face recognition) to protect your
+    device?
+25. How often do you use your digital device? Do you take regular breaks?
+26. Are you aware of people around you and what they are doing when you are using your
+    digital device?
+27. Do you update your device regularly?
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex. Annex_Activity
+and reflection template.docx
+
+
+## 6. Buying a digital device
+
+
+```
+Buying a digital device
+```
+```
+By the end of this topic, you will be able to:
+```
+1. Know the factors to consider when buying a digital device
+2. Be able to check the specifications of a digital device
+
+```
+Purchasing a digital device is expensive. Consider what you will use it for and how
+long you will require it before making a purchasing decision. The performance of
+older devices deteriorates rapidly. Also consider the ongoing running costs of the
+device, power and internet/phone access.
+```
+```
+Here is a quick checklist for you to consider:
+```
+1. Memory.
+2. Processor speed.
+3. Storage (disk space).
+4. Cost.
+5. Any specific needs for accessibility (for PCs).
+6. Monitor.
+7. Warranty and support.
+
+How to check the specifications of computer
+
+Find out what kind of operating system is being used. If it is Windows:
+
+1. Click on the **Start** button.
+2. Click on the gear icon for **Settings**.
+3. In the Windows Settings menu, double-click on **System**.
+4. Scroll down and select **About**. You will see specs for your processor, RAM, and other
+    system information.
+
+
+```
+Figure 18 : How to check for specifications on a Laptop with Windows 10
+```
+Activity: Check system specifications
+
+1. Check the specifications of your device (laptop, desktop, tablet, smartphone).
+2. Record the specification of your device.
+
+Remember, for a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx
+
+
+## 7. Fixing problems with your device
+
+
+```
+Fixing problems with your device
+```
+```
+By the end of this topic, you will be able to:
+```
+1. Troubleshoot and fix problems with your digital device
+
+```
+Troubleshooting refers to finding out the cause of a problem and fixing the
+problem. Some basic troubleshooting skills will save you time, money, and stress.
+Useful principles are:
+```
+2. Be methodical.
+3. Start with the simplest solution.
+
+```
+Here are some of the challenges one may face and how to troubleshoot them.
+```
+The computer does not turn on
+
+1. Check if the computer is connected to the main power.
+2. Ensure that the power cable is correctly connected to the device.
+3. If it still doesn’t turn on try using another power main supply or socket.
+4. If it’s a laptop, check whether the battery has enough power/charge.
+5. Remove the laptop battery and reinsert it correctly.
+
+The monitor/screen is not on (PC)
+
+1. If you do not see a blue, green or orange light, then the monitor is not on. Switch on at
+    the socket, then press the power button.
+2. Check whether the power cable is connected to the socket correctly.
+3. If still it doesn’t turn on, check the connection between the system unit and the screen.
+4. If it’s a laptop try and get a professional to fix it, as it may be a bigger problem than you
+    can solve.
+
+Computer stops responding (hangs)
+
+1. Press the keys **ctrl + alt + delete** at the same time.
+2. The following window will appear.
+
+
+## Figure 19: The Task Manager screen that appears if you press Ctrl+Alt+Delete
+
+3. Choose the **task manager** option.
+4. The following window will appear.
+
+## Figure 20: Select the program (or app) to close that is causing
+
+5. From the list **choose the program that is non-responsive** then click **end task**.
+6. If the above does not work, long press the power button to shut down the computer,
+    then turn it on again.
+
+Error messages
+
+
+1. When an error message appears on the screen, and you are unsure about it, click **cancel**
+    or press the **escape key** on the keyboard.
+
+Mouse not responding
+
+1. Check the connection between the keyboard and the system unit.
+
+Keyboard not responding
+
+1. Check the connection between the keyboard and the system unit.
+
+Wireless mouse not responding
+
+1. Move the mouse around to see if any light comes on.
+2. Make sure the mouse has batteries.
+3. Ensure the mouse is not very far away from the computer.
+
+Laptop Mouse touchpad not working
+
+1. Try enabling and disabling the mouse touchpad by pressing the **FN key + function key**. Try
+    this a few times.
+
+Activity: Troubleshooting and fixing problems
+
+1. What are some of the common issues you experience when working with your devices?
+2. Are you now able to overcome them?
+
+
+After the activity you should reflect and record your findings.
+
+1. Turning on and shutting down your device.
+2. What to look out for when buying a device
+3. basic troubleshooting on your device.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx
+
+
+## 8. Navigating your digital device
+
+
+## 8.5 Navigating your mobile device
+
+```
+This topic covers the basics of operating your device, navigating around different
+locations in your device, and using input and output devices to interact with your
+device.
+```
+Learning outcomes
+
+By the end of this topic, you will be able to:
+
+1. Use a keyboard and a mouse and touch screen to input text.
+2. Open and close apps and tabs to navigate around your device.
+3. Identify the standard icons on your device.
+4. Outline the difference between an input and output device.
+5. Use the commonly used shortcut keys.
+6. Use the various keyboard keys.
+7. Activate verbal controls on your device.
+
+## 8.2 Computers and mobile digital devices
+
+This topic has options for you to follow for both computers (such as desktops or laptops) and
+mobile devices (such as smartphones or tablets).
+
+This topic begins with a brief explanation of basic digital navigation skills that will be useful for
+you to learn.
+
+## 8.3 Basic navigation skills
+
+## 8.3.1 How to use a mouse
+
+A mouse is a pointing device that helps you use a computer system without using a keyboard.
+
+
+## Figure 21: A typical mouse and its buttons
+
+The mouse is a computer input device used to move a “cursor” around a screen. A cursor is a
+symbol that tells you and the computer where the mouse is currently positioned. You can use the
+cursor to turn on and off apps and programmes, locate and move files and folders.
+
+Here are some ways that a mouse is used:
+
+1. **Left Clicking**. This is pressing the left button of the mouse once. Left clicking selects an
+    object or item.
+2. **Double Clicking.** This is clicking the left button of a mouse in quick succession. Double
+    clicking opens a program.
+3. **Drag and Drop**. This means clicking on the button on the left-hand side of the mouse and
+    keeping the button pressed down. Select an icon (remember do not release the button)
+    then drag the icon to move it to another location on the desktop. Drag and drop is also
+    used when selecting or highlighting text.
+4. **Right Clicking.** Clicking the button on the right-hand side of the mouse displays a list of
+    options.
+
+
+## 8.3.2 How to use a laptop touchpad
+
+Most laptops have a built-in peripheral called a Touchpad to move a cursor around the screen.
+You can use a Touchpad in place of a mouse to control a cursor.
+
+## Figure 22: Location and function of a TouchPad
+
+Here is a brief tutorial on how to use a touchpad.
+
+1. Slide one finger along the centre of the **touchpad** to move the cursor
+2. **Tap gently** to select, or press the left button beneath the touchpad
+3. Press the **button on the right** to Right-click on an object
+4. Place your finger along the right edge of the touchpad and slide your finger up or down to
+    scroll.
+
+## 8.3.3 Touch screen navigation
+
+There are three main ways of navigating a touch screen of a phone or a laptop.
+
+Tapping
+
+This works the same way a mouse click works on a laptop or desktop with a mouse. Tapping is
+used to open a program, typing, and selecting buttons when browsing the internet.
+
+**To Tap** : Lightly place the tip of your index finger onto the screen and raise it again, quickly. The
+touch only needs to be for a fraction of a second for the screen to respond, and you don't need to
+press down hard.
+
+Swiping
+
+
+The process of moving from one screen to another is called Swiping.
+
+**To Swipe:** Slowly place one finger on the screen and pull to the right or left, up or down of the
+screen, then release your finger.
+
+Scrolling
+
+If the document you are viewing on your screen is long and does not fit on the screen at once, you
+need to touch the screen to move up or down, left or right to reveal more. This is scrolling.
+
+**To scroll** : Place the fingertip gently on the screen and slowly drag it up or down, left or right. Keep
+contact with the screen as you do this. When you get to the place on the page you want to view,
+lift your finger from the screen.
+
+## 8.3.4 Typing on a touch screen device
+
+A touch screen device such as a smartphone or a tablet has an onscreen keyboard. It will look like
+the figure (Figure 24) below and is a copy of a real keyboard.
+
+You can type on the virtual keyboard by tapping the keys you need.
+
+## Figure 23: An onscreen keyboard
+
+See section **8.5 Navigating your device** in this manual for more detail on using virtual keyboards.
+
+## 8.3.5 How to use a keyboard
+
+A keyboard is a part of a computer that is mostly used to enter data by typing. A keyboard has
+different types of keys that do different things.
+
+
+The five categories include:
+
+Alphanumeric keys
+
+Alphanumeric keys are the familiar keys that you may have used when typing numbers, letters
+and special characters like question marks, semicolons, and full stop. These keys include:
+
+1. “A to Z”, “a to z”, “0 to 9” and other symbols.
+2. Caps Lock Key. When it is on, the characters typed appear in capital letters (also called
+    upper case). When Caps Lock is off letters appear as small letters (or lower case).
+3. Enter Key/Return Key: Moves the cursor to the beginning of a new sentence.
+4. Tab Key: Moves the cursor along at set intervals on the same line.
+5. Space Bar: This is the longest key on the keyboard. This inserts a space between words
+6. Backspace Key: Deletes or erases characters from right to left.
+
+## Figure 24: A typical computer keyboard
+
+
+Cursor Movement and Editing keys
+
+They are used to move the cursor from one point of the screen to another. They include:
+
+1. Arrow Keys: These move the cursor in the direction the arrow faces
+    1. Up arrow key - Moves the cursor one line up
+    2. Down arrow key - Moves the cursor one line down
+    3. Right arrow key - Moves the cursor to the right
+    4. Left arrow key - Moves the cursor to the left
+5. Insert Key: Used to replace a character at the cursor position
+6. Delete Key: Deletes or removes characters from left to right
+7. Home Key: Takes the cursor to the beginning of the current sentence
+8. End Key: Takes the cursor to end of the current sentence
+9. Page Up: Takes the cursor one page up, when there are many pages.
+10. Page Down: Takes the cursor one page down, when there are many pages
+
+## Figure 25: Editing keys and cursor keys on a keyboard
+
+
+Numeric Keypad Keys
+
+It consists of numbers 0 - 9, the addition (+), subtraction (-), multiplication (*) and Division sign (/).
+For you to be able type numbers using the numeric keypad, always make sure the Number Lock
+Key is on.
+
+## Figure 26: Numeric keypad
+
+Function Keys
+
+These are keys that are located at the top of the keyboard. They are labelled as F1, F2, F3 through
+to F12. F1 is mostly used to open the Help window.
+
+Generally, their purpose differs from one program or software to another.
+
+## Figure 27: Function keys on a keyboard
+
+
+Special Purpose Keys
+
+The Shift Key
+
+This special key works in combination with other keys. It does not do anything if you use it on its
+own.
+
+1. It can be used to get single capital letters. Hold down the **SHIFT key** + **an alphabet key** to
+    get the letter in its capital (or upper case) form.
+2. It is used to get the punctuation marks on top of the number keys or the symbols on top
+    of certain keys, especially on the alphanumeric section.
+3. To get the punctuation mark on top of a number key or the symbol on top of a certain
+    key. Press & hold down the SHIFT key before pressing the required key.
+
+## Figure 28: The Shift Key
+
+The Control Key
+
+The Control Key, sometimes shortened to CTRL, allows you to use various functions in
+combination with other keys. These functions are dependent on your operating system, but some
+typical combinations include:
+
+1. **CTRL** + “ **S** ” is used to give the command for Save the text/object
+2. **CTRL** + “ **X** ” is used to give the command to Cut the text/object
+3. **CTRL** + “ **C** ” is used to give the command to Copy the text/object
+4. **CTRL** + “ **V** ” is used to give the command to Paste the text/object
+
+
+## Figure 29: The Control Key
+
+The Escape Key
+
+The Escape Key, sometimes shortened to ESC, generates a special code for a computer. In many
+programs, it is used when you want to end a task. The Key allows you to “escape”, stop or cancel
+a task you were doing.
+
+## Figure 30: The Escape Key
+
+Navigating a computer or laptop
+
+Below are descriptions on how to navigate the screens of the various electronic devices.
+
+Using “Icons”
+
+The first screen seen after turning on a laptop or a computer is known as a Desktop. It consists of
+small graphics known as Icons. The icons represent software applications, locations, or tasks.
+Icons simplify using a computer.
+
+
+## Figure 31: A computer desktop with Icons
+
+The Icons in the diagram below are:
+
+1. This PC, an Icon that gives you access to the files in this computer.
+2. Meetings, an Icon that gives you access to files in a folder called Meetings.
+3. To Read Icon, an Icon that gives you access to a Word file called “To Read”.
+
+## Figure 32: Some Icons and their meanings
+
+How to open an Icon on the desktop of a laptop or a computer
+
+There is more than one way to use a desktop Icon on computer.
+
+Option one
+
+1. Select the Icon with your mouse cursor
+
+
+2. Double click the Icon (Use the left button of the mouse)
+3. The diagram below shows a selected folder. If you double-click the Icon, then the folder
+    will open
+
+## Figure 33: Double-clicking an Icon
+
+
+Option 2
+
+1. Select the Icon with your mouse cursor.
+2. Right click on the Icon (use the right button of the mouse).
+3. From the list that appears choose Open.
+
+## Figure 34: Using "right-click" to open an Icon
+
+Using a “Window”
+
+Once an Icon is open a rectangular area called a Window appears. Windows relate to particular
+programs or tasks you are undertaking.
+
+The diagram below shows a desktop with two windows that have been opened.
+
+
+## Figure 35: Two Windows open on a desktop
+
+Title bar
+
+This is a bar located at the top part of a window. It displays the name of the current running
+application. It has three buttons located at the right.
+
+## Figure 36: The Title bar in a window allows you to close, expand or shrink a Window
+
+1. Minimize Button - When this button is clicked it reduces the whole window to an icon at
+    the task bar.
+2. Maximize/Restore Button - When this button is clicked it reduces the size of the window.
+    If clicked again it fills the entire desktop.
+3. Close Button - used to exit an application or program.
+
+
+Task Bar
+
+This is a bar located at the bottom part of the desktop. It has Icons of the most frequently used
+programs, the Windows Button or the start button, time and date. It also has a box to search for
+files and folders saved in the computer/laptop.
+
+## Figure 37: The Task Bar has many useful shortcuts and frequently
+
+```
+used locations and applications
+```
+Navigating your mobile device
+
+Smartphones are small and powerful digital devices that are used to make phone calls and send
+text messages, but they can also be used to access the internet, send and receive emails and
+many of the tasks you can do on a laptop.
+
+There are many different brands for smartphone including:
+
+1. iPhones from Apple.
+2. Android Phones from Samsung, HTC, Huawei etc.
+3. Windows Phones from Nokia.
+
+These phones have different operating systems (See section 2.8 in this manual).
+
+You can use your fingers to control the phone, or you can use a stylus. This is a device that looks
+like a pen or pencil but has no ink. It is used like a pen on the phone/tablet screen. You use it to
+press on apps and functions and to navigate a smartphone or tablet. If you have the app, you can
+also use the stylus to write into the mobile device, rather than typing.
+
+
+## Figure 38: A stylus can be used to help you navigate mobile devices such as
+
+```
+smartphones and tablets
+```
+Using your smartphone and its applications
+
+Smartphones use applications, or apps for short to help you do tasks. You will see these standard
+apps on almost all mobile devices. These include useful tools such as clock (and alarms), a camera,
+the Gallery App where your photos are stored.
+
+These are normally found on your home screen. The **Home screen** is the screen on your mobile
+you see when you turn on or wake up your device.
+
+To get back to your home screen at any time press the **home button**.
+
+## Figure 39: The location of the Home button on most smartphones
+
+
+Entering information into a smartphone
+
+Virtual keyboard
+
+You may want to get information into your smartphone. The simplest way is to **tap** where you
+need to type, and the keyboard will automatically appear.
+
+## Figure 40: A typical virtual keyboard on a mobile device.
+
+Dictating, or speak to text
+
+You can also dictate or speak your words into your smartphone. This means you don’t have to
+type at all. See the Figure above and look at the bottom right of the smartphone screen. There is
+an icon that looks like a microphone.
+
+Some apps allow dictation automatically but some need to be given permission to use dictation.
+
+To enable dictation, do this:
+
+1. **Tap** the **Settings** icon
+2. **Tap** the **Keyboard** option
+3. Slide the **Enable Dictation** button
+
+
+## Figure 41: How to enable the Dictation, or Speech to text option on a typical smartphone
+
+To use dictation, do this:
+
+4. You **tap** the **microphone button** and begin speaking.
+
+Your speech will be converted into text and stored in your device – in a notepad app, an email or
+any other app that supports dictation.
+
+Creating a folder and-subfolder in an Android smartphone
+
+Here are step by step instructions to create directories / folders on your smartphone.
+
+1. Open **My file**. You will see internal storage and SD card if your phone has one.
+2. To create a folder in SD card, tap **internal storage** to open it.
+3. Click on the **3 dots**. A list of options will appear.
+
+
+4. Select the **Create folder** Option.
+5. Type the name of the folder you are creating and tap on **Create**.
+6. You can create subfolders in the same way within the folder.
+7. Can you locate the folder you have created?
+
+## Figure 42: Creating folders/subfolders on an Android smartphone
+
+Activity: Using your mobile device
+
+1. Create the following SMS messages it appears and send it to a friend of yours
+2. “I am Learning DIGITAL SKILLS in 1, 2, 3 , 4 ... Days”
+3. Are you able to type using the touch screen keyboard?
+
+For a blank activity and reflection template please see the accompanying annex, Annex_Activity
+and reflection template.docx.
+
+
+Activity: Creating folders and directory structures
+
+You will:
+
+1. Create a folder on your device. Name it “Digital Skills”
+2. Create subfolders Level 1 and Level 2 in the folder Digital Skills.
+3. Save a file in one of the folders or subfolders created.
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex. Annex_Activity
+and reflection template.docx.
+
+
+## 9. Using accessibility features
+
+
+```
+Using accessibility features
+```
+```
+Accessibility features help people with disabilities to better navigate and operate
+a device.
+```
+## 12.1 Expected learning outcomes from this topic
+
+By the end of this topic, you will have learnt:
+
+1. Accessibility features and their importance.
+2. Examples of Accessibility features in your device.
+3. To appreciate the accessibility features on your device.
+4. How to enable the accessibility features on your device.
+
+How to use accessibility features
+
+Magnifier
+
+The **Magnifier Tool** is one of the most useful and easiest to use accessibility features on Windows.
+It makes the words and pictures on the screen bigger, so it is easier for you to read.
+
+1. To quickly  **turn on** Magnifier press the **Windows logo key + Plus sign (+).
+2.** To **turn off** Magnifier, press the **Windows logo key + Esc.**
+
+Alternatively, if you prefer to use a mouse:
+
+3. Select **Start.**
+4. Select **Settings.**
+5. Select **Accessibility.**
+6. Select **Magnifier** , and then turn on the **Magnifier** switch.
+
+
+Verbal controls on a typical computer
+
+Windows 10 has built-in voice controls for many of its most popular features including Cortana, to
+manage apps, files, folders and systems and to ask questions.
+
+1. Click on the **Start** button.
+2. Select **Settings**.
+3. Click on **Cortana**.
+
+## Figure 43: Windows Cortana voice interface
+
+Other accessibility features
+
+1. **Voice Command:** Designed for people with disabilities to command the device to take
+    some action.
+2. **Touch Screen:** Designed for people who can see and can use their hands to navigate
+    between the options they want.
+3. **Braille Display:** A Bluetooth enabled Braille device is used to control the digital device.
+4. **Gesture Command:** Mainly used to access specific features, e.g., accessing the phone
+    camera or contacts by doing a specific gesture on the gesture sensor mostly found on top
+    of the phone.
+5. **Fingerprint Reader/Scanner:** Used to unlock the phone via biometric sensor at the back
+    of the phone.
+
+
+Other accessibility features on a mobile device
+
+There are useful accessibility features available for users of mobiles devices. Some of these are
+simple such as increasing the size of words to make things easier or dictating to make entering
+information easier.
+
+Some more advanced features include:
+
+1. Using your voice to control your device.
+2. Getting your device to read the screen back to you.
+3. **Warning:** Please be careful. You may not want messages or emails to be read aloud in
+    public.
+
+To enable voice control
+
+1. **Tap** the **Settings** app.
+2. **Tap** Accessibility.
+3. **Tap** the **Voice Access** option.
+
+## Figure 44: How to enable voice controls on a smartphone
+
+
+How to use voice controls
+
+You need to use certain words to communicate with your smartphone if you are using voice
+controls. Different smartphones have different word command. These are:
+
+1. Hey Siri, for iPhone and iPads.
+2. Hey Google, for android smartphones, Chromebooks, and smart TVs.
+3. Hey Cortana, for Windows and Microsoft products.
+
+Here are a few sample commands you can use:
+
+4. Hey Siri, what’s the weather like in town?
+5. Hey Google, open my email.
+6. Hey Cortana, set an alarm.
+
+Activity: Using accessibility functions on your digital device
+
+On your device, you will:
+
+1. Increase the font sizes.
+2. Enable the screen reading ability/ Narrator.
+3. Adjust the screen brightness.
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx.
+
+
+## 10. Using computer and
+
+## smartphones safely
+
+
+```
+Using computers and smartphones safely
+```
+```
+In this topic you will learn:
+```
+1. How to keep your device clean and dry and the importance
+of doing this.
+2. How to take care of your device battery.
+3. How to keep your device safe from theft and fire.
+
+The importance of keeping equipment clean
+
+Keeping a digital device clean is important for the health of the device and also for your health.
+Here are some reasons why it’s a good idea to keep your equipment clean and in good working
+order.
+
+Laptop and desktop computers
+
+A clean computer:
+
+1. Reduces the risk of infection.
+2. Dust can damage delicate parts of your computer.
+3. Dust can clog up the cooling fan which in turn can cause your device to overheat.
+4. Dirt in your keyboard can make the keys less responsive or cause them to stick.
+5. A clean screen is easier to see and reduces eye strain.
+
+Smartphones
+
+Clean phones are good because:
+
+6. It prevents clogging of the earpiece and mouthpiece.
+7. It enhances quality hygiene on the case when you are sharing a phone.
+8. It prevents dust from accumulating in the earphone hub and charging system.
+
+Step by step instructions to keeping your digital device clean
+
+Below are some ways for looking after a laptop, phone, and a desktop computer.
+
+Laptop and Desktop Computer
+
+1. Disconnect from power when fully charged.
+2. When on the move, safely pack the laptop into a laptop bag.
+
+
+3. Keep data backup in external media. This means an external hard disk that you leave in a
+    safe place or use online backup options like OneDrive and Google Drive. This will prevent
+    the chances of data loss in case the laptop stops working, is damaged or is stolen.
+4. Install an up-to-date antivirus program to protect your laptop from viruses.
+5. Set up a user account and password to prevent unauthorised access to your laptop.
+6. Keep your laptop computer well ventilated to avoid overheating. Avoid stacking papers,
+    books and other items around your computer. Allow the fan to breathe.
+7. Organize your files into folders and sub folders for ease of access.
+8. Dust has the potential to damage your computer and its parts. Use a soft, clean cloth to
+    regularly wipe all parts of your computer.
+9. Write down somewhere safe the serial number of your device in case of theft for easy
+    identification purposes for the police or insurance purposes.
+
+Phone
+
+1. Use a screen protector.
+2. Buy a phone case to keep it safe from accidental knocks.
+3. Keep the phone away from moisture and dampness.
+4. Regularly wipe your phone clean.
+5. Regularly clear the computer memory of unused files and folders. Clear your phone
+    cache. When apps run, they may leave some files behind taking up memory space in your
+    phone.
+6. Regularly update the operating system in your smartphone.
+7. Once the phone battery is fully charged, disconnect it from power. This prevents damage
+    to the phone battery.
+8. To save on the phone battery and increase performance, close all the apps after use.
+    Avoid having many apps opened at the same time.
+9. Turn off all services you are not using. For example, Wi-Fi, live wall papers and mobile
+    data. This slows down battery usage.
+10. Don't leave your phone in the hot sun for a long period of time because it will overheat.
+11. Add an external SD card to increase the available memory space. This frees up the
+    phone's internal memory, hence improving the phone’s performance.
+12. Identify a safe place to keep your phone when not in use.
+13. Special software can be used to lock your phone in cases of theft.
+14. Connect only to trusted Wi-Fi’s.
+
+
+Charging batteries, and managing risk of fire
+
+Portable computers work using rechargeable batteries. Do not let your device run out completely
+of power, and do not overcharge it. This will increase the life of the battery.
+
+Overcharging a battery may cause it to overheat and start a fire.
+
+The best time to start charging is at 15% of the battery. The optimal charge level is 40% -80%. Do
+your best to maintain the charge at that level.
+
+Activity: Familiarise yourself with safety features of your device
+
+You will:
+
+1. Find out the IMEI number of your phone or the serial number of your laptop.
+2. Find out if you have put into place the safety measures to safeguard your laptop or
+    phone.
+
+After you have completed the activity reflect and record your work. Record your thoughts on:
+
+3. How to use your devices safely.
+4. How to take care of your device.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx.
+
+
+## 11. Creating account and
+
+## creating passwords
+
+
+```
+Creating accounts and creating passwords
+```
+```
+A user account is an online place that stores the user’s information identified by a
+username and protected by a password, e.g., WhatsApp account, a Facebook
+account, a Twitter account, or an ecitizen account.
+```
+A password is a string of characters used to verify the identity of a user during an authentication
+process. Passwords are typically used together with a username, or user identification (sometimes
+called User ID). They are designed to be known only to the user thus allowing the user, and no
+one else, to gain access to a document, device, application, website, or a social media platform.
+
+A username/user ID is a sequence of characters that uniquely identifies a user on a computer
+system, a computer application, a website, or a social media platform. Other words used to mean
+the same term are login name, logon name, sign in name or sign on name.
+
+Expected Outcome from Creating Accounts and Password
+
+When you have completed this topic, you will have:
+
+1. Improved security when using a computer/mobile device, application, or social media
+    site.
+
+Creating Accounts and Password
+
+Purpose of a Password
+
+While accessing the internet, a user needs a user ID and password to prevent unauthorised
+people from accessing the information stored on their device. Such information may include
+details of bank accounts, college account, emails, social media accounts, e-citizen account and any
+other account created online.
+
+It is therefore important to learn how to create secure passwords and how to manage them to
+protect your information.
+
+Bad password practices
+
+Passwords are essential to the security of your personal information. It is important that you
+avoid bad password practices such as:
+
+2. Using simple formulaic passwords.
+3. Sharing passwords.
+4. Writing down passwords in physical locations that are easy to find.
+
+
+5. Reusing the same password for some or all your accounts.
+
+It is important to create a good password, but also to keep the password safe. Additional software
+called a Password Manager can help you with this.
+
+Activity: Create an online account
+
+For this activity you will:
+
+6. Open a Google account.
+7. Open a Yahoo account.
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx.
+
+
+Using an online account: Google classroom
+
+Google Classroom integrates many Google tools to support learning for teachers and students.
+This allows teachers to set assignments, have work submitted by students, to mark, and to return
+graded papers online.
+
+Classrooms used many google services including Google Docs, Google Sheets, Google Slides,
+Calendar, and Gmail. Classroom and can be supplemented with Google Hangouts or Meet for
+video meeting.
+
+Google Classroom is free to use.
+
+Google Classroom assignments
+
+A teacher can set assignments by uploading documents the assignment. This can also include
+extra information and a place for students to do the assignment.
+
+A student will receive an email informing them that an assignment is waiting. The student will
+complete the assignment and turn the assignment in to be marked by the teacher.
+
+There are extra tools for teachers that can help with making announcements to a whole class,
+storing learning materials online, and checking that assignments are original and not copied from
+other students or other sources.
+
+For more information see Google Classrooms.
+
+
+How to use to log in to Classroom if you are a student
+
+To use Google Classroom take the following steps:
+
+1. Navigate to Google Classrooms (https://classroom.google.com/u/0/h)
+2. Sign in on your computer or mobile device and join classes.
+1. Make sure you have logged on with the correct account e.g., your school or college
+    account, and not a personal account.
+
+## Figure 45: Logging on to Google Classrooms
+
+2. There are also other wats that you can join a class:
+1. **A class link**. Your teacher has sent you a link in an email.
+2. **A class code.** Your teacher sends or tells you the class code.
+3. **An email invite.** Your teacher sends you the invite.
+4. After you join a class on one device, you're enrolled in that class for all devices.
+
+
+How to complete a quiz assignment
+
+1. Log on to classroom.google.com.
+2. Click **Classwork**.
+3. Click **View assignment**.
+4. Click the form and answer the questions.
+5. Click **Submit**.
+    1. If the assignment is only the form, the assignment status changes to **Turned in**
+       **(ie. completed)**.
+    2. If there is more to the assignment, click **Open assignment** to get access to the
+       rest of the assignment.
+
+Try exploring Classrooms, Forms and other Google and other online learning resources. One of
+the nest ways to become familiar and confident online is to explore. But remember, explore
+safely.
+
+
+## 12. Introduction to internet and the World Wide Web
+
+
+```
+Introduction to internet and the World Wide Web
+```
+```
+The internet is a global network which allows for communication and resource
+sharing across the world.
+```
+```
+World Wide Web, also known as the web, is a system which contains resources
+that are accessed through the internet. The world wide web uses website sites to
+create virtual spaces on the internet where videos, files, images, and other digital
+resources are stored so that you can view, store and retrieve them.
+```
+```
+Wi-Fi is a wireless technology that enables electronic devices with wireless
+adapters such as laptops, mobile phones, TVs, and tablets to connect to the
+internet.
+```
+Expected learning outcomes from this topic
+
+At the end of this topic, you will understand these words and be able to answer following
+questions:
+
+1. What is the internet, what is Wi-Fi?
+2. Why are these important?
+    1. How to connect to the internet.
+    2. Mobile hotspots.
+    3. Wi-Fi.
+    4. Hardwire connections.
+    5. Using a web browser.
+
+Importance of connecting to the Internet
+
+Access to the internet is a powerful enabler. With internet connections to the rest of the world
+you can communicate with friends and family, look for a job, learn new skills, or get your business
+online and help it succeed.
+
+The internet allows you access to information on almost any subject matter, as well as an
+improved ability to communicate and collaborate with other people all over the world. These
+people may be customers, students or teachers, friends and family, or even representatives of a
+company or government department.
+
+Using cables to connect to the internet
+
+
+The oldest, and still a very common way to connect to the internet, is with physical wires. This is
+sometimes called a hardwire connection.
+
+It is normally the simplest way to connect as a cable is plugged into your device and another
+device that provides internet to your house, school or office, known as a router, or hub.
+
+The cables and connections look like this:
+
+## Figure 46: Cables and connections
+
+These devices need to have an ethernet port where the cable is connected to and a source of
+internet (wall sockets in cyber cafes, offices, homes etc.)
+
+There are many ways to connect to the internet such as via Mobile hot spots, wi-fi and mobile dial
+up.
+
+
+Connecting to the internet through Wi-Fi
+
+Wi‐Fi or wireless internet allows you to access the internet without using up any of the mobile
+data in your calling plan.
+
+If you have broadband access at home, school or at work then you can also connect your
+smartphone to this internet signal.
+
+To connect your smartphone to Wi-Fi:
+
+1. **Tap** on the **Settings** Icon.
+2. **Tap** on the **Wireless and Networks** option.
+3. **Tap** on the **Wi-Fi icon.**
+
+## Figure 47: The Wi-Fi symbol
+
+4. Select the Wi‐Fi network you want and enter the **password.**
+    1. If the word **connected** appears under the network name then you are connected
+       to the Wi‐Fi.
+    2. Wi-Fi in public spaces such as libraries, cafes and hotels may need a password.
+       Some may not. Most are free to use, or free for customers to use.
+
+Activity: Connecting to the Internet
+
+Try the following activities.
+
+1. Connect to a Wi-Fi hotspot (a publicly accessible place where you can connect to the
+    internet)
+    1. Turn on the Wi-Fi on your laptop/phone/tablet.
+
+
+2. Scan/refresh for any available wireless networks (the list of available wireless
+    networks is displayed automatically when you turn on the Wi-Fi).
+3. Click on the wireless network you want to connect to.
+4. Enter the correct password and click on connect. if the Wi-Fi password is correct,
+    your device should be connected within a minute.
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx.
+
+
+## 13. Using a web browser
+
+
+```
+Using a web browser
+```
+```
+A web browser is a type of application software that allows you to access
+resources and websites on the world wide web.
+```
+```
+There are many examples of web browsers. The most common ones in use are
+Google Chrome, Mozilla Firefox, Apple Safari and Microsoft Edge.
+```
+## Figure 48: Some popular web browsers
+
+```
+All these browsers work in very similar ways and have similar controls. If you can
+use one type of web browser then you will be able to apply those skills to other
+browsers.
+```
+Web addresses, or Uniform Resource Locators (URLs)
+
+Users find, or locate, web pages online using a web address celled a Uniform Resource Locator
+(URL).
+
+A couple of widely known URLs are:
+
+1. https://facebook.com/ for Facebook and
+2. https://www.youtube.com/ for YouTube.
+
+To access either of the above URLs do the following:
+
+1. Ensure you are connected to the internet (either cable, mobile data, or Wi-Fi).
+2. Open a web browser such as Google Chrome web browser from your phone/computer.
+3. Type the URL on the address bar on the web browser as shown below.
+
+Understanding a URL – the address of a website
+
+There are three basic parts of a URL you should understand. These the protocol, the domain name
+and the path.
+
+
+## Figure 49: The different parts of a web address
+
+The protocol tells the browser how to communicate with a website’s server, to send and retrieve
+information. It is what enables a URL to work in the first place.
+
+https or Hypertext Transfer Protocol Secure (HTTPS) is the most important part of the URL.
+
+The Domain name is the identifier for a specific website which brings one straight to the home
+page. It is a domain name that is made up of two smaller parts - the **name of the website** in
+question and the **top-level domain**.
+
+Let’s take [http://www.google.com](http://www.google.com) as an example:
+
+4. The name of the website is google.
+5. The top-level domain is .com.
+
+The path is an extra part of the address that points to a specific resource or page on a website.
+
+
+If we take https://mail.google.com/gmail as an example, the:
+
+6. The protocol is https, a secure protocol.
+7. The domain is google.
+8. The path is /Gmail.
+
+## Figure 50: An address bar in a typical web browser
+
+Navigation buttons in Google Chrome
+
+Google Chrome web browser has the following important navigation buttons:
+
+1. Back Button - This button navigates backwards through recently opened pages.
+2. Forward Button - This button navigates forwards through recently accessed pages.
+3. Refresh Button - This button reloads a page. Useful e.g., when the page doesn't load
+    correctly, it helps to reload a page correctly.
+
+
+## Figure 51: Google Chrome, a typical web browser and basic navigation buttons
+
+Bookmarks and history
+
+You can save your favourite pages in a web browser so that you can view/go back to them later.
+This is similar to inserting a bookmark in a book so that you can easily pick up from where you
+stopped reading. This is called bookmarking.
+
+To create a bookmark, start by clicking on the star at the extreme right-hand side of the address
+bar.
+
+## Figure 52: The bookmark icon on the address bar of a typical web browser
+
+1. Select the Add Bookmark option from the dropdown list.
+2. Give your bookmark a name.
+3. From the folder option select Bookmarks Bar as shown below.
+4. Click on done.
+5. Your bookmark is now added and is available just below the address bar. You open the
+    bookmark by clicking on it.
+
+
+## Figure 53: Editing the name on a bookmark
+
+While using a web browser, every page you visit is stored by the browser in history. This allows
+you to return to a recently viewed page, in a similar way as bookmarks.
+
+To look at your history on your browser:
+
+1. If the back and forward buttons are active, click and hold your mouse on any of them and
+    select See full history, or
+2. Click on the three dots on the top right of the browser and select history.
+
+## Figure 54: Accessing your browsing history
+
+
+## 14 Downloading/saving files
+
+
+```
+Downloading/saving files
+```
+```
+Downloading a file means saving a copy of a resource found online to your mobile
+phone or computer. These could be documents, pictures, videos, apps or
+programs. Web browsers are able to handle most downloading activities. If you
+have a difficult or large resource to download you may need additional software
+called a Download Manager.
+```
+To download an image
+
+1. Right click the image and select **Save Image As**.
+2. Click **OK.**
+
+## Figure 55: Right clicking an image to download the image
+
+Steps to downloading a document
+
+1. **Open** to view the document.
+2. If it’s a PDF file, in the top right corner of the window, find the **down arrow** and **click** on it.
+3. The document will download to your computer.
+4. Note: On mobile phones, once you click a link with a pdf document, the files are
+    downloaded to your device automatically.
+
+
+## 15. Safe browsing on the Internet
+
+
+```
+Safe browsing on the Internet
+```
+```
+Getting online safely can give you access to information, social connections and
+economic opportunity. If you practice unsafe online practices or have unsecured
+digital devices you may open yourself up to danger on the internet. While
+innocently surfing the Web, you may not realize that you could be picking up
+spyware, downloading malware, or even visiting fraudulent sites. You do not have
+to be afraid of every click made on the internet, but there are some simple
+precautions you should take to stay safe while you’re browsing.
+```
+Keep your browser updated
+
+New forms of online content that can access and damage your computer are constantly being
+introduced. You can help to keep your computer safe by updating your browser. This is done by:
+
+1. Using the latest version of your browser.
+2. Installing all recent updates.
+
+Domain and URL checking
+
+Malicious sites often use deceptive domains to trick users into believing they are on a legitimate
+site. A malicious website is any website that’s been designed to cause harm. The following are
+some traits common to many malicious websites.
+
+1. The website asks you to download software, save a file, or run a program
+2. The website tells you that your device is infected with malware or that your browser
+    extensions or software are out-of-date.
+3. The website claims you have won a prize and requests your personal information to claim
+    it.
+4. Visiting the website automatically launches a download window.
+5. You are asked to download an invoice or receipt, such as a PDF file, .zip or .rar, or an
+    executable file or .scr screensaver file
+
+Be cautious of free software
+
+Common types of free software include desktop backgrounds, free images, emoticons, computer
+games, etc. The consequences of installing unverified and untrustworthy programs can range
+from a minor annoyance to a loss of funds.. Such software can be a drain on your computer
+system and resources. Take proper precautions when searching for new software and avoid the
+free offers.
+
+Be cautious of peer-to-peer file sharing
+
+Peer-to-peer file sharing is a little different from the normal way of downloading a file from and
+internet source. In peer-to-peer sharing, a special program is used instead of your web browser.
+
+
+This special program looks for computers on the internet that have the file you want. These
+computers are ordinary computers like yours. They are called peers.
+
+Peer to peer file-sharing programs like BitTorrent and LimeWire have been known to contain
+malware, adware, and illegal downloads. Be cautious when downloading and sharing from peer-
+to-peer sites.
+
+If you have no alternative to using such sites, you should take the following precautions:
+
+1. Use pop-up blockers.
+2. Clear the cache in your computer on a regular basis.
+3. Turn on “I do not want to be tracked” button when browsing the internet.
+
+Verifying secure sites
+
+One of the easiest ways malware, spyware, and adware can access your computer is through
+downloads therefore only download from well-established sites you trust. Here are some simple
+steps to help protect you from an unsafe website:
+
+4. Never click on a link embedded in an email. Even if sent from someone you trust, always
+    type the link into your browser
+5. Use your common sense. Does a website look strange to you? Is it asking for sensitive
+    personal information? If it looks unsafe, don’t take the risk.
+6. Does the website list contact information or some signs of a real-world presence? If you
+    don’t know then contact them by phone or email to establish if they are real.
+7. Read the URL carefully. If this is a website you visit often, is the URL spelled correctly?
+    Online criminals often set up websites almost identical to the spelling of the site you are
+    trying to visit. An accidental mistype may lead you to a fraudulent version of the site.
+8. Is the website offering you a product or service at an unheard-of price? Or maybe they
+    are promising you a huge return on investment? If the offer looks too good to be true,
+    trust your instincts. Do some research to find reviews or warnings from other users.
+9. Check the properties of any links. Right clicking a hyperlink and selecting “Properties” will
+    reveal the true destination of the link. Does it look different from what it claimed to lead
+    you to?
+
+Secure Websites
+
+
+SSL stands for Secure Sockets Layer. SSL keeps internet connections secure and prevents criminals
+from reading or modifying information transferred between two computer systems. A padlock
+icon next to the URL in the address bar means SSL protects the website you are visiting.
+
+TLS (Transport Layer Security) is an updated, more secure, version of SSL. It works in much the
+same way as the SSL, using encryption to protect the transfer of data and information.
+
+## Figure 56: The padlock symbol means the website is more secure
+
+Activity: Use the internet to search for information and documents
+
+1. Think about something that is important to you now or is of interest. This could be the
+    physical address of a local government office, the selling price of a local food product you
+    are interested in buying, or the score from a football match.
+2. Select a search engine of your choice on the device of your choice.
+3. Search for the document, or specific information. Your search will provide many results.
+    Some of these results are useful and some are less useful. You will need to think which
+    documents or information are the ones you want.
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx
+
+
+## 16. Staying safe online: Cyber security and you
+
+
+```
+Staying safe online: Cyber security and you
+```
+```
+This topic on cyber security gives information on how to ensure confidentiality,
+data integrity, and how to stay safe online and offline with your digital device.
+```
+Expected outcomes from the cyber security module
+
+On completion of this topic, you will be able to:
+
+4. Make your personal information and communication safety a priority
+5. Identify and resolve simple security issues
+6. Test the security of online sites requiring personal information before use
+
+What is cyber security?
+
+Cyber security is the application of technologies, processes, and controls to protect computer
+systems, networks, programs, devices and data from attacks. Digital attacks are called cyber-
+attacks.
+
+Cyber security aims to reduce the risk and severity of cyber-attacks, and to protect against the
+unauthorised exploitation of systems, devices, networks and technologies. It also refers to the
+practice of securing electronic devices and personal information from unauthorised access or
+attack.
+
+Cyber security includes internet governance, cybercrime, data protection, jurisdiction,
+trademarks, and copyright and intellectual property.
+
+
+Key Terms used in Cyber Security
+
+Here are some definitions of terms you will come across in this manual and also in conversations
+or textbooks concerning cyber security.
+
+**Network security** is the practice of securing a computer network from intruders, whether it is by
+targeted attackers or opportunistic malware or virus.
+
+**Application security** focuses on keeping software and devices free of threats. A compromised
+application could provide access to the data that it is designed to protect. Successful security
+begins in the design stage, well before a program or device is deployed.
+
+**Information security** protects the integrity and privacy of data, both in storage and in transit.
+
+**Operational security** includes the processes and decisions for handling and protecting data assets
+such as the permissions users have when accessing a network and the procedures that determine
+how and where data may be stored.
+
+**Disaster recovery and business continuity** define how an organisation responds to a cyber-
+security incident or any other event that causes the loss of operations or data. The organisation
+uses disaster recovery policies to dictate how it restores its operations and information to return
+to the same operating capacity as before the event.
+
+**End-user education** addresses precautions people should take to avoid accidentally introducing a
+virus to a secure system by following good security practices. They teach users to delete
+suspicious email attachments, not plug in unidentified USB drives, and various other important
+lessons vital for the security of any organisation.
+
+Types of Personal Data Targeted in Cyber Attacks
+
+Personal data is any information which is related to an identified or identifiable natural person. A
+person is identifiable if they can be directly or indirectly identified – for example, by reference to
+an identifier such as a name, an identification number, location data, an online identifier or one of
+several unique characteristics (physical, physiological, genetic, mental, commercial, cultural or
+social).
+
+Examples include your identification card number, passport number or social security number.
+Other examples of personal data include the telephone number, credit card or personnel number
+at workplace, accounts data, car number plate, personal appearance, customer number or
+address.
+
+
+Consequences of not Securing Personal Data
+
+Most internet users are not aware of threats to online privacy and the risks associated with
+having their personal data online. Here are some of the consequences of online threats to
+personal data:
+
+Financial Loss
+
+The financial impact from a data breach is undoubtedly one of the most immediate and hard-
+hitting consequences that organizations or individuals have to deal with in cybercrime.
+
+Reputational Damage
+
+News travels fast and organizations and individuals can find themselves at the centre of a global
+news story within a matter of hours after a breach or disclosure. This negative press coupled with
+a loss in trust can cause irreparable damage to the breached entity or individual in question.
+
+Operational downtime
+
+Business or personal operations will often be heavily disrupted in the aftermath of a data breach.
+Organisations or individuals will need to contain the breach and conduct a thorough investigation
+into how it occurred and what systems were accessed. The entity may need to be completely shut
+down until investigators get all the answers they need and this is a process that can take days,
+even weeks, depending on the severity of the breach.
+
+Legal action
+
+Under data protection regulations, organizations or individuals are legally bound to demonstrate
+that they have taken all the necessary steps to protect personal data. If this data is compromised,
+affected individuals can seek legal action to claim compensation from the responsible party.
+
+Loss of sensitive data
+
+Biometric data is extremely valuable to cybercriminals – much more than basic credit card
+information and email addresses. This is because the criminals can use this data to cause serious
+damages to the individual. Breaches that expose this data can be disastrous and exceed any
+financial and reputational damage.
+
+Threats to your personal data
+
+Malware
+
+
+Malware is malicious software such as spyware or virus. It is activated when a user clicks on a
+malicious link or attachment, which leads to installing dangerous software. Once a malware is
+activated, it can:
+
+1. Block access to key network components (Ransomware)
+2. Install additional harmful software
+3. Covertly obtain information by transmitting data from the hard drive (Spyware)
+4. Disrupt individual parts, making the system inoperable (Bricking)
+
+You can prevent a Malware attack by talking the following steps:
+
+**1.** Install Anti-Virus/Malware software.
+**2.** Keep Your Anti-Virus Software Up to Date.
+**3.** Run Regularly Scheduled Scans with Your Anti-Virus Software.
+**4.** Keep Your Operating System Current.
+**5.** Secure Your Network.
+**6.** Avoid opening suspicious links or download attachments from unknown sources.
+**7.** Keep Your Personal Information Safe by locking down all your privacy settings through
+    secure passwords.
+**8.** Install Firewall which prevents malicious attacks by blocking all unauthorised access to or
+    from a private computer network.
+**9.** Back up your data regularly and periodically test the back up to make sure you can access
+    your archived information.
+
+Phishing Attacks
+
+This refers to gaining your personal information by tricking you. Phishing attacks are used to get
+information like credit card numbers or bank login details by pretending to be a respectable
+website. To prevent phishing take these simple precautions:
+
+1. Confirm the security of a website before inputting personal information.
+2. Avoid following links from emails and other messages instead, visit the target website by
+    typing the address yourself into your browser.
+3. Do not give out personal information online unless you are sure you can verify the
+    recipient’s identity and they are trustworthy.
+
+Spotting a Fake Email or URL
+
+
+Companies and individuals are often targeted by cybercriminals through emails designed to look
+like they came from a legitimate bank, government agency, or other organization. In these emails,
+the sender asks recipients to click on a link that takes them to a page where they will confirm
+personal data, account information, etc.
+
+Sometimes phishing emails are coded entirely as a hyperlink. Clicking accidentally or deliberately
+anywhere in the email will open a fake web page or download spam onto your computer. Avoid
+links attached to emails and especially from unknown persons.
+
+The following can help you detect if an email is real or fake:
+
+1. The Sender’s Email Address Has a Generic Public Domain especially for a government or
+    business enterprise for example:
+    1. bankofbaroda@gmail.com.
+    2. bankofbaroda@hotmail.com.
+    3. bank_of_baroda@yahoo.com.
+2. The domain name is completely wrong or slightly misspelled for example amarzon.com
+    instead of amazon.com.
+3. The tone of the email is urgent and requires you to act swiftly for example.
+4. The email promising financial windfall or grave penalties.
+5. Emails that force you to access a website.
+
+
+## 17. Online abuse and cyberbullying
+
+
+```
+Online abuse and cyberbullying
+```
+```
+Cyber bullying is bullying with the use of digital technologies. It can take place on
+social media, messaging platforms, gaming platforms and mobile phones. It is a
+repeated behaviour, aimed at scaring, angering, or shaming those who are
+targeted.
+```
+```
+Examples includes of cyber bullying are:
+```
+6. Spreading lies about or posting embarrassing photos of someone on social
+    media.
+7. Sending hurtful messages or threats via messaging platforms.
+8. Impersonating someone and sending hurtful messages to others on their
+    behalf.
+
+Signs of Cyberbullying
+
+No matter how much pain they have suffered, victims of cyberbullying are often reluctant to tell
+parents, teachers, or other persons in authority about bullying because they feel a sense of shame
+from being victimised. They may also fear losing their cell phone or computer privileges. Bullies
+tend to be good at hiding their behaviour from those in authority. It’s important to recognise the
+warning signs of cyberbullying and assist the victim to take appropriate action.
+
+Effects of Cyberbullying
+
+When bullying happens online, the victim can feel they are being attacked everywhere, even
+inside their home. They can feel they have no escape. The effects are long lasting and affect a
+person in many ways:
+
+9. Mentally — feeling upset, embarrassed, stupid, even angry.
+10. Emotionally — feeling ashamed or losing interest in the things you love.
+11. Physically — tired (loss of sleep) or experiencing symptoms like stomach aches and
+    headaches.
+
+The feeling of being laughed at or harassed by others can prevent people from speaking up or
+trying to deal with the problem. In extreme cases, cyber bullying can even lead to people taking
+their own lives. Documented effects of cyber bullying include:
+
+12. Higher rates of depression and anxiety.
+13. Reduced feelings of self-worth.
+
+
+14. Difficulties sleeping and increased bed-wetting events.
+15. Higher number of physical issues such as headaches and stomach aches.
+16. Increased suicide attempts (research suggests that cyber bully victims are two to nine
+    times more likely to experience suicidal thoughts.
+17. Increased instances of eating disorders especially among girls.
+18. Truancy for young people.
+19. Low levels of attainment at school.
+20. Increased instances of drug and substance abuse.
+
+Strategies for dealing with cyber bullying
+
+Do not respond immediately
+
+The aim of a lot of cyberbullying in most cases is to annoy, upset or confuse the person who is
+being targeted, so that they react emotionally. If you are being cyber bullied, keep in mind that
+the person who is targeting you wants you to respond. Do not give them the satisfaction of
+knowing you are annoyed.
+
+Follow up when you are more calm
+
+It is important to have a good understanding of the situation before contacting the cyber bully.
+Using calm, neutral language, try to resolve the situation with the person without letting them get
+to you emotionally. They may not even realise that you interpreted their actions as cyber bullying,
+so a calm conversation is important.
+
+Take screenshots of the message
+
+Screenshots are the best way to report an instance of cyber bullying. This is important because
+the person bullying (the cyber bully) may delete their comment or photo when they realise that it
+might get them in trouble. Screenshots will ensure you always have a copy of what was directed
+at you online.
+
+Stop frequently checking posts
+
+You can always reduce the time you spend on social media. so that the bullying doesn’t feel
+constant. Taking a break from the online world is good way to look after yourself.
+
+Report and block
+
+Most social media sites want to help you feel safe online, so they have a lot of built-in tools to
+keep you safe and to enable you to report bullying. If you have tried using the reporting and
+
+
+blocking options within your social media platform and the situation is still difficult, you can make
+a report to the relevant authority in your country.
+
+The authority in your country could be an official commissioner (such as an Information
+Commissioner), a department of the government (such as a Department for Trade and
+Commerce), or an office or directorate within a department. The accompanying annex for your
+country will have further details relevant to you.
+
+Specific dangers for women and girls
+
+Over several years there has been increasing cases of young women being befriended online and
+lured to remote areas where their personal safety is threatened. This has happened all over the
+world and is a risk that all people should be aware of and prepared for.
+
+Typical ways this can happen
+
+Young women are contacted online by a person under a pretence. This can be on one of more of
+these ways:
+
+1. Posing as an old friend
+2. Posing as a member of a community of interest such as a fan of a musician or band, or a
+    sports team
+3. Posing as a potential employer
+
+After a period communicating with the young woman the person will ask for a meeting, a job
+interview, help with a chore such as a delivery, a date or even financial help and money that
+needs to be delivered.
+
+Any of these requests should be looked at carefully.
+
+Some suggestions to help you stay safe
+
+The most important thing to do is verify the existence of the person you are talking to.
+
+4. Is this a real person?
+5. Are they who they say they are? For instance, is the 16-year-old girl real or is the person a
+    30 - year-old man pretending to be a 16-year-old girl?
+6. If the contact is from a company, is the company real, and does that person work at the
+    company?
+7. Always think carefully before sharing personal details about yourself online.
+
+
+If you are going to a meet a person in real life that you have only ever communicated with online,
+then please do at least the following:
+
+1. Verify the person is who they say they are.
+2. Check their contact details.
+3. Pass their contact details to someone you trust so they can check on you.
+4. Also tell this trusted person where you are going, when you are going and when you
+    expect to be home, who you are going to meet with and why.
+5. Meet in a well-lit public place where there are passers-by that could help you if need.
+6. When you get home, don’t forget to inform your trusted person you are safe.
+
+
+## 18. Understand the difference
+
+## between real news and fake
+
+## news
+
+
+```
+Understanding the difference between real news and fake news
+```
+```
+A growing number of people use the internet to stay informed and share millions
+of posts, articles, and videos across platforms such as Facebook, Twitter, and
+YouTube. The rapid adoption of social media has led to a rise in information-
+sharing among users, with fake news becoming a common feature of our access
+to information online.. The spread of misinformation is in part attributed to a
+failure by social media organisations to verify the authenticity of news items that
+appear on their platforms.
+```
+What is real news?
+
+Real news can be defined as legitimate news written by a professional journalist who adheres to
+ethical guidelines (such as, integrity, accuracy and honesty) in gathering and writing news articles,
+Real news articles report facts in a clear non-biased manner and can be verified.
+
+What is fake news?
+
+Fake news refers to false reports or misinformation shared in the form of articles, images, or
+videos which are disguised as “real news” and aim to manipulate people’s opinions.
+
+Fake news is spread by social media users in order to encourage other readers to discuss, repost,
+and retweet these fake news stories. Fake news is mostly used to manipulate public opinion for
+political or commercial gain. Fake news is easily spread – on purpose and accidentally - through
+social media platforms such as Twitter, Weibo, WhatsApp, WeChat, Instagram, and Facebook.
+
+Some real news stories, however, are labelled as fake news by influential figures in society who
+might disagree on factual accuracy of articles. Examples might be when a politician is exposed for
+corruption and suggests that news stories from media are fake in order to protect themselves.
+
+Types of fake news
+
+There are different types of fake news, depending on motives of those who create it. For
+example:
+
+1. **Clickbait** is used to get the attention of users and attract them to click through to linked
+    websites and generate advertising income. Authors deliberately fabricate and exaggerate
+    stories through distorted images and headlines. A typical headline might be “You won’t
+    believe what the president did”, which creates a sense of curiosity in a reader who then
+    clicks on the headline.
+2. **Propaganda** refers to false communication in articles, written to mislead audiences. It is
+    often presented to promote a political agenda or biased perspective.
+3. **Targeted misinformation** is a fictitious piece of information shared for self-serving
+    interests. Targeted misinformation is often directed at groups that are most susceptible
+
+
+```
+to receiving this type of information and easily accept and share polarizing content
+without verifying its authenticity.
+```
+4. **Misleading headlines** can be used with real news stories. Sometimes a story may be true
+    and factual, but news outlets may use a misleading or exaggerated headline to entice
+    readers to click through.
+5. **Imposter content** is when genuine news sources are imitated with false narratives.
+    People affected by the truth can make up stories to deceive or mislead audiences from
+    believing what was originally true. They can use other news outlets in order to label the
+    news they disagree with as false.
+
+Some of the ways to identify fake news
+
+As we have seen there are many types of fake news, and there are many ways to identify fake
+news. Here is some useful guidance for you:
+
+1. Think clearly about the information you read. This means being aware of your emotional
+    reactions and questioning the purpose of the story. This is a useful approach because fake
+    news is created to get an emotional response e.g., anger or fear from the reader.
+2. Identify the message. Is the article fair and balanced? Is the writing reasonable in the way
+    it addresses an issue? Can you tell the difference between facts, opinion, assumptions,
+    and misreporting?
+3. Examine the evidence used in the article: A credible story uses factual evidence such as
+    statistics, expert quotes, and eye-witness account from the people on the scene. You
+    should also look at the images. It is easy to make fake images or alter existing images.
+4. Check the source: Consider the source of a news article. News that comes from an
+    unfamiliar or unknown source may be fake news. You can also check on the author or
+    publisher of the news article and their reputation.
+5. Check if other news outlets have published similar articles. If you can find no other report,
+    then it likely the news article is false.
+6. Use fact checking tools to verify the content and source of the news. Local examples of
+    these tools will be found in the accompanying country annexes.
+
+
+## 19. First steps to getting your business online
+
+
+```
+First steps to getting your business online
+```
+```
+You have taken your first steps to get online as an individual. This may be for
+entertainment, to be informed or to stay in contact with friends and family.
+```
+```
+You can use the skills you have just learned to get your business online safely as
+well.
+```
+```
+You can communicate faster and more cheaply with your existing customers and
+suppliers, find new customers and suppliers, and tell the wider world about your
+products and services. You may be able to have lower operating costs which can
+help protect or increase your profit margin. Your products and services will be
+visible 24 hours a day, seven days a week.
+```
+Taking your business online
+
+Here are a few simple steps to consider when you are thinking about taking your business online:
+
+1. Does your site need to be a website to help with your marketing or should it be an
+    ecommerce site that can sell products and services?
+    1. Service businesses use a website for marketing, that is telling a story about you
+       and/or your business.
+    2. Product based business might find an ecommerce website more useful. This is
+       because you can have pictures, descriptions and prices of your products and you
+       want to be able to sell the product through your website, and e-commerce sites
+       automate your sales process.
+2. Online and offline systems. Think about the processes in real life that will have to link up
+    with your website. These might be arranging for sales calls or picking products and
+    sending them to customers.
+3. Payment processes and options. Consider payment methods that are available in your
+    country and ensure that they are user friendly.
+4. Think about getting your business online in small steps. Don’t try and do everything in one
+    go. This can be complicated, take a long time and could be expensive.
+
+Online and social marketing
+
+The most important part of any business is the customer. Without people that want to buy your
+product or service your business activities will not survive.
+
+
+We know from this manual that the internet and the web can help us communicate in different
+ways with potential customers through websites, email, and social media. We can use these
+online tools to help our marketing.
+
+Marketing is the practice of spreading messages about a brand, products or services, or a
+company to potential customers. Digital, or online, marketing is the part of marketing that uses
+the internet and digital technologies, digital media, and platforms to promote products and
+services.
+
+A good place to start is:
+
+1. Have something clear you want to say. This could be a new product, or news of a sale
+2. Understand who your customers are. This can be based on your existing customers, or
+    new customers that you’d like to have in the future. This includes understanding what
+    they want, and where they get information from online.
+3. Using the websites, and social media platforms that your customers use. This means using
+    Facebook, Twitter, or Instagram to get your message out. You can also use email to
+    communicate with people you already know such as existing customers or people that
+    used to be customers.
+4. An important part of online and social marketing is thinking, listening, and responding to
+    your customers. Marketing is not a one-way process. It is a form of communication, and
+    this means speaking with customers and listening to customers.
+
+Simple steps to setting up a website
+
+1. Create a site. This will require hiring a person or paying for web creation services. Ensure
+    the graphics design and artwork of the site are like that of your current business and all
+    the information displayed on the website accurately reflects your current business.
+2. Ensure you can support customers via email and contact forms on your website (known
+    as customer relations or customer services).
+3. Establish a way to communicate with your customers beyond your website by providing
+    telephone and mobile phone numbers.
+4. Check ease of accessibility/ usage. Make sure things like forms, chatbots, and enquiries
+    email addresses are compatible with different types of digital device.
+5. Finally, go through your site from the point of view of your customer. Try using the
+    website the way a customer would (the customer journey). Be objective with feedback
+    and use it to make your website as easy as possible to use.
+
+Simple steps to setting up an e-commerce site
+
+
+1. Product catalogue. Use existing photos of your products or have new photos taken. If you
+    have a physical catalogue, you can use its descriptions, prices, and quantities for your
+    online version.
+2. Create the ecommerce site. Hire a web application developer who has the right skills and
+    experience to create a fully functioning e-commerce site for your business.
+3. Ensure your ecommerce site is a user-friendly site and can make a difference for your
+    customers online.
+4. Think about how you will get your products to your customers, and how they may be able
+    to return products to you.
+5. Have a return and refund policy that safeguards your business interest and that of the
+    customer.
+6. Establish payment systems that are compatible with your site and is customer friendly.
+7. Provide a customer service channel for queries and complaints.
+8. Set up a review option or button to get feedback from your customers.
+
+Potential threats to online businesses and the information of their customers
+
+If you want to take the opportunity to take your business online then you will have to think about
+your own information, and the personal and financial information of your customers. Here is a
+summary of some of the threats you may encounter.
+
+Elements of Data Security for Online Business Owners
+
+There are some fundamental aspects of data security that an online business must consider. As a
+starting point consider these guiding principles of confidentiality, integrity, and availability.
+
+1. Confidentiality - Ensures that data is accessed only by authorised users with the proper
+    credentials.
+2. Integrity - Ensure that all data stored is reliable, accurate, and not subject to unwarranted
+    changes.
+3. Availability - Ensures that data is readily and safely accessible and available for ongoing
+    business needs.
+
+SQL Injection attacks
+
+A Structured Query Language (SQL) injection is a type of cyber-attack that results from inserting
+malicious code into a server that uses SQL. When infected, the server releases information.
+Submitting the malicious code can be as simple as entering it into a vulnerable website search
+box.
+
+
+A business can prevent SQL injection by:
+
+1. Validating user inputs.
+2. Sanitize data by limiting special characters.
+3. Enforce prepared statements with parameterised queries.
+4. Using stored procedures in the database.
+5. Actively manage patches and updates.
+
+Denial of Service (DoS)
+
+This is a type of cyber-attack that floods a computer or network so that it cannot respond to
+requests. Cyber attackers often use a flood attack to disrupt services and use the time that a
+network is disabled to launch other attacks.
+
+You can avoid a DoS by strengthening your business security:
+
+6. Fortifying all internet-facing devices to prevent compromise.
+7. Installing and maintaining antivirus software.
+8. Establishing firewalls configured to protect against DoS attacks.
+9. Following robust security practices to monitor and manage unwanted traffic.
+
+Activity: Lesson review and first steps
+
+10. Do you understand why you need to take your business online?
+11. Are there examples of business like yours you can study or emulate?
+12. Set up an online store through free online sites.
+
+After you have completed the activity reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx
+
+
+## 20. Other basic skiils
+
+
+```
+Other basic skills
+```
+```
+This section seeks to equip learners with knowledge on the practical application of
+digital skills..
+```
+```
+Digital devices are becoming everyday tools. We may not even think about the
+presence of digital devices in our everyday life, but they can include a digital map
+kiosk in an airport, a ticket machine at a train station, an automated teller
+machine (and ATM, bank machine, or “hole in the wall”) or other digital services.
+```
+Accessing services online
+
+Many governments are beginning to use the internet, websites and smartphone apps to
+communicate with their citizens and to deliver services directly to people.
+
+Different countries and online systems provide different services, but typical services include:
+
+13. Getting official guidance on useful topics such as Covid compliance, Vaccine Passports etc.
+14. Registering your address with a local government department for administrative purposes
+    such as eligibility to vote.
+15. Registering your children do they can access education.
+16. Registering a new business.
+17. Registering and paying taxes.
+18. Registering so you can access healthcare services.
+
+Typical examples of online government service portals include:
+
+19. UK government services and information, https://www.gov.uk/
+20. Estonia e-government portal, https://e-estonia.com/
+
+Refer to the accompanying country annex for your country for examples of services, portals, and
+exercises on accessing public, health, tax, and education services from your local and national
+government.
+
+Automated Teller Machines (ATM)
+
+An ATM is a machine that allows bank customers to carry out banking services without the aid of
+a human being.
+
+
+Using an ATM allows you to withdraw money from your bank account, check bank account
+balances, print a report from your bank account, deposit money and even carry out payment
+transactions.
+
+To use an ATM, you will need a debit or credit card from your bank and a PIN (Personal
+Identification Number).
+
+How to use an ATM machine
+
+1. It is best practice to visit the appropriate ATM machine for your bank. For example, if a
+    card belongs to Equity Bank look for an ATM for Equity Bank if possible. Some ATMs will
+    charge you more for using a card from a different bank.
+2. Basic safety at an ATM machine. ATM users are targeted by thieves and robbers. Make
+    sure the ATM area is well lit. Be alert and attentive of the ATM surroundings and check
+    the ATM machine for any unusual and suspicious objects.
+3. Insert the ATM card into the ATM card slot with the chip side facing away from you and
+    down.
+4. Choose the language you want to use with the ATM.
+5. Enter your secret PIN (Personal Identification Number). Make sure the numbers cannot
+    be seen by anyone near you.
+6. Most ATMs will let you:
+    1. Withdraw money.
+    2. Deposit money.
+    3. Check your bank account balance.
+    4. Transfer money or make payments.
+7. End your session by following the instructions on the ATM machine to exit and get your
+    ATM card back.
+8. Take your money and the ATM card.
+
+Important note: If your ATM card is lost, notify your bank immediately. They will help protect your
+money and issue a new ATM card to you.
+
+Activity: Using your ATM card and high-street banking services
+
+If you have a have an ATM card you will:
+
+1. Use it to withdraw money and deposit money.
+
+
+2. Have your bank mobile banking app installed in your device and be in a position to use it
+    well.
+
+After you have completed their activities reflect and record your work.
+
+For a blank activity and reflection template please see the accompanying annex.
+
+Annex_Activity and reflection template.docx.
+
+
+

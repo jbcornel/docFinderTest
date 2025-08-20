@@ -1,0 +1,2868 @@
+```
+© 2023 National Institute for Automotive Service Excellence. All rights reserved.
+```
+## Entry-Level Certification Program
+
+# ASE Study Guide
+
+# For the Automobile
+
+# Entry-Level Certification Tests
+
+
+## ASE Study Guide for the Automobile Entry-Level Certification Tests
+
+- Overview Table of Contents
+- The Three Types of ASE Test Questions
+- Test Taking Tips
+- Automobile Tests – Specifications and Task Lists
+   - I. ENGINE REPAIR (ER)
+   - II. AUTOMATIC TRANSMISSION AND TRANSAXLE (AT)
+   - III. MANUAL DRIVE TRAIN AND AXLES (MD)
+   - IV. SUSPENSION AND STEERING (SS)
+   - V. BRAKES (BR)
+   - VI. ELECTRICAL/ELECTRONIC SYSTEMS (EE)
+   - VII. HEATING, VENTILATION, AND AIR CONDITIONING (AC)
+   - VIII. ENGINE PERFORMANCE (EP)
+   - MAINTENANCE AND LIGHT REPAIR (MR)
+   - AUTOMOBILE SERVICE TECHNOLOGY (AS)
+- Sample Test Questions
+      - Test specifications effective 7/1/
+         - Study Guide revised 11/19/
+
+
+## Overview
+
+**Introduction**
+
+This study guide is designed to help students prepare for the ASE Entry-Level tests. This guide contains
+detailed information about these tests which cover technology found in most of today’s automobiles,
+sport utility vehicles, and light trucks. The task list for each test, found in the following pages, should
+help you review your technical knowledge. Your focus should be on less familiar topics. This should make
+it easier to select additional reference materials that will help you prepare for your test(s).
+
+ASE's Entry-Level certification helps students prove their abilities to themselves, to their instructors, and
+to their prospective employers. By passing the tests, you will earn the most valuable credential available
+to automotive, truck, and collision repair students. Because the tests are challenging, you’ll have the
+satisfaction of knowing you are among the best-prepared students for the workforce. What’s more,
+these credentials are recognized throughout the U.S. The Entry-Level certifications are your first step
+toward becoming an ASE-certified technician.
+
+Certified technicians promote customer trust and improve the image of the industry. And trust and
+professionalism are the first steps to a better, more prosperous business. ASE encourages you to take the
+tests and to join the proven pros who wear the ASE Blue Seal of Excellence®.
+
+**How Do I Become Certified?**
+
+For the ASE Entry-Level certification program, there are ten tests in the Auto series, five tests in the
+Medium/Heavy Truck Series, and four tests in the Collision Repair & Refinish series. If you pass one or
+more test(s), you will become certified as an ASE Entry-Level Technician.
+
+ASE Entry-Level Certification credentials are valid for two years. If you continue your career in
+automotive service, within two years you should be ready to continue to the ASE Professional level
+certification tests.
+
+**Who Writes the Questions?**
+
+Working professionals from the service industry and instructors with expertise in the test topic write the
+questions, which are entirely job-related. The questions are designed to test knowledge of the skills that
+you need to know in servicing automobiles.
+
+Each question has its roots in an ASE “item-writing” workshop where working technicians, service
+representatives from automobile manufacturers (domestic and import), aftermarket parts and
+equipment manufacturers and technical educators meet to share ideas and translate them into test
+questions. Each question written must survive review by all members of the group. The questions are
+written to mirror practical problems relevant to the diagnosis and repair performed by technicians in
+their day-to-day work.
+
+After being written, all questions are pre-tested and quality-checked on a national sample of students.
+Those questions meeting ASE standards of quality and accuracy are then included in the scored sections
+of the tests; those that do not are redrafted or discarded altogether.
+
+
+**Are the Tests Hard to Pass?**
+
+The tests cover technical concepts that entry-level technicians need to know for success on the job. The
+good news is that these are the same tasks that are part of every ASE accredited training program, so
+you should be covering most of them in your class and lab work.
+
+When you review the test specifications for the tests (included later in this guide), you will see that the
+passing score for most of the tests is 50% to 60% correct to pass. This does NOT mean that the tests are
+easy to pass. In fact, the tests are carefully constructed with questions that vary from fairly easy to quite
+difficult. As a result, the passing score is specifically set to identify the more knowledgeable students
+who should pass vs. the less knowledgeable ones who should not pass. In this case, the relatively low
+passing score indicates that the test is pretty challenging overall. That is why it is important to know
+what to expect and study before taking the test, so you can do your very best.
+
+If you pass, you should be proud – you have demonstrated understanding and knowledge that meets
+tough industry standards. If you do not pass, you shouldn’t feel bad – the tests are tough and not
+everyone passes. You can retake a test that you failed 30 days or more after your first attempt, and that
+gives you time to review your score report and focus additional study on the areas of the test where you
+didn’t score well.
+
+Instructors and administrators who want to learn more about the construction of the tests and proper
+interpretation of the test scores should review the “Guide for Interpreting Results and Technical Data for
+the ASE Entry-Level Certification Tests”, available at [http://www.ase.com/entry-level.](http://www.ase.com/entry-level.)
+
+**How Do I Prepare for the ASE Entry-Level Tests?**
+
+The most important thing you can do is become familiar with test content and question formats.
+
+The Test Specifications in this guide describe the content covered by each test. The Task Lists detail the
+actual tasks studied by students in each specialty area. Together, these are the blueprint for writing and
+assembling the ASE Entry-Level tests.
+
+Each question on the test relates to a particular task or set of tasks in the task list. Therefore, review the
+task list, thinking about whether you know how to perform each task listed.
+
+All questions are multiple-choice. The sample questions in this study guide are examples of the three
+types of questions on the test. Note there are different instructions for some question types.
+
+Read each question carefully so that you understand exactly what is being asked. Each question tests a
+specific diagnostic or repair problem and has only one correct answer.
+
+To summarize, we suggest the following steps be taken:
+
+**_Step 1._** Carefully read the Test Specifications for each test you will attempt.
+
+**_Step 2._** Study the Task List for each area.
+
+**_Step 3._** Go over the sample questions to become familiar with each question type. This is very
+important!
+
+**_Step 4._** Review steps 1 through 3 and identify the skill areas where you need additional study.
+
+
+**Test Content and Sample Questions**
+
+To help you prepare, each section begins with the Test Specifications, which will list the main categories
+covered and the number of test questions, as well as the percentage of the test devoted to each topic.
+
+The Task List describes the work activities a student should be familiar with. This list was developed by
+instructors, working technicians, and technical experts from across the country and will provide a
+valuable checklist telling you what you should know for the test.
+
+The number of tasks listed does not equal the number of questions. Although every question relates to
+at least one listed task, some tasks may not appear on the test. Some complex tasks may be covered by
+several questions. Some questions may cover multiple simple tasks. The main goal of the list is to
+describe what is studied in school; any task on the list may be covered on the test.
+
+Sample questions follow the Test Specifications and Task Lists. Although these specific questions will not
+appear on tests, they are in the same format as actual test questions. The ASE Entry-Level tests employ
+several types of multiple-choice questions. Note that some questions have special instructions, which
+will appear with similar questions on the ASE Entry-Level tests.
+
+
+## The Three Types of ASE Test Questions
+
+ASE uses three different types of multiple-choice questions on its tests:
+
+- Direct or Completion Questions
+- Technician A / Technician B Questions
+- Except or Least Likely Questions
+
+Each question has four answer options. There is always one correct answer and three incorrect answers.
+Every question contains the information needed to answer it correctly. ASE does not use trick questions
+or questions with more than one correct answer.
+
+**Direct or Completion Questions**
+
+With this question type, you're asked a question or asked to complete a statement. Remember, all
+questions are based upon industry-accepted practices, and there are technical reasons why the choices
+are correct or incorrect.
+
+Read the entire question carefully. Then consider each of the four answer choices and rule out the ones
+that you think are obviously incorrect. If you're left with two or more choices that seem plausible to you,
+you may be lacking a piece of knowledge that would let you rule out an incorrect answer. Choose the
+answer that seems most likely to you, based on your experience. If you still cannot choose an answer,
+take your best guess and go on. There may be a cause that's more likely than any of the choices given,
+but you should select the most likely of the four choices shown.
+
+Here is an example of a Direct Question, with each answer option explained:
+
+**A 4-wheel disc brake equipped vehicle, without ABS, has a pulsation that is felt in the brake pedal
+whenever the brakes are applied to slow or stop the vehicle. Which of these is the most likely cause?**
+
+```
+(A) Loose brake pad shims
+(B) Uneven brake pad wear
+(C) A low brake fluid level
+(D) Brake rotor thickness variation
+```
+The correct answer is (D) Brake rotor thickness variation. Here is why:
+
+Option A is incorrect. Loose brake pad shims could cause excessive braking noise, but will not cause a
+brake pedal pulsation.
+
+Option B is also incorrect. Uneven brake pad wear is usually caused by problems with the caliper or
+mounting hardware but will not cause brake pedal pulsation.
+
+Option C is incorrect as well. A low brake fluid level could make brake pedal application feel spongy, and
+may decrease stopping power, but will not cause the brake pedal pulsation.
+
+Option D is correct. A variation in disc brake rotor thickness will force the brake pads to move in and out
+during brake application. This movement will be transferred to the brake pedal by the hydraulic system.
+Of the four choices given, this is clearly the most common concern related to brake pedal pulsation.
+
+
+**Technician A / Technician B Questions**
+
+The Technician A / B question is the most misunderstood ASE question format, but it can be simple to
+answer when approached the right way. Here is how to approach these questions: Two technicians are
+making independent statements which you must judge separately to be true or false. The most common
+mistake with this type of question is allowing one technician's statement to influence your thinking
+about the other's. Always keep in mind that the two technicians are not arguing with one another,
+they're simply making independent statements.
+
+Use this approach: Read Technician A's statement by itself and ask yourself: Is this true or false? Then set
+aside Technician A's statement and consider Technician B's statement by itself. It might help to write
+down a T or F for Tech A, and a T or F for Tech B. If only one of the statements is true, then your answer
+is either A or B. If both statements are true, your answer is C. If both statements are false (and there are
+times when this is the case), your answer is D.
+
+Here is an example of a Technician A / Technician B question, with the answer options explained:
+
+**The front end of a vehicle vibrates up and down while traveling at most road speeds.**
+
+**Technician A says that too much radial runout of the front tires could be the cause.**
+
+**Technician B says that static out-of-balance of the front tires could be the cause.**
+
+**Who is right?**
+
+```
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+```
+The correct answer is (C) Both A and B. Here is why:
+
+First, evaluate Technician A’s statement by itself. Excessive radial runout will make the spindle move up
+and down, and this can cause the front end to vibrate. So Technician A's statement is true, but "A only" is
+not the correct answer. You must consider Technician B's statement separately before you can answer.
+
+Second, evaluate Technician B’s statement by itself. Tires that are out of balance can cause a front end
+vibration, so Technician B's statement is true. But "B only" is not the correct answer. Don't compare B to
+A and think that since one is correct, the other must be incorrect, or think that "B only" is the correct
+answer because tire imbalance is more likely than too much radial runout. Remember to evaluate each
+statement by itself.
+
+In this case, both statements are true – too much radial runout could cause the vibration, and bad static
+tire balance could also be the cause. Because both Technician A and Technician B are correct, the answer
+to this question is (C) Both A and B. While it may be unlikely that any vehicle will have both tire
+imbalance and excessive radial runout at the same time, the point of the question is to find out whether
+you know the various problems that can cause the problem that is being described.
+
+
+Finally, the correct answer isn’t (D) Neither A nor B, because both Technician A's and Technician B's
+statements are correct. There might be other causes for the vibration that are more common than either
+tire imbalance or radial runout, but you must stick to the answer choices given in the question.
+
+**Except or Least Likely Questions**
+
+This type of question usually begins with a statement of a problem or malfunction of some kind. You
+must choose the one thing that will NOT or is LEAST likely to cause the problem. In simple terms, this
+means there will be three answers that WILL cause the problem and one answer that WON'T cause the
+problem. You are looking for the single answer that WON'T cause the problem.
+
+Often, the best way to find the answer to this type of question is by process of elimination. Look at each
+possible answer in turn and decide if it is or isn't likely to cause the problem.
+
+Here is an example of an Except question with each answer option explained:
+
+**This question is not like the previous ones. It has the word EXCEPT. Look for the choice that could NOT
+cause the described situation. Read the entire question carefully before choosing your answer.**
+
+**Engine detonation could be caused by any of these EXCEPT:**
+
+```
+(A) a lean air-fuel mixture.
+(B) retarded ignition timing.
+(C) excessive carbon in the combustion chambers.
+(D) a stuck-closed EGR valve.
+```
+Because these questions require you to look for the one incorrect choice, they always include the
+warning above the question, just so that you don’t overlook “EXCEPT” or “LEAST LIKELY” when you read
+the question. The correct answer here is (B) retarded ignition timing. Here is why:
+
+Option A is **incorrect.** A lean fuel mixture increases combustion temperature and could cause
+detonation. Scratch this one out. Remember, you are looking for the one answer that does not cause the
+problem.
+
+Option B is **correct**. Retarded timing is the exception compared to the other choices. Since retarded
+timing reduces cylinder temperatures, it does not contribute to detonation. But just to be sure, go ahead
+and rule out the other choices.
+
+Option C is also **incorrect**. Excessive carbon can raise the compression ratio and combustion temperature
+and ignite the air/fuel mixture prematurely. Any of these can result in detonation. You are looking for the
+answer that cannot cause detonation. So, strike this one.
+
+Option D is **incorrect** as well. EGR flow into the combustion chamber helps to lower combustion
+temperatures. If the valve is stuck closed, detonation could result. Strike this one out. You need the one
+answer that doesn't cause detonation.
+
+Once you have evaluated all the options and found the three choices that could cause the problem, you
+can be confident that you have chosen the one that could not cause it, and that one is the correct
+answer.
+
+
+## Test Taking Tips
+
+When preparing and taking the ASE Entry-Level tests, keep these tips in mind:
+
+- Don’t freak out – this is what you have been studying in class. If you have reviewed the task list,
+    studied up on any tasks that you are unsure of, and practiced evaluating the different types of
+    ASE questions, you should be well prepared to take the test.
+- Every question has one single right answer, three wrong answers, and enough information to
+    choose the right answer.
+- There are no "trick" questions, so don't try to guess based on what you think the people at ASE
+    "want" you to answer. All questions are written by industry experts and are based on actual
+    automotive systems and repair practices. Use what you know from your own education and
+    experience to help you select your answers.
+- Read each question (including ALL of the answers) carefully, so that you understand exactly what
+    is being asked.
+- Answer the question based ONLY on the choices given. Don't try to "read into" the question or
+    add information that is not provided.
+- Don't spend too much time on any question. Some are harder than others, but they all count the
+    same, and you pass or fail the test based on your total score.
+- If you are not sure of your answer, try to eliminate as many incorrect choices as possible to
+    narrow down your options, select the answer you think is most likely correct, and flag the
+    question for review. If you get to the end of the test and have time left, go back and review the
+    questions you flagged.
+- You are free to change your answers but don’t doubt yourself too much; if you read the question
+    carefully and have evaluated all the options, your first choice is usually your best choice.
+- It is to your advantage to answer every question, so don't leave any answers blank. ASE test
+    scores are based on the number of right answers you provide. A question left unanswered is
+    scored as wrong and there is no penalty for guessing. You might get it right!
+
+
+## Automobile Tests – Specifications and Task Lists
+
+There are ten tests in the ASE Entry-Level Automobile test series:
+
+- Engine Repair (ER)
+- Automatic Transmission/Transaxle (AT)
+- Manual Drive Train and Axles (MD)
+- Suspension and Steering (SS)
+- Brakes (BR)
+- Electrical/Electronic Systems (EE)
+- Heating and Air Conditioning (AC)
+- Engine Performance (EP)
+
+The task lists and test specifications for these eight system-specific tests are derived directly from the
+2022 Instructional Standards for ASE Automobile program accreditation at the MAST level.
+
+- Maintenance and Light Repair (MR)
+- Automobile Service Technology (AS)
+
+The task lists and test specifications for these two comprehensive tests are derived directly from the
+2022 Instructional Standards for ASE Automobile program accreditation at the MLR and AST levels,
+respectively.
+
+The task lists are simply listings of the tasks involved in servicing and repair of various vehicle systems.
+Each question in a test is keyed to one or more of these tasks. The task lists are organized into content
+categories, and these content categories, along with the number of questions included in each category,
+comprise the test specifications. Every exam form meets these specifications.
+
+Tests may include additional, unscored questions for statistical evaluation. Extra questions will not count
+for or against the final score. However, since they are not identified, students should answer every
+question to the best of their ability.
+
+
+### I. ENGINE REPAIR (ER)
+
+Test Specification
+
+Content Area Questions In Test
+
+```
+A. General: Engine Diagnosis; Removal and Reinstallation 10
+B. Cylinder Head and Valve Train D&R 10
+C. Engine Block Assembly D&R 7
+D. Lubrication and Cooling Systems D&R 13
+```
+Required To Pass: 22 of 40 TOTAL 40
+
+Task List
+
+**ER-A. General: Engine Diagnosis; Removal and Reinstallation (R & R)**
+
+1. Research vehicle service information such as fluid type, internal combustion engine operation,
+    vehicle service history, service precautions, technical service bulletins, and recalls including
+    vehicles equipped with advanced driver assistance systems (ADAS).
+2. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+3. Verify operation of the instrument panel engine warning indicators.
+4. Inspect engine assembly for fuel, oil, coolant, and other leaks; determine needed action.
+5. Install engine covers using gaskets, seals, and sealers as required.
+6. Verify engine mechanical timing.
+7. Inspect, remove, and/or replace engine mounts.
+8. Identify service precautions related to service of the internal combustion engine of a hybrid
+    electric vehicle.
+9. Remove and reinstall engine on a newer vehicle equipped with OBD; reconnect all attaching
+    components and restore the vehicle to running condition.
+
+**ER-B. Cylinder Head and Valve Train Diagnosis and Repair**
+
+1. Identify cylinder head and valve train components and configurations.
+2. Remove cylinder head; inspect gasket condition; install cylinder head and gasket; tighten
+    according to manufacturer’s specification and procedure.
+3. Clean and visually inspect a cylinder head for cracks; check gasket surface areas for warpage and
+    surface finish; check passage condition.
+4. Inspect valve actuating mechanisms for wear, bending, cracks, looseness, and blocked oil
+    passages (orifices); determine needed action.
+5. Adjust valves (mechanical or hydraulic lifters).
+6. Inspect and replace camshaft and drive belt/chain; includes checking drive gear wear and
+    backlash, end play, sprocket and chain wear, overhead cam drive sprocket(s), drive belt(s), belt
+    tension, tensioners, camshaft reluctor ring/tone-wheel, and valve timing components; verify
+    correct camshaft timing.
+7. Inspect valve springs for squareness and free height comparison; determine needed action.
+8. Replace valve stem seals on an assembled engine; inspect valve spring retainers, locks/keepers,
+    and valve lock/keeper grooves; determine needed action.
+
+
+9. Inspect valve guides for wear; check valve stem-to-guide clearance; determine needed action.
+10. Inspect valves and valve seats; determine needed action.
+11. Check valve spring assembled height and valve stem height; determine needed action.
+12. Inspect valve lifters and hydraulic lash adjusters; determine needed action.
+13. Inspect and/or measure camshaft for runout, journal wear and lobe wear.
+14. Inspect camshaft bearing surface for wear, damage, out-of-round, and alignment; determine
+    needed action.
+
+**ER-C. Engine Block Assembly Diagnosis and Repair**
+
+1. Identify engine block assembly components and configurations.
+2. Remove, inspect, and/or replace crankshaft vibration damper (harmonic balancer).
+3. Disassemble engine block; clean and prepare components for inspection and reassembly.
+4. Inspect engine block for visible cracks, passage condition, core and gallery plug condition, and
+    surface warpage; determine needed action.
+5. Inspect and measure cylinder walls/sleeves for damage, wear, and ridges; determine needed
+    action.
+6. Perform deglazing and cleaning of cylinder walls.
+7. Inspect and measure camshaft bearings for wear, damage, out-of-round, and alignment;
+    determine needed action.
+8. Inspect crankshaft for straightness, journal damage, keyway damage, thrust flange and sealing
+    surface condition, and visual surface cracks; check oil passage condition; measure end play and
+    journal wear; check crankshaft position sensor reluctor ring (where applicable); determine
+    needed action.
+9. Inspect main and connecting rod bearings for damage and wear; determine needed action.
+10. Identify piston and bearing wear patterns that indicate connecting rod alignment and main
+    bearing bore problems; determine needed action.
+11. Inspect and measure piston skirts and ring lands; determine needed action.
+12. Determine piston-to-bore clearance.
+13. Inspect, measure, and install piston rings.
+14. Inspect auxiliary shaft(s) (balance, intermediate, idler, counterbalance and/or silencer); inspect
+    shaft(s) and support bearings for damage and wear; determine needed action; reinstall and
+    time.
+15. Assemble engine block.
+
+**ER-D. Lubrication and Cooling Systems Diagnosis and Repair**
+
+1. Identify lubrication and cooling system components and configurations.
+2. Perform engine oil and filter change; use proper fluid type per manufacturer specification; reset
+    maintenance reminder as required.
+3. Perform cooling system pressure and dye tests to identify leaks; check coolant condition and
+    level; inspect and test radiator, pressure cap, coolant recovery tank, heater core, and galley
+    plugs; determine needed action.
+4. Identify causes of engine overheating.
+5. Inspect, replace, and/or adjust drive belts, tensioners, and pulleys; check pulley and belt
+    alignment.
+
+
+6. Inspect and test coolant; drain and recover coolant; flush and/or refill cooling system; use proper
+    fluid type per manufacturer specification; bleed air as required.
+7. Inspect, remove, and replace the water pump.
+8. Remove, inspect, and replace thermostat and gasket/seal.
+9. Remove and replace radiator.
+10. Inspect and test fan(s), fan clutch (electrical or mechanical), fan shroud, and air dams; determine
+    needed action.
+11. Perform oil pressure tests; determine needed action.
+12. Inspect auxiliary coolers; determine needed action.
+13. Inspect, test, and/or replace oil temperature and pressure switches and sensors.
+14. Inspect oil pump gears or rotors, housing, pressure relief devices, and pump drive; determine
+    needed action.
+
+### II. AUTOMATIC TRANSMISSION AND TRANSAXLE (AT)
+
+Test Specification
+
+Content Area Questions In Test
+
+```
+A. General: Transmission and Transaxle Diagnosis 18
+B. In-Vehicle Transmission/Transaxle Maintenance and Repair 10
+C. Off-Vehicle Transmission and Transaxle Repair 12
+```
+Required To Pass: 22 of 40 TOTAL 40
+
+Task List
+
+**AT-A. General: Transmission and Transaxle Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify automatic transmission and transaxle components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Inspect transmission fluid condition; check fluid level; inspect for leaks on transmission or
+    transaxle equipped with a dipstick.
+5. Inspect transmission fluid condition; check fluid level; inspect for leaks on transmission or
+    transaxle not equipped with a dipstick.
+6. Diagnose transmission/transaxle gear reduction/multiplication concerns using driving, driven,
+    and held member (power flow) principles.
+7. Diagnose pressure concerns in a transmission using hydraulic principles (Pascal’s Law).
+8. Identify and interpret transmission/transaxle concerns, differentiate between engine
+    performance and transmission/transaxle concerns; determine needed action.
+9. Diagnose fluid loss and condition concerns; determine needed action.
+10. Perform stall test; determine needed action.
+11. Perform lock-up converter system tests; determine needed action.
+
+
+12. Perform pressure tests on transmissions/transaxles equipped with electronic pressure control;
+    determine needed action.
+13. Diagnose electronic transmission/transaxle control systems using appropriate test equipment
+    and service information.
+14. Diagnose noise and vibration concerns; determine needed action.
+
+**AT-B. In-Vehicle Transmission/Transaxle Maintenance and Repair**
+
+1. Inspect, adjust, and/or replace external manual valve shift linkage, transmission range
+    sensor/switch, and/or park/neutral position switch.
+2. Drain and replace fluid and filter(s); use proper fluid type per manufacturer specification.
+3. Perform relearn procedures.
+4. Inspect, replace/or and align powertrain mounts.
+5. Inspect for leakage; replace external seals, gaskets, and bushings.
+6. Inspect, test, adjust, repair, and/or replace electrical/electronic components and circuits.
+
+**AT-C. Off-Vehicle Transmission and Transaxle Repair**
+
+1. Describe the operational characteristics of a continuously variable transmission (CVT).
+2. Describe the operational characteristics of a hybrid vehicle drive train.
+3. Remove and reinstall transmission/transaxle and torque converter; inspect engine core plugs,
+    rear crankshaft seal, dowel pins, dowel pin holes, and mounting surfaces.
+4. Inspect, leak test, flush, and/or replace transmission/transaxle oil cooler, lines, and fittings.
+5. Inspect converter flex (drive) plate, converter attaching bolts, converter pilot, converter pump
+    drive surfaces, converter end play, and crankshaft pilot bore.
+6. Disassemble, clean, and inspect transmission/transaxle.
+7. Inspect, measure, clean, and replace valve body (includes surfaces, bores, springs, valves,
+    switches, solenoids, sleeves, retainers, brackets, check valves/balls, screens, spacers, and
+    gaskets).
+8. Inspect servo and accumulator bores, pistons, seals, pins, springs, and retainers; determine
+    needed action.
+9. Assemble transmission/transaxle.
+10. Inspect, measure, and reseal oil pump assembly and components.
+11. Measure transmission/transaxle end play and/or preload; determine needed action.
+12. Inspect, measure, and/or replace thrust washers and bearings.
+13. Inspect oil delivery circuits, including seal rings, ring grooves, and sealing surface areas, feed
+    pipes, orifices, and check valves/balls.
+14. Inspect bushings; determine needed action.
+15. Inspect and measure planetary gear assembly components; determine needed action.
+16. Inspect case bores, passages, bushings, vents, and mating surfaces; determine needed action.
+17. Diagnose and inspect transaxle drive, link chains, sprockets, gears, bearings, and bushings;
+    determine needed action.
+18. Inspect measure, repair, adjust or replace transaxle final drive components.
+19. Inspect clutch drum, piston, check-balls, springs, retainers, seals, friction plates, pressure plates,
+    and bands; determine needed action.
+20. Measure clutch pack clearance; determine needed action.
+
+
+21. Air test operation of clutch and servo assemblies.
+22. Inspect one-way clutches, races, rollers, sprags, springs, cages, retainers; determine needed
+    action.
+
+### III. MANUAL DRIVE TRAIN AND AXLES (MD)
+
+Test Specification
+
+Content Area Questions In Test
+
+```
+A. General: Drive Train Diagnosis 5
+B. Clutch Diagnosis and Repair 7
+C. Transmission/Transaxle Diagnosis and Repair 8
+D. Drive Shaft and Half Shaft, Universal and CV Joints 6
+E. Differential and Drive Axles: Diagnosis and Repair 9
+F. Four-wheel Drive/All-wheel Drive Component D&R 5
+```
+Required To Pass: 21 of 40 TOTAL 40
+
+Task List
+
+**MD-A. General: Drive Train Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify manual drive train and axles components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Check fluid condition; check for leaks; determine needed action.
+5. Drain and refill manual transmission/transaxle; use proper fluid type per manufacturer
+    specification.
+6. Diagnose drive train concerns; determine needed action.
+
+**MD-B. Clutch Diagnosis and Repair**
+
+1. Check and adjust clutch master cylinder fluid level; check for leaks; use proper fluid type per
+    manufacturer specification.
+2. Diagnose clutch noise, binding, slippage, pulsation, and chatter; determine needed action.
+3. Inspect clutch pedal linkage, cables, automatic adjuster mechanisms, brackets, bushings, pivots,
+    and springs; determine needed action.
+4. Inspect and/or replace clutch pressure plate assembly, clutch disc, release (throw-out) bearing,
+    linkage, and pilot bearing/bushing (as applicable).
+5. Bleed clutch hydraulic system.
+6. Inspect flywheel and ring gear for wear, cracks, and discoloration; determine needed action.
+7. Measure flywheel runout and crankshaft end play; determine needed action.
+8. Describe the operation and service of a system that uses a dual mass flywheel.
+
+
+**MD-C. Transmission/Transaxle Diagnosis and Repair**
+
+1. Describe the operational characteristics of an electronically controlled manual
+    transmission/transaxle.
+2. Inspect, adjust, lubricate, and/or replace shift linkages, brackets, bushings, cables, pivots, and
+    levers.
+3. Diagnose noise concerns through the application of transmission/transaxle power flow
+    principles; determine needed action.
+4. Diagnose hard shifting and jumping out of gear concerns; determine needed action.
+5. Diagnose transaxle final drive assembly noise and vibration concerns; determine needed action.
+6. Disassemble, inspect clean, and reassemble internal transmission/transaxle components.
+
+**MD-D. Drive Shaft and Half Shaft, Universal and Constant-Velocity (CV) Joint Diagnosis and Repair**
+
+**(Front, Rear, All-wheel, and Four-wheel Drive)**
+
+1. Inspect and/or remove/replace bearings, hubs, and seals.
+2. Inspect and/or service/replace shafts, yokes, boots, and universal/CV joints.
+3. Check for leaks at drive assembly and transfer case seals; check vents; check fluid level; use
+    proper fluid type per manufacturer specification.
+4. Diagnose constant-velocity (CV) joint noise and vibration concerns; determine needed action.
+5. Diagnose universal joint noise and vibration concerns; determine needed action.
+6. Check shaft balance and phasing; measure shaft runout; measure and adjust driveline angles;
+    determine needed action.
+
+**MD-E. Differential and Drive Axles: Diagnosis and Repair**
+
+**E.1 Ring and Pinion Gears and Differential Case Assembly**
+
+1. Inspect differential housing; check for leaks; inspect housing vent.
+2. Check and adjust differential housing fluid level; use proper fluid type per manufacturer
+    specification.
+3. Drain and refill differential housing; use proper fluid type per manufacturer specification.
+4. Inspect and replace companion flange and/or pinion seal; measure companion flange runout.
+5. Inspect ring gear and measure runout; determine needed action.
+6. Diagnose noise and vibration concerns; determine needed action.
+7. Remove, inspect, reinstall, or replace drive pinion and ring gear, spacers, sleeves, and bearings.
+8. Measure and adjust drive pinion depth.
+9. Measure and adjust drive pinion bearing preload.
+10. Measure and adjust side bearing preload and ring and pinion gear total backlash and backlash
+    variation on a differential carrier assembly (threaded cup or shim types).
+11. Check ring and pinion tooth contact patterns; determine needed action.
+12. Disassemble, inspect, measure, adjust, and/or replace differential pinion gears (spiders), shaft,
+    side gears, side bearings, thrust washers, and case.
+13. Reassemble and reinstall differential case assembly; measure runout; determine needed action.
+
+
+**E.2 Drive Axles**
+
+1. Inspect and replace drive axle wheel studs.
+2. Remove and replace drive axle shafts.
+3. Inspect and replace drive axle shaft seals, bearings, and retainers.
+4. Measure drive axle flange runout and shaft end play; determine needed action.
+5. Diagnose drive axle shafts, bearings, and seals for noise, vibration, and fluid leakage concerns;
+    determine needed action.
+
+**E.3 Limited Slip Differential**
+
+1. Diagnose noise, slippage, and chatter concerns including electronically controlled systems;
+    determine needed action.
+2. Measure rotating torque; determine needed action.
+
+**MD-F. Four-wheel Drive/All-wheel Drive Component Diagnosis and Repair**
+
+1. Identify concerns related to variations in tire circumference and/or final drive ratios.
+2. Inspect, adjust, and repair shifting controls (mechanical, electrical, and vacuum), bushings,
+    mounts, levers, and brackets.
+3. Inspect axle locking mechanisms; determine needed action(s).
+4. Check for leaks at drive assembly and transfer case seals; check vents; check fluid level; use
+    proper fluid type per manufacturer specification.
+5. Diagnose noise, vibration, and unusual steering concerns; determine needed action.
+6. Diagnose, test, adjust, and/or replace electrical/electronic components of four-wheel drive/all-
+    wheel drive systems.
+7. Disassemble, service, and reassemble transfer case and components.
+
+### IV. SUSPENSION AND STEERING (SS)
+
+Test Specification
+
+Content Area Questions In Test
+
+```
+A. General: Suspension and Steering Systems 3
+B. Steering Systems Diagnosis and Repair 8
+C. Suspension Systems Diagnosis and Repair 8
+D. Related Suspension and Steering Service 4
+E. Wheel Alignment Diagnosis, Adjustment, and Repair 10
+F. Wheels and Tires Diagnosis and Repair 7
+```
+Required To Pass: 20 of 40 TOTAL 40
+
+
+Task List
+
+**SS-A. General Suspension and Steering Systems**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify suspension and steering system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Disable and enable supplemental restraint system (SRS); verify indicator lamp operation.
+5. Identify and interpret suspension and steering system concerns; determine needed action.
+
+**SS-B. Steering Systems Diagnosis and Repair**
+
+1. Inspect rack and pinion steering gear tie rod ends (sockets) and bellows boots; repair or replace
+    as needed.
+2. Inspect power steering fluid level and condition.
+3. Drain and replace power steering system fluid; use proper fluid type per manufacturer
+    specification.
+4. Inspect for power steering fluid leakage; determine needed action.
+5. Remove, inspect, replace, and/or adjust power steering pump drive belt.
+6. Inspect, remove, and/or replace power steering hoses and fittings.
+7. Inspect, remove, and/or replace pitman arm, relay (centerlink/intermediate) rod, idler arm,
+    mountings, and steering linkage damper.
+8. Inspect, replace, and/or adjust tie rod ends (sockets), tie rod sleeves, and clamps (non-rack and
+    pinion).
+9. Inspect and test electric power steering system; determine needed action.
+10. Remove and replace steering wheel; center/time supplemental restraint system (SRS) coil (clock
+    spring).
+11. Diagnose steering column noises, looseness, and binding concerns (including tilt/telescoping
+    mechanisms); determine needed action.
+12. Diagnose power steering gear (non-rack and pinion) binding, uneven turning effort, looseness,
+    hard steering, and noise concerns; determine needed action.
+13. Diagnose power steering gear (rack and pinion) binding, uneven turning effort, looseness, hard
+    steering, and noise concerns; determine needed action.
+14. Inspect steering shaft universal joint(s), flexible coupling(s), collapsible column, lock cylinder
+    mechanism, and steering wheel; determine needed action.
+15. Remove and replace rack and pinion steering gear; inspect mounting bushings and brackets.
+16. Remove and reinstall power steering pump.
+17. Remove and reinstall press fit power steering pump pulley; check pulley and belt alignment.
+18. Test power steering system pressure; determine needed action.
+
+**SS-C. Suspension Systems Diagnosis and Repair**
+
+1. Inspect, remove, and/or replace upper and/or lower control arms, bushings, and shafts.
+2. Inspect and replace rebound/jounce bumpers.
+
+
+3. Inspect, remove, and/or replace track bar, strut rods/radius arms, and related mounts and
+    bushings.
+4. Inspect, remove, and/or replace upper and/or lower ball joints (with or without wear indicators).
+5. Inspect, remove, and/or replace suspension system coil springs and spring insulators.
+6. Inspect, remove, and/or replace torsion bars and mounts.
+7. Inspect, remove, and/or replace front/rear stabilizer bar (sway bar) bushings, brackets, and links.
+8. Inspect, remove, and/or replace strut assembly, strut coil spring, insulators, and upper strut
+    bearing mount.
+9. Inspect, remove, and/or replace components of suspension systems (Coil, Leaf, and Torsion).
+10. Inspect, remove, and/or replace components of electronically controlled suspension systems.
+11. Inspect, remove, and/or replace steering knuckle assemblies.
+12. Diagnose suspension system noises, body sway, and uneven ride height concerns; determine
+    needed action.
+
+**SS-D. Related Suspension and Steering Service**
+
+1. Inspect, remove, and/or replace shock absorbers; inspect mounts and bushings.
+2. Inspect, service, and/or replace front and rear wheel bearings.
+3. Describe the function of electronically controlled suspension and steering systems and
+    components, (i.e., active suspension and stability control).
+
+**SS-E. Wheel Alignment Diagnosis, Adjustment, and Repair**
+
+1. Perform pre-alignment inspection; measure vehicle ride height; determine needed action.
+2. Describe four-wheel alignment angles (camber, caster, and toe) and effects on vehicle
+    handling\tire wear.
+3. Prepare vehicle for wheel alignment on alignment machine; perform four-wheel alignment by
+    checking and adjusting front caster, front and rear camber, and toe as required; center steering
+    wheel.
+4. Check toe-out-on-turns (turning radius); determine needed action.
+5. Check steering axis inclination (SAI) and included angle; determine needed action.
+6. Check rear wheel thrust angle; determine needed action.
+7. Check for front wheel setback; determine needed action.
+8. Identify front and/or rear cradle (subframe) misalignment; determine needed action.
+9. Reset steering angle sensor.
+10. Diagnose vehicle wander, drift, pull, hard steering, bump steer, memory steer, torque steer, and
+    steering return concerns; determine needed action.
+
+**SS-F. Wheels and Tires Diagnosis and Repair**
+
+1. Inspect tire condition/age; identify tire wear patterns; check for correct tire size, application
+    (service-class, load, and speed ratings), and air pressure as listed on the tire information
+    placard/label.
+2. Rotate tires according to manufacturer’s recommendation including vehicles equipped with tire
+    pressure monitoring systems (TPMS)
+3. Dismount, inspect, and remount tire on wheel (with/without TPMS); balance wheel and tire
+    assembly.
+
+
+4. Inspect tire and wheel assembly for air loss; determine needed action.
+5. Repair tire following tire manufacturer approved procedure.
+6. Identify indirect and direct tire pressure monitoring system (TPMS); calibrate/relearn system;
+    verify operation of instrument panel lamps.
+7. Demonstrate knowledge of steps required to remove and replace sensors (per OEM/sensor
+    manufacturer) in a tire pressure monitoring system (TPMS).
+8. Perform Road Force balance/match mounting.
+9. Diagnose wheel/tire vibration, shimmy, and noise; determine needed action.
+10. Measure wheel, tire, axle flange, and hub runout; determine needed action.
+11. Diagnose tire pull problems; determine needed action.
+
+### V. BRAKES (BR)
+
+Test Specification
+
+Content Area Questions In Test
+
+```
+A. General: Brake Systems Diagnosis 4
+B. Hydraulic System Diagnosis and Repair 8
+C. Drum Brake Diagnosis and Repair 5
+D. Disc Brakes Diagnosis and Repair 8
+E. Power-Assist Units Diagnosis and Repair 3
+F. Related Systems (Wheel Bearings, Parking Brakes, Electrical) D&R 5
+G. Electronic Brake Control Systems: ABS, TCS, and ESC D&R 7
+```
+Required To Pass: 21 of 40 TOTAL 40
+
+Task List
+
+**BR-A. General: Brake Systems Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify brake system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Describe procedure for performing a road test to check brake system operation, including an
+    anti-lock brake system (ABS).
+5. Install wheel and torque lug nuts.
+6. Identify and interpret brake system concerns; determine needed action.
+
+**BR-B. Hydraulic System Diagnosis and Repair**
+
+1. Diagnose pressure concerns in the brake system using hydraulic principles (Pascal’s Law).
+2. Measure brake pedal height, travel, and free play (as applicable); determine needed action.
+3. Check master cylinder for internal/external leaks and proper operation; determine needed
+    action.
+
+
+4. Inspect brake lines, flexible hoses, and fittings for leaks, dents, kinks, rust, cracks, bulging, wear,
+    and loose fittings/supports; determine needed action.
+5. Select, handle, store, and fill brake fluids to proper level; use proper fluid type per manufacturer
+    specification.
+6. Identify components of hydraulic brake warning light system.
+7. Bleed and/or replace fluid in the brake system.
+8. Test brake fluid for contamination.
+9. Remove, bench bleed, and reinstall master cylinder.
+10. Diagnose poor stopping, pulling, or dragging concerns caused by malfunctions in the hydraulic
+    system; determine needed action.
+11. Replace brake lines, hoses, fittings, and supports.
+12. Fabricate brake lines using proper material and flaring procedures.
+13. Inspect, test, and/or replace components of brake warning light system.
+
+**BR-C. Drum Brakes Diagnosis and Repair**
+
+1. Remove, clean, and inspect brake drum; measure brake drum diameter; determine
+    serviceability.
+2. Refinish brake drum and measure final drum diameter; compare with specification.
+3. Remove, clean, inspect, and/or replace brake shoes, springs, pins, clips, levers, adjusters/self-
+    adjusters, other related brake hardware, and backing support plates; lubricate and reassemble.
+4. Inspect wheel cylinders for leaks and proper operation; remove and replace as needed.
+5. Pre-adjust brake shoes and parking brake; install brake drums or drum/hub assemblies and
+    wheel bearings; perform final checks and adjustments.
+6. Diagnose poor stopping, noise, vibration, pulling, grabbing, dragging, or pedal pulsation
+    concerns; determine needed action.
+
+**BR-D. Disc Brakes Diagnosis and Repair**
+
+1. Remove and clean caliper assembly; inspect for leaks, damage, and wear; determine needed
+    action.
+2. Inspect caliper mounting and slides/pins for proper operation, wear, and damage; determine
+    needed action.
+3. Remove, inspect, and/or replace brake pads and retaining hardware; determine needed action.
+4. Lubricate and reinstall caliper, brake pads, and related hardware; seat brake pads against rotor;
+    inspect for leaks.
+5. Clean and inspect rotor and mounting surface; measure rotor thickness, thickness variation, and
+    lateral runout; determine needed action.
+6. Remove and reinstall/replace rotor.
+7. Refinish rotor on vehicle; measure final rotor thickness and compare with specification.
+8. Refinish rotor off vehicle; measure final rotor thickness and compare with specification.
+9. Retract and re-adjust caliper piston on an integrated parking brake system.
+10. Describe importance of operating vehicle to burnish/break-in replacement brake pads according
+    to manufacturer’s recommendation.
+11. Diagnose poor stopping, noise, vibration, pulling, grabbing, dragging, or pulsation concerns;
+    determine needed action.
+
+
+**BR-E. Power-Assist Units Diagnosis and Repair**
+
+1. Check brake pedal travel with and without engine running to verify proper power booster
+    operation.
+2. Identify components of the brake power assist system (vacuum/ hydraulic/electric).
+3. Inspect vacuum-type power booster unit for leaks; inspect the check-valve for proper operation;
+    check vacuum supply (manifold or auxiliary pump) to vacuum-type power booster determine
+    needed action.
+4. Inspect and test hydraulically assisted power brake system for leaks and proper operation;
+    determine needed action.
+5. Inspect electric power booster unit; determine needed action.
+
+**BR-F. Related Systems (i.e., Wheel Bearings, Parking Brakes, Electrical) Diagnosis and Repair**
+
+1. Remove, clean, inspect, repack/replace, and install wheel bearings; remove and install bearing
+    races; replace seals; install hub and adjust bearings.
+2. Check parking brake system components for wear, binding, and corrosion; clean, lubricate,
+    adjust and/or replace as needed.
+3. Check parking brake operation (including electric parking brakes); check parking brake indicator
+    light system operation; determine needed action.
+4. Check operation of brake stop light system.
+5. Inspect and replace wheel studs.
+6. Remove, reinstall, and/or replace sealed wheel bearing assembly.
+7. Diagnose wheel bearing noises, wheel shimmy, and vibration concerns; determine needed
+    action.
+
+**BR-G. Electronic Brake Control Systems: Antilock Brake (ABS), Traction Control (TCS), and Electronic
+Stability Control (ESC) Systems Diagnosis and Repair**
+
+1. Identify and inspect electronic brake control system components and describe function (ABS,
+    TCS, ESC); determine needed action.
+2. Describe the operation of a regenerative braking system.
+3. Bleed the electronic brake control system hydraulic circuits.
+4. Diagnose poor stopping, wheel lock-up, abnormal pedal feel, unwanted application, and noise
+    concerns associated with the electronic brake control system; determine needed action.
+5. Diagnose electronic brake control system electronic control(s) and components by retrieving
+    diagnostic trouble codes, and/or using recommended test equipment; determine needed action.
+6. Depressurize high-pressure components of an electronic brake control system.
+7. Test, diagnose, and service electronic brake control system speed sensors (digital and analog),
+    toothed ring (tone wheel), and circuits using a graphing multimeter (GMM)/digital storage
+    oscilloscope (DSO) (includes output signal, resistance, shorts to voltage/ground, and frequency
+    data).
+8. Diagnose electronic brake control system braking concerns caused by vehicle modifications (tire
+    size, curb height, final drive ratio, etc.).
+
+
+### VI. ELECTRICAL/ELECTRONIC SYSTEMS (EE)
+
+Test Specification
+
+Content Areas Questions In Test
+
+```
+A. General: Electrical System Diagnosis 11
+B. Battery Diagnosis and Service 5
+C. Starting System Diagnosis and Service 5
+D. Charging System Diagnosis and Service 5
+E. Lighting Systems Diagnosis and Service 4
+F. Instrument Cluster and Driver Information Systems D&R 3
+G. Body Electrical Systems Diagnosis and Service 7
+```
+Required To Pass: 20 of 40 TOTAL 40
+
+Task List
+
+**EE-A. General: Electrical System Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify electrical/electronic system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Demonstrate knowledge of electrical/electronic series, parallel, and series-parallel circuits using
+    principles of electricity (Ohm’s Law).
+5. Demonstrate proper use of a digital multimeter (DMM) when measuring source voltage, voltage
+    drop (including grounds), current flow and resistance.
+6. Demonstrate knowledge of the causes and effects from shorts, grounds, opens, and resistance
+    problems in electrical/electronic circuits.
+7. Describe types of test lights; use appropriate test light to check operation of electrical circuits
+    per service information.
+8. Use fused jumper wires to check operation of electrical circuits per service information.
+9. Use wiring diagrams during the diagnosis of electrical/electronic circuit problems.
+10. Diagnose the cause(s) of excessive key-off battery drain (parasitic draw); determine needed
+    action.
+11. Inspect and test fusible links, circuit breakers, and fuses; determine needed action.
+12. Inspect, test, repair, and/or replace components, connectors, terminals, harnesses, and wiring in
+    electrical/electronic systems (including solder repairs); determine needed action.
+13. Test and measure circuit using an oscilloscope and/or graphing multimeter (GMM); interpret
+    results; determine needed action.
+
+**EE-B. Battery Diagnosis and Service (Conventional 12-volt)**
+
+1. Perform battery state-of-charge test; determine needed action.
+2. Confirm proper battery capacity, size, type, and application for vehicle; perform battery capacity
+    and load test; determine needed action.
+
+
+3. Maintain or restore electronic memory functions as recommended by manufacturer.
+4. Inspect and clean battery; fill battery cells (if applicable); check battery cables, connectors,
+    clamps, and hold-downs.
+5. Perform battery charging according to manufacturer’s recommendations.
+6. Jump-start vehicle using jumper cables and a booster battery or an auxiliary power supply.
+7. Identify electrical/electronic modules, security systems, radios, and other accessories that
+    require reinitialization or code entry after reconnecting vehicle battery.
+
+**EE-C. Starting System Diagnosis and Repair**
+
+1. Perform starter current draw test; determine needed action.
+2. Perform starter circuit voltage drop tests; determine needed action.
+3. Inspect and test starter relays and solenoids; determine needed action.
+4. Remove and install starter in a vehicle.
+5. Inspect and test switches, connectors, and wires of starter control circuits; determine needed
+    action.
+6. Demonstrate knowledge of an automatic idle-stop/start-stop system.
+7. Differentiate between electrical and engine mechanical problems that cause a slow-crank or a
+    no-crank condition.
+
+**EE-D. Charging System Diagnosis and Repair**
+
+1. Perform charging system output test; determine needed action.
+2. Inspect, adjust, and/or replace generator (alternator) drive belts; check pulleys and tensioners
+    for wear; check pulley and belt alignment; determine needed action.
+3. Remove, inspect, and/or replace generator (alternator); determine needed action.
+4. Perform charging circuit voltage drop tests; determine needed action.
+5. Diagnose charging system for causes of undercharge, no-charge, or overcharge conditions;
+    determine needed action.
+
+**EE-E. Lighting Systems Diagnosis and Repair**
+
+1. Inspect interior and exterior lamps and sockets including headlights and auxiliary lights (fog
+    lights/driving lights); determine needed action.
+2. Aim headlights.
+3. Diagnose the causes of brighter-than-normal, intermittent, dim, or no light operation; determine
+    needed action.
+
+**EE-F. Instrument Cluster and Driver Information Systems Diagnosis and Repair**
+
+1. Verify operation of instrument panel gauges and warning/indicator lights; reset maintenance
+    indicators as required.
+2. Inspect and test gauges and gauge sending units for causes of abnormal readings; determine
+    needed action.
+3. Diagnose the causes of incorrect operation of warning devices and other driver information
+    systems; determine needed action.
+
+
+**EE-G. Body Electrical Systems Diagnosis and Repair**
+
+1. Diagnose vehicle comfort, convenience, access, safety, and related systems operation; determine
+    needed action.
+2. Remove and reinstall door panel.
+3. Diagnose operation of security/anti-theft systems and related circuits (such as: theft deterrent,
+    door locks, remote keyless entry, remote start, and starter/fuel disable); determine needed
+    action.
+4. Describe disabling and enabling procedures for supplemental restraint system (SRS); verify
+    indicator lamp operation.
+5. Verify windshield wiper and washer operation; replace wiper blades.
+6. Diagnose operation of entertainment and related circuits (such as: radio, DVD, remote CD
+    changer, navigation, amplifiers, speakers, antennas, and voice-activated accessories); determine
+    needed action.
+7. Diagnose operation of safety systems and related circuits (such as: horn, airbags, seat belt
+    pretensioners, occupancy classification, wipers, washers, speed control/collision avoidance,
+    heads-up display, parking assist, and back-up camera); determine needed action.
+8. Diagnose body electronic systems circuits using a scan tool; check for module communication
+    errors (data communication bus systems); determine needed action.
+9. Describe the process for software transfer, software updates, or reprogramming of electronic
+    modules.
+
+### VII. HEATING, VENTILATION, AND AIR CONDITIONING (AC)
+
+Test Specification
+
+Content Areas Questions In Test
+
+```
+A. General: A/C System Diagnosis and Repair 11
+B. Refrigeration System Component Diagnosis and Repair 9
+C. Heating, Ventilation, and Engine Cooling Systems D&R 4
+D. Operating Systems and Related Controls Diagnosis and Repair 11
+E. Refrigerant Recovery, Recycling, and Handling 5
+```
+Required To Pass: 20 of 40 TOTAL 40
+
+Task List
+
+**AC-A. General: A/C System Diagnosis and Repair**
+
+1. Research vehicle service information, including refrigerant/oil/fluid type, vehicle service history,
+    service precautions, technical service bulletins, and recalls including vehicles equipped with
+    advanced driver assistance systems (ADAS).
+2. Identify heating, ventilation, and air conditioning (HVAC) components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Perform A/C system performance test; interpret results; determine needed action.
+
+
+5. Identify abnormal operating noises in the A/C system; determine needed action.
+6. Leak test A/C system; determine needed action.
+7. Identify and interpret heating and air conditioning problems; determine needed action.
+8. Identify refrigerant type; test for sealant; select and connect proper gauge set/test equipment;
+    record temperature and pressure readings.
+9. Inspect condition/quantity of refrigerant oil removed from A/C system; determine needed
+    action.
+10. Determine recommended oil and oil capacity for system application and component(s)
+    replacement**.**
+
+**AC-B. Refrigeration System Component Diagnosis and Repair**
+
+1. Inspect, remove, and/or replace A/C compressor drive belts, pulleys, tensioners; determine
+    needed action.
+2. Inspect for proper A/C condenser airflow; determine needed action.
+3. Inspect evaporator housing condensation drain; determine needed action.
+4. Inspect, test, and/or service A/C compressor clutch components and/or assembly; determine
+    needed action.
+5. Remove, inspect, reinstall, and/or replace A/C compressor and mountings; determine
+    recommended oil type and quantity.
+6. Remove and inspect A/C system mufflers, hoses, lines, fittings, O-rings, seals, and service valves;
+    determine needed action.
+7. Remove, inspect, and replace receiver/drier or accumulator/drier; determine recommended oil
+    type and quantity.
+8. Remove, inspect, and install expansion valve or orifice (expansion) tube.
+9. Diagnose A/C system conditions that cause the protection devices (pressure, thermal, and/or
+    control module) to interrupt system operation; determine needed action.
+10. Determine procedure to remove and reinstall evaporator; determine required oil type and
+    quantity.
+11. Remove, inspect, reinstall, and/or replace condenser; determine required oil type and quantity.
+
+**AC-C. Heating, Ventilation, and Engine Cooling Systems Diagnosis and Repair**
+
+1. Inspect engine cooling and heater systems hoses and pipes; determine needed action.
+2. Inspect and test heater control valve(s); determine needed action.
+3. Diagnose temperature control problems in the HVAC system related to the engine cooling
+    system, including electric heating; determine needed action.
+4. Determine procedure to remove, inspect, reinstall, and/or replace heater core; properly refill
+    system.
+
+**AC-D. Operating Systems and Related Controls Diagnosis and Repair**
+
+1. Inspect HVAC system ducts, doors, hoses, cabin filters, and outlets; determine needed action.
+2. Identify the source of HVAC system odors.
+3. Inspect and test HVAC system blower motors, resistors, switches, relays, wiring, and protection
+    devices; determine needed action.
+4. Diagnose A/C compressor control systems; determine needed action.
+
+
+5. Diagnose malfunctions in the vacuum, mechanical, and/or electrical components and controls of
+    the HVAC system; determine needed action.
+6. Inspect, test, remove and/or replace HVAC system control panel; determine needed action.
+7. Check operation of automatic HVAC control systems; determine needed action.
+
+**AC-E. Refrigerant Recovery, Recycling, and Handling**
+
+1. Demonstrate awareness of the need to recover, recycle, and handle refrigerants using proper
+    equipment and procedures.
+2. Use and maintain refrigerant handling equipment according to equipment manufacturer’s
+    standards.
+3. Identify A/C system refrigerant; test for sealants; recover, evacuate, and charge A/C system; add
+    refrigerant oil as required.
+4. Recycle, label, and store refrigerant.
+
+### VIII. ENGINE PERFORMANCE (EP)
+
+Test Specification
+
+Content Areas Questions In Test
+
+```
+A. General: Engine Diagnosis 10
+B. Computerized Controls Diagnosis and Repair 11
+C. Ignition System Diagnosis and Repair 6
+D. Fuel, Air Induction, and Exhaust Systems Diagnosis and Repair 7
+E. Emissions Control Systems Diagnosis and Repair 6
+```
+Required To Pass: 21 of 40 TOTAL 40
+
+Task List
+
+**EP-A. General: Engine Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+3. Verify proper engine cooling system operation; determine needed action.
+4. Verify correct camshaft timing including engines equipped with variable valve timing (VVT)
+    systems; determine needed action.
+5. Identify and interpret engine performance concerns; determine needed action.
+6. Diagnose abnormal engine noises or vibration concerns; determine needed action.
+7. Diagnose the cause of excessive oil consumption, coolant consumption, unusual exhaust color,
+    odor, and sound; determine needed action.
+8. Perform engine manifold pressure tests (vacuum/boost); determine needed action.
+9. Perform cylinder power balance test; determine needed action.
+10. Perform cylinder cranking and running compression tests; determine needed action.
+
+
+11. Perform cylinder leakage test; determine needed action.
+12. Diagnose engine mechanical, electrical, electronic, fuel, and ignition concerns; determine
+    needed action.
+
+**EP-B. Computerized Controls Diagnosis and Repair**
+
+1. Identify computerized control system components and configurations.
+2. Access and use service information to perform step-by-step (troubleshooting) diagnosis.
+3. Perform active tests of actuators using a scan tool; determine needed action.
+4. Describe the use of OBD monitors for repair verification.
+5. Inspect and test computerized engine control system sensors, powertrain/engine control module
+    (PCM/ECM), actuators, and circuits using a graphing multimeter (GMM), digital storage
+    oscilloscope (DSO), and/or scan tool; determine needed action.
+6. Describe the process for reprogramming or recalibrating the powertrain/engine control module
+    (PCM/ECM).
+7. Diagnose the causes of emissions or driveability concerns with stored or active diagnostic
+    trouble codes (DTC); obtain, graph, and interpret scan tool data.
+8. Diagnose emissions or driveability concerns without stored or active diagnostic trouble codes;
+    determine needed action.
+9. Diagnose driveability and emissions problems resulting from malfunctions of interrelated
+    systems (cruise control, security alarms, suspension controls, traction controls, HVAC, automatic
+    transmissions, non-OEM installed accessories, or similar systems); determine needed action.
+
+**EP-C. Ignition System Diagnosis and Repair**
+
+1. Identify ignition system components and configurations.
+2. Remove and replace spark plugs; inspect secondary ignition components for wear and damage;
+    determine needed action.
+3. Diagnose ignition system related problems such as no-starting, hard starting, engine misfire,
+    poor driveability, spark knock, power loss, poor mileage, and emissions concerns; determine
+    needed action.
+4. Inspect and test crankshaft and camshaft position sensor(s); determine needed action.
+5. Inspect, test, and/or replace ignition control module and/or powertrain/engine control module;
+    reprogram/initialize as needed.
+
+**EP-D. Fuel, Air Induction, and Exhaust Systems Diagnosis and Repair**
+
+1. Identify fuel, air induction, and exhaust system components and configurations.
+2. Replace fuel filter(s) where applicable.
+3. Inspect, service, or replace air filters, filter housings, and intake duct work.
+4. Inspect integrity of the exhaust manifold, exhaust pipes, muffler(s), catalytic converter(s),
+    resonator(s), tail pipe(s), and heat shields; determine needed action.
+5. Inspect condition of exhaust system hangers, brackets, clamps, and heat shields; determine
+    needed action.
+6. Check and refill diesel exhaust fluid (DEF).
+7. Check fuel for quality, composition, and contamination; determine needed action.
+
+
+8. Inspect and test fuel pump(s) and pump control system for pressure, regulation, and volume;
+    determine needed action.
+9. Inspect throttle body, air induction system, intake manifold and gaskets for vacuum leaks and/or
+    unmetered air.
+10. Inspect, test, and/or replace fuel injectors on low- and high-pressure systems.
+11. Verify proper idle speed; determine needed action.
+12. Perform exhaust system back-pressure test; determine needed action.
+13. Diagnose hot or cold no-starting, hard starting, poor driveability, incorrect idle speed, poor idle,
+    flooding, hesitation, surging, engine misfire, power loss, stalling, poor mileage, dieseling, and
+    emissions problems; determine needed action.
+14. Test the operation of turbocharger/supercharger systems; determine needed action.
+
+**EP-E. Emissions Control Systems Diagnosis and Repair**
+
+1. Identify emission control system components and configurations.
+2. Inspect, test, service, and/or replace positive crankcase ventilation (PCV) filter/breather, valve,
+    tubes, orifices, and hoses; determine needed action.
+3. Diagnose oil leaks, emissions, and driveability concerns caused by the positive crankcase
+    ventilation (PCV) system; determine needed action.
+4. Diagnose emissions and driveability concerns caused by the exhaust gas recirculation (EGR)
+    system; inspect, test, service and/or replace electrical/electronic sensors, controls, wiring,
+    tubing, exhaust passages, vacuum/pressure controls, filters, and hoses of exhaust gas
+    recirculation (EGR) systems; determine needed action.
+5. Inspect and test electrical/electronically operated components and circuits of secondary air
+    injection systems; determine needed action.
+6. Diagnose emission and driveability concerns caused by catalytic converter system; determine
+    needed action.
+7. Diagnose emissions and driveability concerns caused by the evaporative emissions control
+    (EVAP) system; determine needed action.
+8. Interpret diagnostic trouble codes (DTCs) and scan tool data related to the emissions control
+    systems; determine needed action.
+
+
+### MAINTENANCE AND LIGHT REPAIR (MR)
+
+Test Specification
+
+Content Area Questions In Test
+
+```
+A. Engine Repair (ER) 6
+B. Automatic Transmission and Transaxle (AT) 3
+C. Manual Drive Train and Axles (MD) 3
+D. Suspension and Steering (SS) 10
+E. Brakes (BR) 11
+F. Electrical/Electronic Systems (EE) 11
+G. Heating, Ventilation, and Air Conditioning (AC) 3
+H. Engine Performance (EP) 6
+I. Foundational Tasks (GT) 7
+```
+Required To Pass: 31 of 60 TOTAL 60
+
+Task List
+
+**I. ENGINE REPAIR**
+
+**ER-A. General: Engine Diagnosis**
+
+1. Research vehicle service information such as fluid type, internal combustion engine operation,
+    vehicle service history, service precautions, technical service bulletins, and recalls including
+    vehicles equipped with advanced driver assistance systems (ADAS).
+2. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+3. Verify operation of the instrument panel engine warning indicators.
+4. Inspect engine assembly for fuel, oil, coolant, and other leaks.
+5. Install engine covers using gaskets, seals, and sealers as required.
+6. Demonstrate understanding of the procedure for verifying engine mechanical timing.
+7. Inspect engine mounts.
+8. Identify service precautions related to service of the internal combustion engine of a hybrid
+    electric vehicle.
+
+**ER-B. Cylinder Head and Valve Train**
+
+1. Identify cylinder head and valve train components and configurations.
+
+**ER-C. Engine Block Assembly**
+
+1. Identify engine block assembly components and configurations.
+
+**ER-D. Lubrication and Cooling Systems**
+
+1. Identify lubrication and cooling system components and configurations.
+2. Perform engine oil and filter change; use proper fluid type per manufacturer specification; reset
+    maintenance reminder as required.
+
+
+3. Perform cooling system pressure and dye tests to identify leaks; check coolant condition and
+    level; inspect and test radiator, pressure cap, coolant recovery tank, heater core, and galley
+    plugs.
+4. Identify causes of engine overheating
+5. Inspect, replace, and/or adjust drive belts, tensioners, and pulleys; check pulley and belt
+    alignment.
+6. Inspect and test coolant; drain and recover coolant; flush and/or refill cooling system; use proper
+    fluid type per manufacturer specification; bleed air as required.
+7. Identify type of water pumps (belt driven, chain driven, and electric).
+8. Remove, inspect, and replace thermostat and gasket/seal.
+
+**II. AUTOMATIC TRANSMISSION AND TRANSAXLE**
+
+**AT-A. General: Transmission and Transaxle Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify automatic transmission and transaxle components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Inspect transmission fluid condition; check fluid level; inspect for leaks on transmission or
+    transaxle equipped with a dipstick.
+5. Inspect transmission fluid condition; check fluid level; inspect for leaks on transmission or
+    transaxle not equipped with a dipstick.
+6. Demonstrate knowledge of transmission/transaxle gear reduction/multiplication operation using
+    driving, driven, and held member (power flow) principles.
+7. Demonstrate knowledge of hydraulic principles (Pascal’s Law) in a transmission/transaxle.
+
+**AT-B. In-Vehicle Transmission/Transaxle**
+
+1. Inspect external manual valve shift linkage, transmission range sensor/switch, and/or
+    park/neutral position switch.
+2. Drain and replace fluid and filter(s); use proper fluid type per manufacturer specification.
+3. Demonstrate understanding of relearn procedures.
+4. Inspect, replace and/or align power train mounts.
+
+**AT-C. Off-Vehicle Transmission and Transaxle**
+
+1. Describe the operational characteristics of a continuously variable transmission (CVT).
+2. Describe the operational characteristics of a hybrid vehicle drive train.
+
+**III. MANUAL DRIVE TRAIN AND AXLES**
+
+**MD-A. General: Drive Train Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+
+
+2. Identify manual drive train and axle components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Check fluid condition; check for leaks.
+5. Drain and refill manual transmission/transaxle; use proper fluid type per manufacturer
+    specification.
+
+**MD-B. Clutch**
+
+1. Check and adjust clutch master cylinder fluid level; check for leaks; use proper fluid type per
+    manufacturer specification.
+
+**MD-C. Transmission/Transaxle**
+
+1. Describe the operational characteristics of an electronically controlled manual
+    transmission/transaxle.
+
+**MD-D. Drive Shaft, Half Shafts, Universal Joints, and Constant-Velocity (CV) Joints (Front, Rear, All, and
+Four- wheel drive)**
+
+1. Inspect, remove, and/or replace bearings, hubs, and seals.
+2. Inspect, service, and/or replace shafts, yokes, boots, and universal/CV joints.
+3. Check for leaks at drive assembly and transfer case seals; check vents; check fluid level; use
+    proper fluid type per manufacturer specification.
+
+**MD-E. Differential and Drive Axles**
+
+**E.1 Ring and Pinion Gears and Differential Housing Assembly**
+
+1. Inspect differential housing; check for leaks; inspect housing vent.
+2. Check and adjust differential housing fluid level; use proper fluid type per manufacturer
+    specification.
+3. Drain and refill differential housing; using proper fluid type per manufacturer specification.
+
+**E.2 Drive Axles**
+
+1. Inspect and replace drive axle wheel studs.
+
+**MD-F. Four-wheel Drive/All-wheel Drive**
+
+1. Identify concerns related to variations in tire circumference and/or final drive ratios.
+
+**IV. SUSPENSION AND STEERING SYSTEMS**
+
+**SS-A. General: Suspension and Steering Systems**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify suspension and steering system components and configurations.
+
+
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Disable and enable supplemental restraint system (SRS); verify indicator lamp operation.
+
+**SS-B. Related Suspension and Steering Service**
+
+1. Inspect rack and pinion steering gear tie rod ends (sockets) and bellows boots.
+2. Inspect power steering fluid level and condition.
+3. Drain and replace power steering system fluid; use proper fluid type per manufacturer
+    specification.
+4. Inspect for power steering fluid leakage.
+5. Remove, inspect, replace, and/or adjust power steering pump drive belt.
+6. Inspect, remove, and/or replace power steering hoses and fittings.
+7. Inspect pitman arm, relay (centerlink/intermediate) rod, idler arm, mountings, and steering
+    linkage damper.
+8. Inspect tie rod ends (sockets), tie rod sleeves, and clamps (non-rack and pinion).
+9. Inspect electric power steering system.
+
+**SS-C. Suspension Systems**
+
+1. Inspect upper and/or lower control arms, bushings, and shafts.
+2. Inspect and replace rebound/jounce bumpers.
+3. Inspect track bar, strut rods/radius arms, and related mounts and bushings.
+4. Inspect upper and/or lower ball joints (with or without wear indicators).
+5. Inspect suspension system coil springs and spring insulators.
+6. Inspect torsion bars and mounts.
+7. Inspect and/or replace front/rear stabilizer bar (sway bar) bushings, brackets, and links.
+8. Inspect, remove, and/or replace strut assembly, strut coil spring, insulators, and upper strut
+    bearing mount.
+9. Inspect components of suspension systems (Coil, Leaf, and Torsion).
+10. Inspect components of electronically controlled suspension systems.
+
+**SS-D. Related Suspension and Steering Service**
+
+1. Inspect, remove, and/or replace shock absorbers; inspect mounts and bushings.
+2. Inspect front and rear wheel bearings.
+3. Describe the function of electronically controlled suspension and steering systems and
+    components, (i.e., active suspension and stability control).
+
+**SS-E. Wheel Alignment**
+
+1. Perform pre-alignment inspection; measure vehicle ride height.
+2. Describe four-wheel alignment angles (camber, caster, and toe) and effects on vehicle
+    handling\tire wear.
+
+
+**SS-F. Wheels and Tires**
+
+1. Inspect tire condition/age; identify tire wear patterns; check for correct tire size, application
+    (service-class, load, and speed ratings), and air pressure as listed on the tire information
+    placard/label.
+2. Rotate tires according to manufacturer’s recommendations including vehicles equipped with tire
+    pressure monitoring systems (TPMS).
+3. Dismount, inspect, and remount tire on wheel (with/without TPMS); balance wheel and tire
+    assembly.
+4. Inspect tire and wheel assembly for air loss; determine needed action.
+5. Repair tire following tire manufacturer approved procedure.
+6. Identify indirect and direct tire pressure monitoring systems (TPMS); calibrate/relearn system;
+    verify operation of instrument panel lamps.
+7. Demonstrate knowledge of steps required to remove and replace sensors (per OEM/sensor
+    manufacturer) in a tire pressure monitoring system (TPMS).
+8. Perform Road Force balance/match mounting.
+
+**V. BRAKES**
+
+**BR-A. General: Brake Systems Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify brake system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Describe procedure for performing a road test to check brake system operation, including an
+    anti-lock brake system (ABS).
+5. Install wheel and torque lug nuts.
+
+**BR-B. Hydraulic System**
+
+1. Demonstrate understanding of hydraulic principles (Pascal's law).
+2. Describe proper brake pedal height, travel, and feel.
+3. Check master cylinder for proper operation.
+4. Inspect brake lines, flexible hoses, and fittings for leaks, dents, kinks, rust, cracks, bulging, wear,
+    and loose fittings/supports.
+5. Select, handle, store, and fill brake fluids to proper level; use proper fluid type per manufacturer
+    specification.
+6. Identify components of hydraulic brake warning light system.
+7. Bleed and/or replace fluid in the brake system.
+8. Test brake fluid for contamination.
+
+**BR-C. Drum Brakes**
+
+1. Remove, clean, and inspect brake drum; measure brake drum diameter; determine
+    serviceability.
+
+
+2. Refinish brake drum and measure final drum diameter; compare with specification.
+3. Remove, clean, inspect, and/or replace brake shoes, springs, pins, clips, levers, adjusters/self-
+    adjusters, other related brake hardware, and backing support plates; lubricate and reassemble.
+4. Inspect wheel cylinders for leaks and proper operation; remove and replace as needed.
+5. Pre-adjust brake shoes and parking brake; install brake drums or drum/hub assemblies and
+    wheel bearings; make final checks and adjustments.
+
+**BR-D. Disc Brakes**
+
+1. Remove and clean caliper assembly; inspect for leaks and damage, and wear.
+2. Inspect caliper mounting and slides/pins for proper operation, wear, and damage.
+3. Remove, inspect, and/or replace brake pads and retaining hardware.
+4. Lubricate and reinstall caliper, brake pads, and related hardware; seat brake pads against rotor;
+    inspect for leaks.
+5. Clean and inspect rotor and mounting surface, measure rotor thickness, thickness variation, and
+    lateral runout.
+6. Remove and reinstall/replace rotor.
+7. Refinish rotor on vehicle; measure final rotor thickness and compare with specification.
+8. Refinish rotor off vehicle; measure final rotor thickness and compare with specification.
+9. Retract and re-adjust caliper piston on an integrated parking brake system.
+10. Describe importance of operating vehicle to burnish/break-in replacement brake pads according
+    to manufacturer’s recommendation.
+
+**BR-E. Power-Assist Units**
+
+1. Check brake pedal travel with, and without, engine running to verify proper power booster
+    operation.
+2. Identify components of the brake power assist system (vacuum/ hydraulic/electric).
+
+**BR-F. Related Systems (i.e., Wheel Bearings, Parking Brakes, Electrical)**
+
+1. Remove, clean, inspect, repack, and install wheel bearings; replace seals; install hub and adjust
+    bearings.
+2. Check parking brake system components for wear, binding, and corrosion; clean, lubricate,
+    adjust and/or replace as needed.
+3. Check parking brake operation (including electric parking brakes); check parking brake indicator
+    light system operation.
+4. Check operation of brake stop light system.
+5. Inspect and replace wheel studs.
+
+**BR-G. Electronic Brake Control Systems: Antilock Brake (ABS), Traction Control (TCS) and Electronic
+Stability Control (ESC) Systems**
+
+1. Identify electronic brake control system components and describe function (ABS, TCS, ESC).
+2. Describe the operation of a regenerative braking system.
+
+
+#### VI. ELECTRICAL/ELECTRONIC SYSTEMS
+
+**EE-A. General: Electrical System Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify electrical/electronic system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Demonstrate knowledge of electrical/electronic series, parallel, and series-parallel circuits using
+    principles of electricity (Ohm’s Law).
+5. Demonstrate proper use of a digital multimeter (DMM) when measuring source voltage, voltage
+    drop (including grounds), current flow, and resistance.
+6. Demonstrate knowledge of the causes and effects from shorts, grounds, opens, and resistance
+    problems in electrical/electronic circuits.
+7. Describe types of test lights; use appropriate test light to check operation of electrical circuits
+    per service information.
+8. Use fused jumper wires to check operation of electrical circuits per service information.
+9. Use wiring diagrams to trace electrical/electronic circuits.
+10. Measure key-off battery drain (parasitic draw).
+11. Inspect and test fusible links, circuit breakers, and fuses.
+12. Repair and/or replace connectors, terminal ends, and wiring of electrical/electronic systems
+    (including solder repair).
+
+**EE-B. Batteries (Conventional 12-volt)**
+
+1. Perform battery state-of-charge test; determine needed action.
+2. Confirm proper battery capacity, size, type, and application for vehicle; perform battery capacity
+    and load test.
+3. Maintain or restore electronic memory functions as recommended by manufacturer.
+4. Inspect and clean battery; fill battery cells (if applicable); check battery cables, connectors,
+    clamps, and hold-downs.
+5. Perform battery charging according to manufacturer’s recommendations.
+6. Jump-start vehicle using jumper cables and a booster battery or an auxiliary power supply.
+7. Identify electrical/electronic modules, security systems, radios, and other accessories that
+    require reinitialization or code entry after reconnecting vehicle battery.
+
+**EE-C. Starting System**
+
+1. Perform starter current draw test.
+2. Perform starter circuit voltage drop tests.
+3. Inspect and test starter relays and solenoids.
+4. Remove and install starter in a vehicle.
+5. Inspect and test switches, connectors, and wires of starter control circuits.
+6. Demonstrate knowledge of an automatic idle-stop/start-stop system.
+
+
+**EE-D. Charging System**
+
+1. Perform charging system output test.
+2. Inspect, adjust, and/or replace generator (alternator) drive belts; check pulleys and tensioners
+    for wear; check pulley and belt alignment.
+3. Remove, inspect, and/or replace generator (alternator).
+4. Perform charging circuit voltage drop tests.
+
+**EE-E. Lighting Systems**
+
+1. Inspect interior and exterior lamps and sockets including headlights and auxiliary lights (fog
+    lights/driving lights); replace as needed.
+2. Aim headlights.
+
+**EE-F. Instrument Cluster and Driver Information Systems**
+
+1. Verify operation of instrument panel gauges and warning/indicator lights; reset maintenance
+    indicators as required.
+
+**EE-G. Body Electrical Systems**
+
+1. Demonstrate understanding of vehicle comfort, convenience, access, safety, and related systems
+    operation.
+2. Remove and reinstall door panel.
+3. Describe the operation of keyless entry/remote-start systems.
+4. Describe disabling and enabling procedures for supplemental restraint system (SRS); verify
+    indicator lamp operation.
+5. Verify windshield wiper and washer operation; replace wiper blades.
+
+**VII. HEATING, VENTILATION, AND AIR CONDITIONING**
+
+**AC-A. General: A/C System Diagnosis and Repair**
+
+1. Research vehicle service information, including refrigerant/oil/fluid type, vehicle service history,
+    service precautions, technical service bulletins, and recalls including vehicles equipped with
+    advanced driver assistance systems (ADAS).
+2. Identify heating, ventilation, and air conditioning (HVAC) components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Identify steps of an A/C performance test.
+5. Identify abnormal operating noises in the A/C system.
+6. Visually inspect A/C system for signs of leaks.
+7. Identify and interpret heating and air conditioning problems.
+
+**AC-B. Refrigeration System Components**
+
+1. Inspect and/or replace A/C compressor drive belts, pulleys, and tensioners.
+2. Inspect for proper A/C condenser airflow.
+3. Inspect evaporator housing condensation drain.
+
+
+**AC-C. Heating, Ventilation, and Engine Cooling Systems**
+
+1. Inspect engine cooling and heater systems hoses and pipes.
+
+**AC-D. Operating Systems and Related Controls**
+
+1. Inspect HVAC system ducts, doors, hoses, cabin filters, and outlets.
+2. Identify the source of HVAC system odors.
+
+**AC-E. Refrigerant Recovery, Recycling, and Handling**
+
+1. Demonstrate awareness of the need to recover, recycle, and handle refrigerants using proper
+    equipment and procedures.
+
+**VIII. ENGINE PERFORMANCE**
+
+**EP-A. General: Engine Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+3. Demonstrate understanding of proper engine cooling system operation.
+4. Demonstrate understanding of camshaft timing including engines equipped with variable valve
+    timing (VVT) systems.
+
+**EP-B. Computerized Controls**
+
+1. Identify computerized control system components and configurations.
+
+**EP-C. Ignition System**
+
+1. Identify ignition system components and configurations.
+2. Remove and replace spark plugs; inspect secondary ignition components for wear and damage.
+
+**EP-D. Fuel, Air Induction, and Exhaust Systems**
+
+1. Identify fuel, air induction, and exhaust system components and configurations.
+2. Replace fuel filter(s) where applicable.
+3. Inspect, service, or replace air filters, filter housings, and intake duct work.
+4. Inspect integrity of the exhaust manifold, exhaust pipes, muffler(s), catalytic converter(s),
+    resonator(s), tail pipe(s), and heat shields.
+5. Inspect condition of exhaust system hangers, brackets, clamps, and heat shields.
+6. Check and refill diesel exhaust fluid (DEF).
+
+**EP-E. Emissions Control Systems**
+
+1. Identify emission control system components and configurations.
+2. Inspect, test, and service, and/or replace positive crankcase ventilation (PCV) filter/breather,
+    valve, tubes, orifices, and hoses.
+
+
+#### IX. FOUNDATIONAL TASKS (GT)
+
+**GT-A. Shop and Personal Safety**
+
+1. Identify general shop safety rules and procedures.
+2. Utilize safe procedures for handling of tools and equipment.
+3. Identify and use proper placement of floor jacks and jack stands.
+4. Identify and use proper procedures for safe lift operation.
+5. Utilize proper ventilation procedures for working within the lab/shop area.
+6. Identify marked safety areas.
+7. Identify the location and the types of fire extinguishers and other fire safety equipment;
+    demonstrate knowledge of the procedures for using fire extinguishers and other fire safety
+    equipment.
+8. Identify the location and use of eye wash stations.
+9. Identify the location of the posted evacuation routes.
+10. Comply with the required use of safety glasses, ear protection, gloves, and shoes during
+    lab/shop activities.
+11. Identify and wear appropriate clothing for lab/shop activities.
+12. Secure hair and jewelry for lab/shop activities.
+13. Identify vehicle systems which pose a safety hazard during service such as: supplemental
+    restraint systems (SRS), electronic brake control systems, stop/start systems, and remote start
+    systems.
+14. Identify vehicle systems which pose a safety hazard during service due to high voltage such as:
+    hybrid/electric drivetrain, lighting systems, ignition systems, A/C systems, injection systems, etc.
+15. Locate and demonstrate knowledge of safety data sheets (SDS).
+
+**GT-B. Tools and Equipment**
+
+1. Identify tools and their usage in automotive applications.
+2. Identify standard and metric designation.
+3. Demonstrate safe handling and use of appropriate tools.
+4. Demonstrate proper cleaning, storage, and maintenance of tools and equipment.
+5. Demonstrate proper use of precision measuring tools (e.g., micrometer, dial-indicator, dial-
+    caliper).
+6. Perform common fastener and thread repair, including removing broken bolts, restoring internal
+    and external threads, and repairing internal threads with a thread insert.
+
+**GT-C. Preparing Vehicle for Service**
+
+1. Identify the information needed and the service requested on a repair order.
+2. Identify purpose and demonstrate proper use of vehicle protection such as: fender covers, mats,
+    seat, and steering wheel covers.
+3. Perform a vehicle walk-around inspection; identify and document existing vehicle conditions
+    such as body damage, paint damage, windshield damage.
+4. Perform a vehicle multi-point inspection and complete a vehicle inspection report.
+5. Demonstrate use of the three C’s (concern, cause, and correction).
+6. Create a plan of action for each specific service or diagnostic situation.
+
+
+7. Review vehicle service history.
+8. Complete work order to include customer information, vehicle identifying information, customer
+    concern, related service history, cause, and correction.
+
+**GT-D. Preparing Vehicle for Customer**
+
+1. Ensure vehicle is prepared to return to customer per school/company policy (floor mats, steering
+    wheel cover, etc.).
+
+### AUTOMOBILE SERVICE TECHNOLOGY (AS)
+
+Test Specification
+
+Content Area Questions in Test
+
+```
+A. Engine Repair (ER) 9
+B. Automatic Transmission and Transaxle (AT) 6
+C. Manual Drive Train and Axles (MD) 6
+D. Suspension and Steering (SS) 11
+E. Brakes (BR) 11
+F. Electrical/Electronic Systems (EE) 13
+G. Heating, Ventilation, And Air Conditioning (AC) 7
+H. Engine Performance (EP) 11
+I. Foundational Tasks (GT) 6
+```
+Required To Pass: 45 TOTAL 80
+
+Task List
+
+**I. ENGINE REPAIR**
+
+**ER-A. General: Engine Diagnosis**
+
+1. Research vehicle service information such as fluid type, internal combustion engine operation,
+    vehicle service history, service precautions, technical service bulletins, and recalls including
+    vehicles equipped with advanced driver assistance systems (ADAS).
+2. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+3. Verify operation of the instrument panel engine warning indicators.
+4. Inspect engine assembly for fuel, oil, coolant, and other leaks; determine needed action.
+5. Install engine covers using gaskets, seals, and sealers as required.
+6. Verify engine mechanical timing.
+7. Inspect, remove, and/or replace engine mounts.
+8. Identify service precautions related to service of the internal combustion engine of a hybrid
+    electric vehicle.
+
+**ER-B. Cylinder Head and Valve Train**
+
+1. Identify cylinder head and valve train components and configurations.
+
+
+2. Remove cylinder head; inspect gasket condition; install cylinder head and gasket; tighten
+    according to manufacturer’s specification and procedure.
+3. Clean and visually inspect a cylinder head for cracks; check gasket surface areas for warpage and
+    surface finish; check passage condition.
+4. Inspect valve actuating mechanisms for wear, bending, cracks, looseness, and blocked oil
+    passages (orifices); determine needed action.
+5. Adjust valves (mechanical or hydraulic lifters).
+6. Inspect and replace camshaft and drive belt/chain; includes checking drive gear wear and
+    backlash, end play, sprocket and chain wear, overhead cam drive sprocket(s), drive belt(s), belt
+    tension, tensioners, camshaft reluctor ring/tone-wheel, and valve timing components; verify
+    correct camshaft timing.
+
+**ER-C. Engine Block Assembly**
+
+1. Identify engine block assembly components and configurations.
+2. Remove, inspect, and/or replace crankshaft vibration damper (harmonic balancer).
+
+**ER-D. Lubrication and Cooling Systems**
+
+1. Identify lubrication and cooling system components and configurations.
+2. Perform engine oil and filter change; use proper fluid type per manufacturer specification; reset
+    maintenance reminder as required.
+3. Perform cooling system pressure and dye tests to identify leaks; check coolant condition and
+    level; inspect and test radiator, pressure cap, coolant recovery tank, heater core, and galley
+    plugs; determine needed action.
+4. Identify causes of engine overheating.
+5. Inspect, replace, and/or adjust drive belts, tensioners, and pulleys; check pulley and belt
+    alignment.
+6. Inspect and test coolant; drain and recover coolant; flush and/or refill cooling system; use proper
+    fluid type per manufacturer specification; bleed air as required.
+7. Inspect, remove, and replace the water pump.
+8. Remove, inspect, and replace thermostat and gasket/seal.
+9. Remove and replace radiator.
+10. Inspect and test fan(s), fan clutch (electrical or mechanical), fan shroud, and air dams; determine
+    needed action.
+11. Perform oil pressure tests; determine needed action.
+12. Inspect auxiliary coolers; determine needed action.
+13. Inspect, test, and/or replace oil temperature and pressure switches and sensors.
+
+**II. AUTOMATIC TRANSMISSION AND TRANSAXLE**
+
+**AT-A. General: Transmission and Transaxle Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify automatic transmission and transaxle components and configurations.
+
+
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Inspect transmission fluid condition; check fluid level; inspect for leaks on transmission or
+    transaxle equipped with a dipstick.
+5. Inspect transmission fluid condition; check fluid level; inspect for leaks on transmission or
+    transaxle not equipped with a dipstick.
+6. Diagnose transmission/transaxle gear reduction/multiplication concerns using driving, driven,
+    and held member (power flow) principles.
+7. Diagnose pressure concerns in a transmission using hydraulic principles (Pascal’s Law).
+8. Identify and interpret transmission/transaxle concerns, differentiate between engine
+    performance and transmission/transaxle concerns; determine needed action.
+9. Diagnose fluid loss and condition concerns; determine needed action.
+10. Perform stall test; determine needed action.
+11. Perform lock-up converter system tests; determine needed action.
+12. Perform pressure tests on transmissions/transaxles equipped with electronic pressure control;
+    determine needed action.
+
+**AT-B. In-Vehicle Transmission/Transaxle**
+
+1. Inspect, adjust, and/or replace external manual valve shift linkage, transmission range
+    sensor/switch, and/or park/neutral position switch.
+2. Drain and replace fluid and filter(s); use proper fluid type per manufacturer specification.
+3. Perform relearn procedures.
+4. Inspect, replace and/or align power train mounts.
+5. Inspect for leakage; replace external seals, gaskets, and bushings.
+6. Inspect, test, adjust, repair, and/or replace electrical/electronic components and circuits.
+
+**AT-C. Off-Vehicle Transmission and Transaxle**
+
+1. Describe the operational characteristics of a continuously variable transmission (CVT).
+2. Describe the operational characteristics of a hybrid vehicle drive train.
+3. Remove and reinstall transmission/transaxle and torque converter; inspect engine core plugs,
+    rear crankshaft seal, dowel pins, dowel pin holes, and mating surfaces.
+4. Inspect, leak test, flush, and/or replace transmission/transaxle oil cooler, lines, and fittings.
+5. Inspect converter flex (drive) plate, converter attaching bolts, converter pilot, converter pump
+    drive surfaces, converter end play, and crankshaft pilot bore.
+
+**III. MANUAL DRIVE TRAIN AND AXLES**
+
+**MD-A. General: Drive Train Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify manual drive train and axles components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+
+
+4. Check fluid condition; check for leaks; determine needed action.
+5. Drain and refill manual transmission/transaxle; use proper fluid type per manufacturer
+    specification.
+6. Diagnose drive train concerns; determine needed action.
+
+**MD-B. Clutch**
+
+1. Check and adjust clutch master cylinder fluid level; check for leaks; use proper fluid type per
+    manufacturer specification.
+2. Diagnose clutch noise, binding, slippage, pulsation, and chatter; determine needed action.
+3. Inspect clutch pedal linkage, cables, automatic adjuster mechanisms, brackets, bushings, pivots,
+    and springs; determine needed action.
+4. Inspect and/or replace clutch pressure plate assembly, clutch disc, release (throw-out) bearing,
+    linkage, and pilot bearing/bushing (as applicable).
+5. Bleed clutch hydraulic system.
+6. Inspect flywheel and ring gear for wear and cracks, and discoloration; determine needed action.
+7. Measure flywheel runout and crankshaft end play; determine needed action.
+8. Describe the operation and service of a system that uses a dual mass flywheel.
+
+**MD-C. Transmission/Transaxle**
+
+1. Describe the operational characteristics of an electronically controlled manual
+    transmission/transaxle.
+2. Inspect, adjust, lubricate, and/or replace shift linkages, brackets, bushings, cables, pivots, and
+    levers.
+
+**MD-D. Drive Shaft and Half Shaft, Universal and Constant-Velocity (CV) Joint Diagnosis and Repair
+(Front, Rear, All-wheel, Four-wheel drive)**
+
+1. Inspect and/or remove/replace bearings, hubs, and seals.
+2. Inspect and/or service/replace shafts, yokes, boots, and universal/CV joints.
+3. Check for leaks at drive assembly and transfer case seals; check vents; check fluid level; use
+    proper fluid type per manufacturer specification.
+4. Diagnose constant-velocity (CV) joint noise and vibration concerns; determine needed action.
+5. Diagnose universal joint noise and vibration concerns; determine needed action.
+6. Check shaft balance and phasing; measure shaft runout; measure and adjust driveline angles;
+    determine needed action.
+
+**MD-E. Drive Axle Diagnosis and Repair**
+
+**E.1 Ring and Pinion Gears and Differential Housing Assembly**
+
+1. Inspect differential housing; check for leaks; inspect housing vent.
+2. Check and adjust differential housing fluid level; use proper fluid type per manufacturer
+    specification.
+3. Drain and refill differential housing; using proper fluid type per manufacturer specification.
+4. Inspect and replace companion flange and/or pinion seal; measure companion flange runout.
+
+
+5. Demonstrate knowledge of drive pinion and ring gear service and set up including depth,
+    preload, backlash, and gear tooth contact.
+
+**E.2 Drive Axles**
+
+1. Inspect and replace drive axle wheel studs.
+2. Remove and replace drive axle shafts.
+3. Inspect and replace drive axle shaft seals, bearings, and retainers.
+4. Measure drive axle flange runout and shaft end play; determine needed action.
+
+**MD-F. Four-wheel Drive/All-wheel Drive**
+
+1. Identify concerns related to variations in tire circumference and/or final drive ratios.
+2. Inspect, adjust, and repair shifting controls (mechanical, electrical, and vacuum), bushings,
+    mounts, levers, and brackets.
+3. Inspect axle locking mechanisms; determine needed action(s).
+4. Check for leaks at drive assembly and transfer case seals; check vents; check fluid level; use
+    proper fluid type per manufacturer specification.
+
+**IV. SUSPENSION AND STEERING**
+
+**SS-A. General: Suspension and Steering Systems**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify suspension and steering system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Disable and enable supplemental restraint system (SRS); verify indicator lamp operation.
+5. Identify and interpret suspension and steering system concerns; determine needed action.
+
+**SS-B. Steering Systems**
+
+1. Inspect rack and pinion steering gear tie rod ends (sockets) and bellows boots; repair or replace
+    as needed.
+2. Inspect power steering fluid level and condition.
+3. Drain and replace power steering system fluid; use proper fluid type per manufacturer
+    specification.
+4. Inspect for power steering fluid leakage; determine needed action.
+5. Remove, inspect, replace, and/or adjust power steering pump drive belt.
+6. Inspect, remove, and/or replace power steering hoses and fittings.
+7. Inspect, remove, and/or replace pitman arm, relay (centerlink/intermediate) rod, idler arm,
+    mountings, and steering linkage damper.
+8. Inspect, replace, and/or adjust tie rod ends (sockets), tie rod sleeves, and clamps (non-rack and
+    pinion).
+9. Inspect and test electric power steering system; determine needed action.
+
+
+10. Remove and replace steering wheel; center/time supplemental restraint system (SRS) coil (clock
+    spring).
+11. Diagnose steering column noises, looseness, and binding concerns (including tilt/telescoping
+    mechanisms); determine needed action.
+12. Diagnose power steering gear (non-rack and pinion) binding, uneven turning effort, looseness,
+    hard steering, and noise concerns; determine needed action.
+13. Diagnose power steering gear (rack and pinion) binding, uneven turning effort, looseness, hard
+    steering, and noise concerns; determine needed action.
+14. Inspect steering shaft universal joint(s), flexible coupling(s), collapsible column, lock cylinder
+    mechanism, and steering wheel; determine needed action.
+15. Remove and replace rack and pinion steering gear; inspect mounting bushings and brackets.
+16. Remove and reinstall power steering pump.
+17. Remove and reinstall press fit power steering pump pulley; check pulley and belt alignment.
+
+**SS-C. Suspension Systems**
+
+1. Inspect, remove, and/or replace upper and/or lower control arms, bushings, and shafts.
+2. Inspect and replace rebound/jounce bumpers.
+3. Inspect, remove, and/or replace track bar, strut rods/radius arms, and related mounts and
+    bushings.
+4. Inspect, remove, and/or replace upper and/or lower ball joints (with or without wear indicators).
+5. Inspect, remove, and/or replace suspension system coil springs and spring insulators.
+6. Inspect, remove, and/or replace torsion bars and mounts.
+7. Inspect, remove, and/or replace front/rear stabilizer bar (sway bar) bushings, brackets, and links.
+8. Inspect, remove, and/or replace strut assembly, strut coil spring, insulators, and upper strut
+    bearing mount.
+9. Inspect, remove, and/or replace components of suspension systems (Coil, Leaf, and Torsion).
+10. Inspect, remove, and/or replace components of electronically controlled suspension systems.
+11. Inspect, remove, and/or replace steering knuckle assemblies.
+12. Diagnose suspension system noises, body sway, and uneven ride height concerns; determine
+    needed action.
+
+**SS-D. Related Suspension and Steering Service**
+
+1. Inspect, remove, and/or replace shock absorbers; inspect mounts and bushings.
+2. Inspect, service, and/or replace front and rear wheel bearings.
+3. Describe the function of electronically controlled suspension and steering systems and
+    components, (i.e., active suspension and stability control).
+
+**SS-E. Wheel Alignment**
+
+1. Perform pre-alignment inspection; measure vehicle ride height; determine needed action.
+2. Describe four-wheel alignment angles (camber, caster, and toe) and effects on vehicle
+    handling\tire wear.
+3. Prepare vehicle for wheel alignment on alignment machine; perform four-wheel alignment by
+    checking and adjusting front caster, front and rear camber, and toe as required; center steering
+    wheel.
+
+
+4. Check toe-out-on-turns (turning radius); determine needed action.
+5. Check steering axis inclination (SAI) and included angle; determine needed action.
+6. Check rear wheel thrust angle; determine needed action.
+7. Check for front wheel setback; determine needed action.
+8. Identify front and/or rear cradle (subframe) misalignment; determine needed action.
+9. Reset steering angle sensor.
+10. Diagnose vehicle wander, drift, pull, hard steering, bump steer, memory steer, torque steer, and
+    steering return concerns; determine needed action.
+
+**SS-F. Wheels and Tires**
+
+1. Inspect tire condition/age; identify tire wear patterns; check for correct tire size, application
+    (service-class, load, and speed ratings), and air pressure as listed on the tire information
+    placard/label.
+2. Rotate tires according to manufacturer’s recommendation including vehicles equipped with tire
+    pressure monitoring system (TPMS).
+3. Dismount, inspect, and remount tire on wheel (with/without TPMS); balance wheel and tire
+    assembly.
+4. Inspect tire and wheel assembly for air loss; determine needed action.
+5. Repair tire following tire manufacturer approved procedure.
+6. Identify indirect and direct tire pressure monitoring systems (TPMS); calibrate/relearn system;
+    verify operation of instrument panel lamps.
+7. Demonstrate knowledge of steps required to remove and replace sensors (per OEM/sensor
+    manufacturer) in a tire pressure monitoring system (TPMS).
+8. Perform Road Force balance/match mounting.
+9. Diagnose wheel/tire vibration, shimmy, and noise; determine needed action.
+10. Measure wheel, tire, axle flange, and hub runout; determine needed action.
+11. Diagnose tire pull problems; determine needed action.
+
+**V. BRAKES**
+
+**BR-A. General: Brake System Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify brake system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Describe procedure for performing a road test to check brake system operation, including an
+    anti-lock brake system (ABS).
+5. Install wheel and torque lug nuts.
+6. Identify and interpret brake system concerns; determine needed action.
+
+**BR-B. Hydraulic System**
+
+1. Diagnose pressure concerns in the brake system using hydraulic principles (Pascal’s Law).
+
+
+2. Measure brake pedal height, travel, and free play (as applicable); determine needed action.
+3. Check master cylinder for internal/external leaks and proper operation; determine needed
+    action.
+4. Inspect brake lines, flexible hoses, and fittings for leaks, dents, kinks, rust, cracks, bulging, wear,
+    and loose fittings/supports; determine needed action.
+5. Select, handle, store, and fill brake fluids to proper level; use proper fluid type per manufacturer
+    specification.
+6. Identify components of hydraulic brake warning light system.
+7. Bleed and/or replace fluid in the brake system.
+8. Test brake fluid for contamination.
+9. Remove, bench bleed, and reinstall master cylinder.
+10. Diagnose poor stopping, pulling, or dragging concerns caused by malfunctions in the hydraulic
+    system; determine needed action.
+11. Replace brake lines, hoses, fittings, and supports.
+12. Fabricate brake lines using proper material and flaring procedures.
+13. Inspect, test, and/or replace components of brake warning light system.
+
+**BR-C. Drum Brakes**
+
+1. Remove, clean, and inspect brake drum; measure brake drum diameter; determine
+    serviceability.
+2. Refinish brake drum and measure final drum diameter; compare with specification.
+3. Remove, clean, inspect, and/or replace brake shoes, springs, pins, clips, levers, adjusters/self-
+    adjusters, other related brake hardware, and backing support plates; lubricate and reassemble.
+4. Inspect wheel cylinders for leaks and proper operation; remove and replace as needed.
+5. Pre-adjust brake shoes and parking brake; install brake drums or drum/hub assemblies and
+    wheel bearings; perform final checks and adjustments.
+6. Diagnose poor stopping, noise, vibration, pulling, grabbing, dragging, or pedal pulsation
+    concerns; determine needed action.
+
+**BR-D. Disc Brakes**
+
+1. Remove and clean caliper assembly; inspect for leaks, damage, and wear; determine needed
+    action.
+2. Inspect caliper mounting and slides/pins for proper operation, wear, and damage; determine
+    needed action.
+3. Remove, inspect, and/or replace brake pads and retaining hardware; determine needed action.
+4. Lubricate and reinstall caliper, brake pads, and related hardware; seat brake pads against rotor;
+    inspect for leaks.
+5. Clean and inspect rotor and mounting surface; measure rotor thickness, thickness variation, and
+    lateral runout; determine needed action.
+6. Remove and reinstall/replace rotor.
+7. Refinish rotor on vehicle; measure final rotor thickness and compare with specification.
+8. Refinish rotor off vehicle; measure final rotor thickness and compare with specification.
+9. Retract and re-adjust caliper piston on an integrated parking brake system.
+
+
+10. Describe importance of operating vehicle to burnish/break-in replacement brake pads according
+    to manufacturer’s recommendation.
+11. Diagnose poor stopping, noise, vibration, pulling, grabbing, dragging, or pulsation concerns;
+    determine needed action.
+
+**BR-E. Power-Assist Units**
+
+1. Check brake pedal travel with and without engine running to verify proper power booster
+    operation.
+2. Identify components of the brake power assist system (vacuum/ hydraulic/electric).
+3. Inspect vacuum-type power booster unit for leaks; inspect the check-valve for proper operation;
+    check vacuum supply (manifold or auxiliary pump) to vacuum-type power booster; determine
+    needed action.
+4. Inspect and test hydraulically assisted power brake system for leaks and proper operation;
+    determine needed action.
+
+**BR-F. Related Systems (i.e., Wheel Bearings, Parking Brakes, Electrical)**
+
+1. Remove, clean, inspect, repack/replace, and install wheel bearings; remove and install bearing
+    races; replace seals; install hub and adjust bearings.
+2. Check parking brake system components for wear, binding, and corrosion; clean, lubricate,
+    adjust and/or replace as needed.
+3. Check parking brake operation (including electric parking brakes); check parking brake indicator
+    light system operation; determine needed action.
+4. Check operation of brake stop light system.
+5. Inspect and replace wheel studs.
+6. Remove, reinstall, and/or replace sealed wheel bearing assembly.
+7. Diagnose wheel bearing noises, wheel shimmy, and vibration concerns; determine needed
+    action.
+
+**BR-G. Electronic Brake Control Systems: Antilock Brake (ABS), Traction Control (TCS) and Electronic
+Stability Control (ESC) Systems**
+
+1. Identify and inspect electronic brake control system components and describe function (ABS,
+    TCS, ESC); determine needed action.
+2. Describe the operation of a regenerative braking system.
+3. Bleed the electronic brake control system hydraulic circuits.
+
+**VI. ELECTRICAL/ELECTRONIC SYSTEMS**
+
+**EE-A. General: Electrical System Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Identify electrical/electronic system components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+
+
+4. Demonstrate knowledge of electrical/electronic series, parallel, and series-parallel circuits using
+    principles of electricity (Ohm’s Law).
+5. Demonstrate proper use of a digital multimeter (DMM) when measuring source voltage, voltage
+    drop (including grounds), current flow and resistance.
+6. Demonstrate knowledge of the causes and effects from shorts, grounds, opens, and resistance
+    problems in electrical/electronic circuits.
+7. Describe types of test lights; use appropriate test light to check operation of electrical circuits as
+    directed per service information.
+8. Use fused jumper wires to check operation of electrical circuits per service information.
+9. Use wiring diagrams during the diagnosis of electrical/electronic circuit problems.
+10. Diagnose the cause(s) of excessive key-off battery drain (parasitic draw); determine needed
+    action.
+11. Inspect and test fusible links, circuit breakers, and fuses; determine needed action.
+12. Inspect, test, repair, and/or replace components, connectors, terminals, harnesses, and wiring in
+    electrical/electronic systems (including solder repairs); determine needed action.
+13. Test and measure circuit using an oscilloscope and/or graphing multimeter (GMM); interpret
+    results; determine needed action.
+
+**EE-B. Batteries (Conventional 12-volt)**
+
+1. Perform battery state-of-charge test; determine needed action.
+2. Confirm proper battery capacity, size, type, and application for vehicle; perform battery capacity
+    and load test; determine needed action.
+3. Maintain or restore electronic memory functions as recommended by manufacturer.
+4. Inspect and clean battery; fill battery cells (if applicable); check battery cables, connectors,
+    clamps, and hold-downs.
+5. Perform battery charging according to manufacturer’s recommendations.
+6. Jump-start vehicle using jumper cables and a booster battery or an auxiliary power supply.
+7. Identify electrical/electronic modules, security systems, radios, and other accessories that
+    require reinitialization or code entry after reconnecting vehicle battery.
+
+**EE-C. Starting System**
+
+1. Perform starter current draw test; determine needed action.
+2. Perform starter circuit voltage drop tests; determine needed action.
+3. Inspect and test starter relays and solenoids; determine needed action.
+4. Remove and install starter in a vehicle.
+5. Inspect and test switches, connectors, and wires of starter control circuits; determine needed
+    action.
+6. Demonstrate knowledge of automatic idle-stop/start-stop systems.
+7. Differentiate between electrical and engine mechanical problems that cause a slow-crank or a
+    no-crank condition.
+8. Diagnose a no-crank condition using a wiring diagram and test equipment; determine needed
+    action.
+
+
+**EE-D. Charging System**
+
+1. Perform charging system output test; determine needed action.
+2. Inspect, adjust, and/or replace generator (alternator) drive belts; check pulleys and tensioners
+    for wear; check pulley and belt alignment; determine needed action.
+3. Remove, inspect, and/or replace generator (alternator); determine needed action.
+4. Perform charging circuit voltage drop tests; determine needed action.
+5. Diagnose charging system for causes of undercharge, no-charge, or overcharge conditions;
+    determine needed action.
+
+**EE-E. Lighting Systems**
+
+1. Inspect interior and exterior lamps and sockets including headlights and auxiliary lights (fog
+    lights/driving lights); determine needed action.
+2. Aim headlights.
+3. Diagnose the causes of brighter-than-normal, intermittent, dim, or no light operation; determine
+    needed action.
+
+**EE-F. Instrument Cluster and Driver Information Systems**
+
+1. Verify operation of instrument panel gauges and warning/indicator lights; reset maintenance
+    indicators as required.
+2. Inspect and test gauges and gauge sending units for causes of abnormal readings; determine
+    needed action.
+3. Diagnose the causes of incorrect operation of warning devices and other driver information
+    systems; determine needed action.
+
+**EE-G. Body Electrical Systems Diagnosis and Repair**
+
+1. Diagnose vehicle comfort, convenience, access, safety, and related systems operation; determine
+    needed action.
+2. Remove and reinstall door panel.
+3. Diagnose operation of security/anti-theft systems and related circuits (such as: theft deterrent,
+    door locks, remote keyless entry, remote start, and starter/fuel disable); determine needed
+    action.
+4. Describe disabling and enabling procedures for supplemental restraint system (SRS); verify
+    indicator lamp operation.
+5. Verify windshield wiper and washer operation; replace wiper blades.
+6. Diagnose operation of entertainment and related circuits (such as: radio, DVD, remote CD
+    changer, navigation, amplifiers, speakers, antennas, and voice-activated accessories); determine
+    needed action.
+7. Diagnose operation of safety systems and related circuits (such as: horn, airbags, seat belt
+    pretensioners, occupancy classification, wipers, washers, speed control/collision avoidance,
+    heads-up display, parking assist, and back-up camera); determine needed action.
+8. Diagnose body electronic system circuits using a scan tool; check for module communication
+    errors (data communication bus systems); determine needed action.
+
+
+9. Describe the process for software transfer, software updates, or reprogramming of electronic
+    modules.
+
+**VII. HEATING, VENTILATION, AND AIR CONDITIONING (HVAC)**
+
+**AC-A. General: A/C System Diagnosis and Repair**
+
+1. Research vehicle service information, including refrigerant/oil/fluid type, vehicle service history,
+    service precautions, technical service bulletins, and recalls including vehicles equipped with
+    advanced driver assistance systems (ADAS).
+2. Identify heating, ventilation, and air conditioning (HVAC) components and configurations.
+3. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+4. Perform A/C system performance test; interpret results; determine needed action.
+5. Identify abnormal operating noises in the A/C system; determine needed action.
+6. Leak test A/C system; determine needed action.
+7. Identify and interpret heating and air conditioning problems; determine needed action.
+8. Identify refrigerant type; test for sealant; select and connect proper gauge set/test equipment;
+    record temperature and pressure readings.
+9. Inspect condition/quantity of refrigerant oil removed from A/C system; determine needed
+    action.
+10. Determine recommended oil and oil capacity for system application and component(s)
+    replacement.
+
+**AC-B. Refrigeration System Components**
+
+1. Inspect, remove, and/or replace A/C compressor drive belts, pulleys, and tensioners; determine
+    needed action.
+2. Inspect for proper A/C condenser airflow; determine needed action.
+3. Inspect evaporator housing condensation drain; determine needed action.
+4. Inspect, test, and/or service A/C compressor clutch components and/or assembly; determine
+    needed action.
+5. Remove, inspect, and reinstall, and/or replace A/C compressor and mountings; determine
+    recommended oil type and quantity.
+6. Remove and inspect A/C system mufflers, hoses, lines, fittings, O-rings, seals, and service valves;
+    determine needed action.
+7. Remove, inspect, and reinstall replace receiver/drier or accumulator/drier; determine
+    recommended oil type and quantity.
+8. Remove, inspect, and install expansion valve or orifice (expansion) tube.
+9. Diagnose A/C system conditions that cause the protection devices (pressure, thermal, and/or
+    control module) to interrupt system operation; determine needed action.
+10. Determine procedure to remove and reinstall evaporator; determine required oil type and
+    quantity.
+11. Remove, inspect, reinstall, and/or replace condenser; determine required oil type and quantity.
+
+
+**AC-C. Heating, Ventilation, and Engine Cooling Systems**
+
+1. Inspect engine cooling and heater systems hoses and pipes; determine needed action.
+2. Inspect and test heater control valve(s); determine needed action.
+3. Diagnose temperature control problems in the HVAC system related to the engine cooling
+    system, including electric heating; determine needed action.
+4. Determine procedure to remove, inspect, reinstall, and/or replace heater core; properly refill
+    system.
+
+**AC-D. Operating Systems and Related Controls**
+
+1. Inspect HVAC system ducts, doors, hoses, cabin filters, and outlets; determine needed action.
+2. Identify the source of HVAC system odors.
+3. Inspect and test HVAC system blower motors, resistors, switches, relays, wiring, and protection
+    devices; determine needed action.
+4. Diagnose A/C compressor control systems; determine needed action.
+5. Diagnose malfunctions in the vacuum, mechanical, and/or electrical components and controls of
+    the HVAC system; determine needed action.
+6. Inspect, test, remove and/or replace HVAC system control panel; determine needed action.
+7. Check operation of automatic HVAC control systems; determine needed action.
+
+**AC-E. Refrigerant Recovery, Recycling, and Handling**
+
+1. Demonstrate awareness of the need to recover, recycle, and handle refrigerants using proper
+    equipment and procedures.
+2. Use and maintain refrigerant handling equipment according to equipment manufacturer’s
+    standards.
+3. Identify A/C system refrigerant; test for sealants; recover, evacuate, and charge A/C system; add
+    refrigerant oil as required.
+4. Recycle, label, and store refrigerant.
+
+**VIII. ENGINE PERFORMANCE**
+
+**EP-A. General: Engine Diagnosis**
+
+1. Research vehicle service information such as fluid type, vehicle service history, service
+    precautions, technical service bulletins, and recalls including vehicles equipped with advanced
+    driver assistance systems (ADAS).
+2. Retrieve and record DTCs, OBD monitor status, and freeze frame data; clear codes and data
+    when directed.
+3. Verify proper engine cooling system operation; determine needed action.
+4. Verify correct camshaft timing including engines equipped with variable valve timing (VVT)
+    systems; determine needed action.
+5. Identify and interpret engine performance concerns; determine needed action.
+6. Diagnose abnormal engine noises or vibration concerns; determine needed action.
+7. Diagnose the cause of excessive oil consumption, coolant consumption, unusual exhaust color,
+    odor, and sound; determine needed action.
+8. Perform engine manifold pressure tests (vacuum/boost); determine needed action.
+
+
+9. Perform cylinder power balance test; determine needed action.
+10. Perform cylinder cranking and running compression tests; determine needed action.
+11. Perform cylinder leakage test; determine needed action.
+12. Diagnose engine mechanical, electrical, electronic, fuel, and ignition concerns; determine
+    needed action.
+
+**EP-B. Computerized Controls**
+
+1. Identify computerized control system components and configurations.
+2. Access and use service information to perform step-by-step (troubleshooting) diagnosis.
+3. Perform active tests of actuators using a scan tool; determine needed action.
+4. Describe the use of OBD monitors for repair verification.
+5. Inspect and test computerized engine control system sensors, powertrain/engine control module
+    (PCM/ECM), actuators, and circuits using a graphing multimeter (GMM), digital storage
+    oscilloscope (DSO), and/or scan tool; determine needed action.
+6. Describe the process for reprogramming or recalibrating the powertrain/engine control module
+    (PCM/ECM).
+
+**EP-C. Ignition System**
+
+1. Identify ignition system components and configurations.
+2. Remove and replace spark plugs; inspect secondary ignition components for wear and damage;
+    determine needed action.
+3. Diagnose ignition system related problems such as no-starting, hard starting, engine misfire,
+    poor driveability, spark knock, power loss, poor mileage, and emissions concerns; determine
+    needed action.
+4. Inspect and test crankshaft and camshaft position sensor(s); determine needed action.
+5. Inspect, test, and/or replace ignition control module and/or powertrain/engine control module;
+    reprogram/initialize as needed.
+
+**EP-D. Fuel, Air Induction, and Exhaust Systems**
+
+1. Identify fuel, air induction, and exhaust system components and configurations.
+2. Replace fuel filter(s) where applicable.
+3. Inspect, service, or replace air filters, filter housings, and intake duct work.
+4. Inspect integrity of the exhaust manifold, exhaust pipes, muffler(s), catalytic converter(s),
+    resonator(s), tail pipe(s), and heat shields; determine needed action.
+5. Inspect condition of exhaust system hangers, brackets, clamps, and heat shields; determine
+    needed action.
+6. Check and refill diesel exhaust fluid (DEF).
+7. Check fuel for quality, composition, and contamination; determine needed action.
+8. Inspect and test fuel pump(s) and pump control system for pressure, regulation, and volume;
+    determine needed action.
+9. Inspect throttle body, air induction system, intake manifold and gaskets for vacuum leaks and/or
+    unmetered air.
+10. Inspect, test, and/or replace fuel injectors on low- and high-pressure systems.
+11. Verify proper idle speed; determine needed action.
+
+
+12. Perform exhaust system back-pressure test; determine needed action.
+
+**EP-E. Emissions Control Systems**
+
+1. Identify emission control system components and configurations.
+2. Inspect, test, service, and/or replace positive crankcase ventilation (PCV) filter/breather, valve,
+    tubes, orifices, and hoses; determine needed action.
+3. Diagnose oil leaks, emissions, and driveability concerns caused by the positive crankcase
+    ventilation (PCV) system; determine needed action.
+4. Diagnose emissions and driveability concerns caused by the exhaust gas recirculation (EGR)
+    system; inspect, test, service and/or replace electrical/electronic sensors, controls, wiring,
+    tubing, exhaust passages, vacuum/pressure controls, filters, and hoses of exhaust gas
+    recirculation (EGR) system; determine needed action.
+5. Inspect and test electrical/electronically operated components and circuits of secondary air
+    injection systems; determine needed action.
+6. Diagnose emissions and driveability concerns caused by catalytic converter system; determine
+    needed action.
+7. Diagnose emissions and driveability concerns caused by the evaporative emissions control
+    (EVAP) system; determine needed action.
+8. Interpret diagnostic trouble codes (DTCs) and scan tool data related to the emissions control
+    systems; determine needed action.
+
+**IX. FOUNDATIONAL TASKS (GT)**
+
+**GT-A. Shop and Personal Safety**
+
+1. Identify general shop safety rules and procedures.
+2. Utilize safe procedures for handling of tools and equipment.
+3. Identify and use proper placement of floor jacks and jack stands.
+4. Identify and use proper procedures for safe lift operation.
+5. Utilize proper ventilation procedures for working within the lab/shop area.
+6. Identify marked safety areas.
+7. Identify the location and the types of fire extinguishers and other fire safety equipment;
+    demonstrate knowledge of the procedures for using fire extinguishers and other fire safety
+    equipment.
+8. Identify the location and use of eye wash stations.
+9. Identify the location of the posted evacuation routes.
+10. Comply with the required use of safety glasses, ear protection, gloves, and shoes during
+    lab/shop activities.
+11. Identify and wear appropriate clothing for lab/shop activities.
+12. Secure hair and jewelry for lab/shop activities.
+13. Identify vehicle systems which pose a safety hazard during service such as: supplemental
+    restraint systems (SRS), electronic brake control systems, stop/start systems, and remote start
+    systems.
+14. Identify vehicle systems which pose a safety hazard during service due to high voltage such as:
+    hybrid/electric drivetrain, lighting systems, ignition systems, A/C systems, injection systems, etc.
+15. Locate and demonstrate knowledge of safety data sheets (SDS).
+
+
+**GT-B. Tools and Equipment**
+
+1. Identify tools and their usage in automotive applications.
+2. Identify standard and metric designation.
+3. Demonstrate safe handling and use of appropriate tools.
+4. Demonstrate proper cleaning, storage, and maintenance of tools and equipment.
+5. Demonstrate proper use of precision measuring tools (e.g., micrometer, dial-indicator, dial-
+    caliper).
+6. Perform common fastener and thread repair, including removing broken bolts, restoring internal
+    and external threads, and repairing internal threads with a thread insert.
+
+**GT-C. Preparing Vehicle for Service**
+
+1. Identify the information needed and the service requested on a repair order.
+2. Identify purpose and demonstrate proper use of vehicle protection such as: fender covers, mats,
+    seat, and steering wheel covers.
+3. Perform a vehicle walk-around inspection; identify and document existing vehicle conditions
+    such as body damage, paint damage, windshield damage.
+4. Perform a vehicle multi-point inspection and complete a vehicle inspection report.
+5. Demonstrate use of the three C’s (concern, cause, and correction).
+6. Create a plan of action for each specific service or diagnostic situation.
+7. Review vehicle service history.
+8. Complete work order to include customer information, vehicle identifying information, customer
+    concern, related service history, cause, and correction.
+
+**GT-D. Preparing Vehicle for Customer**
+
+1. Ensure vehicle is prepared to return to customer per school/company policy (floor mats, steering
+    wheel cover, etc.).
+
+
+## Sample Test Questions
+
+The following are examples of the types of questions found on the ASE Entry-Level Automobile tests.
+Each test will consist of a mixture of theory and applied diagnostic style questions. All of the questions
+below are retired test questions that were previously used on the ASE Entry-Level tests. They are an
+accurate reflection of the content of the tests, but none of them appear on current versions of the tests.
+
+1. Technician A says that eye protection should be worn at all times while in the laboratory area.
+Technician B says that regular prescription eye wear may be worn as a substitute for safety glasses.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+2. The correct sequence of strokes (events) in a four-cycle engine is:
+(A) compression, intake, power, exhaust.
+(B) exhaust, intake, compression, power.
+(C) power, intake, exhaust, compression.
+(D) intake, compression, exhaust, power.
+
+3. The 10th position on the illustrated vehicle identification number (VIN) indicates the:
+(A) engine package.
+(B) transmission type.
+(C) model year.
+(D) assembly plant.
+
+4. An engine does not reach operating temperature while being driven. Which of these could be the
+cause?
+(A) A stuck-closed thermostat
+(B) A stuck-open thermostat
+(C) A slipping water pump belt
+(D) A clogged radiator passage
+
+5. An oil pressure sensor is being replaced.
+Technician A says that the electrical connector should be inspected for oil contamination.
+Technician B says that the oil level sensor should be replaced at the same time.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+
+6. Blue exhaust smoke can be caused by:
+(A) a clogged air filter.
+(B) worn piston rings.
+(C) worn main bearings.
+(D) a blown head gasket.
+
+7. The torque sequence for cylinder head bolts normally begins at the:
+(A) middle of the head.
+(B) front of the head.
+(C) side of the head closest to the intake manifold.
+(D) rear of the head.
+
+8. An engine cooling system thermostat is being replaced.
+Technician A says that a thermostat with a lower opening temperature may be installed to correct an
+overheating problem.
+Technician B says that a thermostat equipped with a bleed hole or valve needs to be orientated in the
+housing during installation.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+9. Technician A says that the number on the bolt head in the illustration indicates its diameter.
+Technician B says that that the number on the bolt head in the illustration indicates its thread pitch.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+10. Prior to replacing an automatic transmission filter on most vehicles, a technician should:
+(A) remove the pan.
+(B) clean all spool valves in the valve body.
+(C) drain the converter.
+(D) disconnect the converter clutch solenoid.
+
+
+11. While changing the transmission fluid, a technician notices that the fluid is milky and pink. This could
+be caused by:
+(A) using an incorrect fluid.
+(B) an overfilled transmission.
+(C) a cracked transmission cooler.
+(D) a split torque converter seal.
+
+12. Which of these could cause a manual transaxle to jump out of gear?
+(A) A misadjusted clutch
+(B) Worn CV joints
+(C) A binding clutch release bearing
+(D) Worn shifter forks
+
+13. The transfer case rear output seal is leaking on a vehicle equipped with four-wheel drive.
+Technician A says that the transfer case should be removed to access the seal.
+Technician B says that the transfer case drive chain should be removed to access the seal.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+This question uses the words LEAST LIKELY. Look for the choice that could NOT or would be LEAST LIKELY
+to cause the described situation. Read the entire question carefully before choosing your answer.
+
+14. The clutch does not release fully when the pedal is pushed to the floor. Which of these is the LEAST
+LIKELY cause?
+(A) Weak pressure plate springs
+(B) Too much pedal free travel
+(C) A warped clutch disc
+(D) A seized pilot bearing
+
+15. Two meshed gears have a gear ratio of 1.5 : 1. If the smaller gear has 12 teeth, how many teeth
+should the larger gear have?
+(A) 9 teeth
+(B) 12 teeth
+(C) 18 teeth
+(D) 24 teeth
+
+16. During a road test a technician notes excessive vehicle body roll. This could be caused by:
+(A) worn pitman arm.
+(B) worn stabilizer bar bushings and links.
+(C) worn upper control arms.
+(D) loose wheel bearings.
+
+
+17. A power steering rack and pinion is being replaced.
+Technician A says that the toe will need to be reset after the replacement rack is installed.
+Technician B says that service information specific to the replacement rack may be included in the new
+rack packaging.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+18. The ride height on the rear of a vehicle is found to be too low. The best corrective action would be to:
+(A) replace the rear shocks.
+(B) install larger diameter rear tires.
+(C) replace the rear springs.
+(D) add helper springs.
+
+19. In a parallelogram steering linkage, which of these supports the center link?
+(A) Inner and outer tie rods
+(B) Idler arm and pitman arm
+(C) Steering coupler
+(D) Strut rods
+
+20. The role of a stabilizer (anti-sway) bar is to:
+(A) prevent vibration.
+(B) control body roll.
+(C) prevent tire wear.
+(D) absorb noise.
+
+21. The light in the illustration shown is illuminated on the dash, this indicates a problem in the:
+(A) electric parking brake system.
+(B) electric power steering system.
+(C) engine protection system.
+(D) environmental protection system.
+
+22. A vehicle pulls to the left while driving. Which of these should a technician check first?
+(A) Wheel alignment
+(B) Tire pressure
+(C) Power steering fluid level
+(D) Power steering pump pressure
+
+
+23. A vehicle wanders when traveling on a smooth and level highway. The alignment is within
+specifications.
+Technician A says that the vehicle service history should be researched.
+Technician B says that a search should be made for related service bulletins.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+24. A vehicle with front disc brakes shudders when the brakes are applied. Which of these could be the
+cause?
+(A) Worn disc pads
+(B) A leaking grease seal
+(C) Warped brake rotors
+(D) A tight wheel bearing
+
+25. A front disc brake rotor is slightly below minimum thickness specification after machining. The
+technician should:
+(A) reuse the rotor.
+(B) replace the rotor.
+(C) apply a non-directional finish to the rotor.
+(D) machine the other front rotor to the same thickness.
+
+26. The brake pedal goes to the floor when depressed (applied).
+Technician A says that this could be caused by a faulty master cylinder.
+Technician B says that this could be caused by a faulty ABS control module.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+27. A vehicle with rear drum brakes has a low service brake pedal and excessive parking brake
+pedal/lever travel.
+Technician A says that improper parking brake cable adjustment could be the cause.
+Technician B says that improper rear brake shoe adjustment could be the cause.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+
+28. Technician A says that an open-circuit voltage of 12.6 volts indicates a fully-charged battery.
+Technician B says that a specific gravity reading of 1.265 indicates a fully-charged battery.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+29. Charging system voltage drop should:
+(A) exceed 0.5 volts.
+(B) not exceed 0.5 volts.
+(C) exceed 5 volts.
+(D) not exceed 5 volts.
+
+30. A vehicle has dim headlights, slow flashing turn signals, and higher than normal effort required for
+the power steering. Which of these could be the cause?
+(A) An overcharging generator (alternator)
+(B) A shorted rectifier bridge
+(C) A shorted turn signal switch
+(D) A slipping accessory drive belt
+
+31. A high intensity discharge (HID) headlight system is being inspected.
+Technician A says that the HID ballast unit can pose an electrical shock hazard.
+Technician B says that halogen bulbs are used in HID systems.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+32. In the circuit shown, what would happen if point X was shorted to ground?
+(A) Amperage would decrease
+(B) Resistance would increase
+(C) Resistance would decrease
+(D) Voltage would increase
+
+
+33. Which of these should be used when performing a "key off" (parasitic) battery draw test?
+(A) Ohmmeter
+(B) Ammeter
+(C) Voltmeter
+(D) Digital oscilloscope
+
+34. How many amps will flow through a circuit with 3.3 ohms of resistance if 14.0 volts are applied?
+(A) 0.23 amps
+(B) 4.24 amps
+(C) 14.0 amps
+(D) 46.2 amps
+
+35. A vehicle repeatedly has a dead battery.
+Technician A says that parasitic draw could be the cause.
+Technician B says that a battery with an incorrect CCA rating could be the cause.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+36. The digital multimeter (DMM) shown in Diagram A is measuring:
+(A) volts.
+(B) amps.
+(C) ohms.
+(D) watts.
+
+
+37. An air conditioning system is being charged.
+Technician A says that R-12 and R-134a can be mixed in a vehicle's system.
+Technician B says that it is acceptable to release R-134a into the atmosphere.
+Who is right?
+(A) A only
+(B) B only
+(C) Both A and B
+(D) Neither A nor B
+
+38. In a properly operating A/C system, the compressor inlet should feel:
+(A) cold and the outlet should feel hot.
+(B) warm and the outlet should feel cool.
+(C) hot and the outlet should feel cold.
+(D) cool and the outlet should feel warm.
+
+39. The most common cause of low pressure readings on both the high side and low side of an A/C
+system is a:
+(A) restricted condenser air flow.
+(B) low system oil charge.
+(C) damaged A/C compressor.
+(D) low system refrigerant charge.
+
+40. The purpose of the illustrated post oxygen sensor is to monitor:
+(A) catalytic converter operation.
+(B) fuel control operation.
+(C) secondary air system operation.
+(D) EGR system operation.
+
+**Answer Key:**
+
+1. A 11. C 21. B 31. A
+2. B 12. D 22. B 32. C
+3. C 13. D 23. C 33. B
+4. B 14. A 24. C 34. B
+5. A 15. C 25. B 35. A
+6. B 16. B 26. A 36. A
+7. A 17. C 27. B 37. D
+8. B 18. C 28. C 38. A
+9. D 19. B 29. B 39. D
+10. A 20. B 30. D 40. A
+
+

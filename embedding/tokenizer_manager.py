@@ -1,5 +1,3 @@
-# embedding/tokenizer_manager.py
-
 from transformers import AutoTokenizer
 
 class TokenizerManager:
@@ -10,6 +8,6 @@ class TokenizerManager:
         if TokenizerManager._tokenizer is None:
             TokenizerManager._tokenizer = AutoTokenizer.from_pretrained(
                 model_name,
-                local_files_only=True  # Enforces local-only use
+                local_files_only=True 
             )
         return TokenizerManager._tokenizer
