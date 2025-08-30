@@ -97,6 +97,7 @@ class Summarizer:
         
         self.model_id = _resolve_model(model_name)
         self.max_tokens = int(max_tokens)
+        #set temp to 0 to reduce randomness in summaries and keep results deterministic
         self.temperature = float(temperature)
         self.workers = max(1, int(workers))
         self.disable_cache = bool(disable_cache)

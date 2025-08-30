@@ -1,5 +1,5 @@
 from output.result_formatter import ResultFormatter
-from vector_store.vector_store import VectorStoreManager 
+from vector_store.chroma_store import ChromaVectorStore
 from models.data_models import Chunk, SearchResult
 from chunking.recursive_token_chunker import RecursiveTokenChunker
 from search.semantic_search_engine import SemanticSearchEngine
@@ -10,6 +10,7 @@ from summarization.summarizer import Summarizer
 import argparse
 import os
 import json
+import shutil  
 
 #summary model choices
 SUMMARY_MODEL_MAP = {
@@ -44,9 +45,14 @@ def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
             source_path=filepath,
             document_name=os.path.basename(filepath),
         )
+
+        # assign id per chunk
+        for idx, ch in enumerate(chunks):
+            setattr(ch, "ordinal", idx)
+
         all_chunks.extend(chunks)
 
-    #Embeddings (once at ingestion) done through singleton instance
+    #Embeddings done through singleton instance
     embedder = EmbeddingManager.get_instance()
     texts = [chunk.text for chunk in all_chunks if chunk.text and isinstance(chunk.text, str)]
     text_chunk_map = [chunk for chunk in all_chunks if chunk.text and isinstance(chunk.text, str)]
@@ -63,19 +69,26 @@ def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
         except Exception as e:
             print(f"[Error] Batch embedding failed: {e}")
 
-#persistent vector store 
-    existing_chunks = []
-    path = "vector_store_semantic.json" if mode == "semantic" else "vector_store_exact.json"
-    if append and os.path.exists(path):
-        with open(path, "r", encoding="utf-8") as f:
-            existing_chunks = [Chunk.from_dict(data) for data in json.load(f)]
+   
+    if mode == "semantic":
+     
+        vs = ChromaVectorStore(persist_dir="./chroma_store/semantic", collection_name="docfinder_semantic")
+        added = vs.upsert_chunks(all_chunks)
+        print(f"[INFO] Upserted {added} semantic chunks into Chroma at ./chroma_store/semantic")
+    else:
+        
+        existing_chunks = []
+        path = "vector_store_exact.json"
+        if append and os.path.exists(path):
+            with open(path, "r", encoding="utf-8") as f:
+                existing_chunks = [Chunk.from_dict(data) for data in json.load(f)]
 
-    combined_chunks = existing_chunks + all_chunks
+        combined_chunks = existing_chunks + all_chunks
 
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump([chunk.to_dict() for chunk in combined_chunks], f, ensure_ascii=False, indent=2)
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump([chunk.to_dict() for chunk in combined_chunks], f, ensure_ascii=False, indent=2)
 
-    print(f"[INFO] Saved {len(combined_chunks)} total chunks with embeddings to {path}")
+        print(f"[INFO] Saved {len(combined_chunks)} total chunks with embeddings to {path}")
 
 
 
@@ -89,49 +102,61 @@ def query_phase(
     top_k: int = 5,
     summary_model_choice: str = "llama3",
 ):
-    """
-    Query the vector store. If summarize_at_query=True,
-    generate summaries for top-N results only, in parallel (up to 5 workers).
-    """
+   
     print("\n[Phase 2: Performing Query/Retrieval]")
 
-    path = "vector_store_semantic.json" if mode == "semantic" else "vector_store_exact.json"
-    if not os.path.exists(path):
-        print(f"[Error] Vector store not found at {path}. Run --ingest first.")
-        return
-
-    with open(path, "r", encoding="utf-8") as f:
-        chunks_data = json.load(f)
-
     
-    chunks = [Chunk.from_dict(data) for data in chunks_data if mode == "exact" or data.get("embedding")]
+    if mode == "semantic":
+        
+        chunks = None  
+    else:
+        path = "vector_store_exact.json"
+        if not os.path.exists(path):
+            print(f"[Error] Vector store not found at {path}. Run --ingest first.")
+            return
+        with open(path, "r", encoding="utf-8") as f:
+            chunks_data = json.load(f)
+        # For exact mode we don't require embeddings; just rebuild chunks
+        chunks = [Chunk.from_dict(data) for data in chunks_data]
 
-    if not chunks:
-        print("[Error] No chunks available.")
-        return
+        if not chunks:
+            print("[Error] No chunks available.")
+            return
 
     if mode == "semantic":
         if fuzzy: 
             print("[INFO] --fuzzy is ignored in semantic mode (only applies to exact search).")
 
-        engine = SemanticSearchEngine()
+        # Use Chroma for semantic retrieval
+        top_k = max(1, int(top_k))
+        vs = ChromaVectorStore(persist_dir="./chroma_store/semantic", collection_name="docfinder_semantic")
+        pairs = vs.query(query, top_k=top_k)  # List[(Chunk, similarity)]
+
+        results = []
+        for rank_idx, (ch, sim) in enumerate(pairs, start=1):
+            res = SearchResult(
+                text=ch.text,
+                source_path=ch.source_path,
+                document_name=ch.document_name,
+                score=sim,
+                detail="",  
+            )
+            setattr(res, "mode", "semantic")
+            setattr(res, "rank", rank_idx)
+            setattr(res, "meta", {"cosine": sim})  
+            setattr(res, "chunk", ch)
+            results.append(res)
 
         summarize_n = max(0, min(5, int(summaries))) if summarize_at_query else 0
         workers = min(5, max(1, int(summarize_workers)))
-        top_k = max(1, int(top_k))
-
-     
-        results = engine.search(query, chunks, top_k=top_k)
 
         if summarize_n > 0 and results:
-            # Summarize only the first N results 
+            #summarize the first N semantic results
             to_summarize_idx = []
             to_summarize_texts = []
             for i, res in enumerate(results[:summarize_n]):
-                already = (res.detail or "").strip()
-                if not already:
-                    to_summarize_idx.append(i)
-                    to_summarize_texts.append(res.text)
+                to_summarize_idx.append(i)
+                to_summarize_texts.append(res.text)
 
             if to_summarize_texts:
                 # resolve alias to concrete model id
@@ -139,7 +164,7 @@ def query_phase(
                 print(f"[Summarizer] Model: {resolved_model} | items: {len(to_summarize_texts)} | workers: {min(workers, len(to_summarize_texts))}")
 
                 summarizer = Summarizer(
-                    model_name=resolved_model,  # pass resolved model id
+                    model_name=resolved_model,  
                     workers=min(workers, len(to_summarize_texts)),
                     max_tokens=96,
                     temperature=0.0,
@@ -150,24 +175,25 @@ def query_phase(
                     print(f"[Warn] Query-time summarization failed: {e}")
                     summaries_out = ["[Summary unavailable]"] * len(to_summarize_texts)
 
-                # Install summaries into result.detail and cache on chunks
+               
                 for idx, summ in zip(to_summarize_idx, summaries_out):
                     s = (summ or "").strip() or "[Summary unavailable]"
                     results[idx].detail = s
-                    if results[idx].chunk and not (getattr(results[idx].chunk, "summary", "") or "").strip():
+                    if results[idx].chunk:
                         results[idx].chunk.summary = s
+                        
+                        vs.update_summary(results[idx].chunk, s)
     else:
         engine = ExactSearchEngine()
         results = engine.search(query, chunks, fuzzy=fuzzy)
 
-       
         if summarize_at_query and results:
             summarize_n = max(0, min(5, int(summaries)))
             to_summarize_idx, to_summarize_texts = [], []
             for i, res in enumerate(results[:summarize_n]):
                 to_summarize_idx.append(i)
                 to_summarize_texts.append(res.text)
-                #take chunks to summarize
+                
 
             if to_summarize_texts:
                 resolved_model = SUMMARY_MODEL_MAP.get(summary_model_choice, summary_model_choice)
@@ -218,12 +244,22 @@ def query_phase(
 
 
 def purge_vector_store():
+
     for file in ["vector_store_semantic.json", "vector_store_exact.json"]:
         if os.path.exists(file):
             os.remove(file)
             print(f"[INFO] {file} purged.")
         else:
             print(f"[INFO] {file} not found.")
+
+    
+    chroma_dir = "./chroma_store/semantic"
+    if os.path.isdir(chroma_dir):
+        try:
+            shutil.rmtree(chroma_dir)
+            print(f"[INFO] Chroma store purged at {chroma_dir}.")
+        except Exception as e:
+            print(f"[WARN] Could not purge Chroma store at {chroma_dir}: {e}")
 
 
 
