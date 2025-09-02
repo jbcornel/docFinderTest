@@ -5,26 +5,57 @@ from chunking.recursive_token_chunker import RecursiveTokenChunker
 from search.semantic_search_engine import SemanticSearchEngine
 from search.exact_search_engine import ExactSearchEngine
 from embedding.embedding_manager import EmbeddingManager
-from summarization.summarizer import Summarizer  
+from summarization.summarizer import Summarizer
+from chunking.semantic_chunker import SemanticChunker 
+from chunking.llm_semantic_chunker_ollama import LLMSemanticChunkerOllama
+from chunking.semantic_cluster_chunker import SemanticClusterChunker
+from search.reranker import Reranker  # optional reranker
 
+from typing import List
 import argparse
 import os
 import json
-import shutil  
+import shutil
 
-#summary model choices
+
+# summary model choices (alias -> concrete model id)
 SUMMARY_MODEL_MAP = {
     "phi3": "phi3:mini",
     "llama3": "llama3:latest",
 }
 
+CHUNKER_STATE = {"name": "recursive"}
 
 
 def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
     print("[Phase 1: Ingesting, Chunking, and Embedding Documents]")
 
-    chunker = RecursiveTokenChunker()
-    all_chunks = []
+    # choose chunker
+    if CHUNKER_STATE.get("name") == "recursive":
+        chunker = RecursiveTokenChunker()
+    elif CHUNKER_STATE.get("name") == "semantic":
+        chunker = SemanticChunker()
+    elif CHUNKER_STATE.get("name") == "semantic-llm":
+        chunker = LLMSemanticChunkerOllama(
+            model_name="phi3:mini",
+            temperature=0.2,
+            base_chunk_size=50,
+            base_chunk_overlap=0,
+            debug=True,
+            window_token_budget=800,
+            max_retries=3,
+        )
+    elif CHUNKER_STATE.get("name") == "semantic-cluster":
+        chunker = SemanticClusterChunker(
+            similarity_threshold=0.62,
+            max_tokens=600,
+            min_sentences=1,
+            debug=False,
+        )
+    else:
+        raise ValueError(f"Unknown chunker option: {CHUNKER_STATE.get('name')}")
+
+    all_chunks: List[Chunk] = []
 
     filepaths = [
         os.path.join(directory, f)
@@ -40,6 +71,7 @@ def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
         with open(filepath, encoding="utf-8", errors="ignore") as f:
             text = f.read()
 
+        # create array of chunks using chosen chunker
         chunks = chunker.chunk(
             text,
             source_path=filepath,
@@ -52,7 +84,7 @@ def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
 
         all_chunks.extend(chunks)
 
-    #Embeddings done through singleton instance
+    # Embeddings done through singleton instance
     embedder = EmbeddingManager.get_instance()
     texts = [chunk.text for chunk in all_chunks if chunk.text and isinstance(chunk.text, str)]
     text_chunk_map = [chunk for chunk in all_chunks if chunk.text and isinstance(chunk.text, str)]
@@ -69,15 +101,12 @@ def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
         except Exception as e:
             print(f"[Error] Batch embedding failed: {e}")
 
-   
     if mode == "semantic":
-     
         vs = ChromaVectorStore(persist_dir="./chroma_store/semantic", collection_name="docfinder_semantic")
         added = vs.upsert_chunks(all_chunks)
         print(f"[INFO] Upserted {added} semantic chunks into Chroma at ./chroma_store/semantic")
     else:
-        
-        existing_chunks = []
+        existing_chunks: List[Chunk] = []
         path = "vector_store_exact.json"
         if append and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
@@ -91,192 +120,195 @@ def ingest_phase(directory: str, mode: str = "semantic", append: bool = False):
         print(f"[INFO] Saved {len(combined_chunks)} total chunks with embeddings to {path}")
 
 
+def _summarize_results_in_place(
+    results: List[SearchResult],
+    n: int,
+    model_choice: str,
+    workers: int,
+    persist_semantic: bool,
+):
+   
+    n = max(0, min(5, int(n)))
+    if n <= 0 or not results:
+        return
+
+    texts = [r.text for r in results[:n]]
+    resolved_model = SUMMARY_MODEL_MAP.get(model_choice, model_choice)
+    print(f"[Summarizer] Model: {resolved_model} | items: {len(texts)} | workers: {min(workers, len(texts))}")
+
+    summarizer = Summarizer(
+        model_name=resolved_model,
+        workers=min(workers, len(texts)),
+        max_tokens=96,
+        temperature=0.0,
+    )
+    try:
+        outs = summarizer.batch(texts)
+    except Exception as e:
+        print(f"[Warn] Query-time summarization failed: {e}")
+        outs = ["[Summary unavailable]"] * len(texts)
+
+    # write summaries into results 
+    vs = None
+    if persist_semantic:
+        vs = ChromaVectorStore(persist_dir="./chroma_store/semantic", collection_name="docfinder_semantic")
+
+    for i, s in enumerate(outs):
+        summary = (s or "").strip() or "[Summary unavailable]"
+        r = results[i]
+        r.detail = summary
+        if r.chunk is not None:
+            r.chunk.summary = summary
+        if vs is not None and r.chunk is not None:
+            try:
+                vs.update_summary(r.chunk, summary)
+            except Exception as e:
+                print(f"[Warn] Failed to update summary in vector store: {e}")
+
+    
+    for r in results[:n]:
+        if r.detail and r.detail.strip():
+            if r.meta is None:
+                r.meta = {}
+            r.meta["_had_summary"] = True
+
 
 def query_phase(
     query: str,
     mode: str = "semantic",
     fuzzy: bool = False,
-    summarize_at_query: bool = False,
+    summarize_at_query: bool = False,  # if False, we won't generate summaries at all
     summarize_workers: int = 5,
     summaries: int = 2,
     top_k: int = 5,
     summary_model_choice: str = "llama3",
+    use_reranker: bool = False,
 ):
-   
     print("\n[Phase 2: Performing Query/Retrieval]")
 
     
-    if mode == "semantic":
-        
-        chunks = None  
-    else:
+    if mode == "semantic":  
+        resolved_model = SUMMARY_MODEL_MAP.get(summary_model_choice, summary_model_choice)
+        engine = SemanticSearchEngine(
+            summary_model=resolved_model,            
+            max_workers=min(5, max(1, int(summarize_workers))),
+            persist_dir="./chroma_store/semantic",
+            collection_name="docfinder_semantic",
+        )
+       
+        results: List[SearchResult] = engine.search_store(
+            query=query,
+            top_k=max(1, int(top_k)),
+            summarize_topk=0,
+        )
+
+    else:  # if exact search
         path = "vector_store_exact.json"
         if not os.path.exists(path):
             print(f"[Error] Vector store not found at {path}. Run --ingest first.")
             return
         with open(path, "r", encoding="utf-8") as f:
             chunks_data = json.load(f)
-        # For exact mode we don't require embeddings; just rebuild chunks
-        chunks = [Chunk.from_dict(data) for data in chunks_data]
-
+        chunks: List[Chunk] = [Chunk.from_dict(data) for data in chunks_data]
         if not chunks:
             print("[Error] No chunks available.")
             return
 
-    if mode == "semantic":
-        if fuzzy: 
-            print("[INFO] --fuzzy is ignored in semantic mode (only applies to exact search).")
-
-        # Use Chroma for semantic retrieval
-        top_k = max(1, int(top_k))
-        vs = ChromaVectorStore(persist_dir="./chroma_store/semantic", collection_name="docfinder_semantic")
-        pairs = vs.query(query, top_k=top_k)  # List[(Chunk, similarity)]
-
-        results = []
-        for rank_idx, (ch, sim) in enumerate(pairs, start=1):
-            res = SearchResult(
-                text=ch.text,
-                source_path=ch.source_path,
-                document_name=ch.document_name,
-                score=sim,
-                detail="",  
-            )
-            setattr(res, "mode", "semantic")
-            setattr(res, "rank", rank_idx)
-            setattr(res, "meta", {"cosine": sim})  
-            setattr(res, "chunk", ch)
-            results.append(res)
-
-        summarize_n = max(0, min(5, int(summaries))) if summarize_at_query else 0
-        workers = min(5, max(1, int(summarize_workers)))
-
-        if summarize_n > 0 and results:
-            #summarize the first N semantic results
-            to_summarize_idx = []
-            to_summarize_texts = []
-            for i, res in enumerate(results[:summarize_n]):
-                to_summarize_idx.append(i)
-                to_summarize_texts.append(res.text)
-
-            if to_summarize_texts:
-                # resolve alias to concrete model id
-                resolved_model = SUMMARY_MODEL_MAP.get(summary_model_choice, summary_model_choice)
-                print(f"[Summarizer] Model: {resolved_model} | items: {len(to_summarize_texts)} | workers: {min(workers, len(to_summarize_texts))}")
-
-                summarizer = Summarizer(
-                    model_name=resolved_model,  
-                    workers=min(workers, len(to_summarize_texts)),
-                    max_tokens=96,
-                    temperature=0.0,
-                )
-                try:
-                    summaries_out = summarizer.batch(to_summarize_texts)
-                except Exception as e:
-                    print(f"[Warn] Query-time summarization failed: {e}")
-                    summaries_out = ["[Summary unavailable]"] * len(to_summarize_texts)
-
-               
-                for idx, summ in zip(to_summarize_idx, summaries_out):
-                    s = (summ or "").strip() or "[Summary unavailable]"
-                    results[idx].detail = s
-                    if results[idx].chunk:
-                        results[idx].chunk.summary = s
-                        
-                        vs.update_summary(results[idx].chunk, s)
-    else:
         engine = ExactSearchEngine()
-        results = engine.search(query, chunks, fuzzy=fuzzy)
+        results: List[SearchResult] = engine.search(query, chunks, fuzzy=fuzzy)
 
-        if summarize_at_query and results:
-            summarize_n = max(0, min(5, int(summaries)))
-            to_summarize_idx, to_summarize_texts = [], []
-            for i, res in enumerate(results[:summarize_n]):
-                to_summarize_idx.append(i)
-                to_summarize_texts.append(res.text)
-                
-
-            if to_summarize_texts:
-                resolved_model = SUMMARY_MODEL_MAP.get(summary_model_choice, summary_model_choice)
-                print(f"[Summarizer] Model: {resolved_model} | items: {len(to_summarize_texts)} | workers: {min(summarize_workers, len(to_summarize_texts))}")
-
-                summarizer = Summarizer(
-                    model_name=resolved_model,
-                    workers=min(summarize_workers, len(to_summarize_texts)),
-                    max_tokens=96,
-                    temperature=0.0,
-                )
-                try:
-                    summaries_out = summarizer.batch(to_summarize_texts)
-                except Exception as e:
-                    print(f"[Warn] Query-time summarization failed: {e}")
-                    summaries_out = ["[Summary unavailable]"] * len(to_summarize_texts)
-
-                for idx, summ in zip(to_summarize_idx, summaries_out):
-                    s = (summ or "").strip() or "[Summary unavailable]"
-                  
-                    results[idx].detail = (results[idx].detail or "")
-                    if results[idx].detail and not results[idx].detail.endswith("\n"):
-                        results[idx].detail += "\n"
-                    results[idx].detail += f"Summary: {s}"
-
-                    
-                    if getattr(results[idx], "chunk", None) and not (getattr(results[idx].chunk, "summary", "") or "").strip():
-                        results[idx].chunk.summary = s
-
+    # optional reranking 
+    if use_reranker and results:
+        try:
+            reranker = Reranker() 
+            results = reranker.rerank(query, results)
+            print("[INFO] Reranker applied.")
+        except Exception as e:
+            print(f"[WARN] Reranker failed: {e}")
 
     if not results:
         print("\n[No results to display]")
         return
 
-    if mode == "semantic":
-        if summarize_at_query:
-            enforce_n = max(0, min(5, int(summaries)))
-            for i, res in enumerate(results):
-                if i >= enforce_n:
-                    res.detail = ""
+   
+    if summarize_at_query:
+        _summarize_results_in_place(
+            results=results,
+            n=summaries,
+            model_choice=summary_model_choice,
+            workers=summarize_workers,
+            persist_semantic=(mode == "semantic"),
+        )
+
+
+    summarized_n = max(0, min(5, int(summaries))) if summarize_at_query else 0
+    for i, r in enumerate(results):
+        d = (r.detail or "").strip()
+        if i < summarized_n and summarize_at_query:
+            if not d:
+                r.detail = "[No explanation required]"
         else:
-            for res in results:
-                res.detail = ""
+            if d:
+                r.detail = f"[No explanation required] | {d}"
+            else:
+                r.detail = "[No explanation required]"
 
     print("\nTop Results:")
     ResultFormatter.print_results(results)
 
 
-
 def purge_vector_store():
-
-    for file in ["vector_store_semantic.json", "vector_store_exact.json"]:
+    # purge exact search vector json store
+    for file in ["vector_store_exact.json"]:
         if os.path.exists(file):
             os.remove(file)
             print(f"[INFO] {file} purged.")
         else:
             print(f"[INFO] {file} not found.")
 
-    
-    chroma_dir = "./chroma_store/semantic"
+    # purge entire chroma vector store 
+    chroma_dir = "./chroma_store/"
+    chroma_abs = os.path.abspath(chroma_dir)
     if os.path.isdir(chroma_dir):
         try:
             shutil.rmtree(chroma_dir)
-            print(f"[INFO] Chroma store purged at {chroma_dir}.")
+            print(f"[INFO] Chroma store purged at {chroma_abs}.", flush=True)
         except Exception as e:
-            print(f"[WARN] Could not purge Chroma store at {chroma_dir}: {e}")
-
-
+            print(f"[WARN] Could not purge Chroma store at {chroma_abs}: {e}", flush=True)
+    else:
+        if os.path.exists(chroma_dir):
+            try:
+                os.remove(chroma_dir)
+                print(f"[INFO] Removed non-directory path at {chroma_abs}.", flush=True)
+            except Exception as e:
+                print(f"[WARN] Path exists but could not be removed at {chroma_abs}: {e}", flush=True)
+        else:
+            print(f"[INFO] Chroma store not found at {chroma_abs}.", flush=True)
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Local Document Search Tool")
+    parser = argparse.ArgumentParser(
+        description="Local Document Search Tool",
+        add_help=True,  # -h/--help prints all options
+        epilog="Examples:\n"
+               "  Ingest (semantic store)        : python3 main.py --ingest --chunker recursive\n"
+               "  Ingest (exact store)           : python3 main.py --ingest --mode exact\n"
+               "  Query semantic (no rerank)     : python3 main.py --query \"foo\" --mode semantic --topk 5 --summarize-at-query --summaries 2\n"
+               "  Query semantic with rerank     : python3 main.py --query \"foo\" --mode semantic --rerank --summarize-at-query --summaries 2\n"
+               "  Query exact (with fuzzy)       : python3 main.py --query \"foo\" --mode exact --fuzzy --summarize-at-query --summaries 2\n",
+        formatter_class=argparse.RawTextHelpFormatter,
+    )
     parser.add_argument("--ingest", action="store_true", help="Run ingestion phase")
     parser.add_argument("--purge", action="store_true", help="Purge the chunk cache")
     parser.add_argument("--dir", help="Directory of .txt/.md files to ingest", default="./docs")
     parser.add_argument("--query", help="Text query to perform search")
     parser.add_argument("--mode", help="Choose search mode: 'semantic' or 'exact'", default="semantic")
     parser.add_argument("--append", action="store_true", help="Append new chunks to existing vector store")
-    parser.add_argument("--fuzzy", action="store_true", help="Enable fuzzy matching for exact search")
+    parser.add_argument("--fuzzy", action="store_true", help="Enable fuzzy matching (only valid with --query and --mode exact)")
     parser.add_argument("--topk", type=int, default=5, help="How many results to retrieve overall (default 5)")
     parser.add_argument(
         "--summarize-at-query", action="store_true",
-        help="Generate summaries for the first N results at query time (semantic mode only)"
+        help="Generate summaries for the first N results (summaries are computed after optional reranking)."
     )
     parser.add_argument(
         "--summaries", type=int, default=2,
@@ -288,13 +320,32 @@ def main():
     )
     parser.add_argument(
         "--summary-model",
-        choices=[ "phi3", "llama3"],
+        choices=["phi3", "llama3"],
         default="llama3",
         help="Model to use for summaries: | phi3 | llama3",
     )
+    parser.add_argument(
+        "--chunker",
+        choices=["recursive", "semantic", "semantic-llm", "semantic-cluster"],
+        default="recursive",
+        help="Chunking strategy used during ingestion"
+    )
+    parser.add_argument(
+        "--rerank", action="store_true",
+        help="Apply embedding-based reranker after initial results"
+    )
 
     args = parser.parse_args()
+    CHUNKER_STATE["name"] = getattr(args, "chunker", "recursive")
 
+    
+    if args.fuzzy:
+        if not args.query:
+            parser.error("--fuzzy can only be used with --query.")
+        if args.mode.lower() != "exact":
+            parser.error("--fuzzy is only supported with --mode exact.")
+
+    
     if args.purge:
         purge_vector_store()
     elif args.ingest:
@@ -303,22 +354,4 @@ def main():
         summarize_at_query = bool(getattr(args, "summarize_at_query", False))
         summaries_n = max(1, min(5, int(getattr(args, "summaries", 2)))) if summarize_at_query else 0
         workers = max(1, min(5, int(getattr(args, "summarize_workers", 5))))
-        top_k = max(1, int(getattr(args, "topk", 5)))
-        summary_model = getattr(args, "summary_model", "llama3")
-
-        query_phase(
-            args.query,
-            args.mode,
-            fuzzy=args.fuzzy,
-            summarize_at_query=summarize_at_query,
-            summarize_workers=workers,
-            summaries=summaries_n,
-            top_k=top_k,
-            summary_model_choice=summary_model,  
-        )
-    else:
-        print("[ERROR] Please provide --ingest, --query, or --purge")
-
-
-if __name__ == "__main__":
-    main()
+        top_k = max

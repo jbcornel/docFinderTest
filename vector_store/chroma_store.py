@@ -1,4 +1,3 @@
-# vector_store/chroma_store.py
 import os
 import hashlib
 from typing import List, Dict, Any, Tuple, Optional
@@ -11,26 +10,20 @@ from embedding.embedding_manager import EmbeddingManager
 
 
 def _chunk_id(chunk: "Chunk", tie_breaker: Optional[str] = None) -> str:
-    """
-    Stable per-chunk id:
-      - source_path
-      - document_name
-      - FULL text hash
-      - per-file ordinal (if present)
-    tie_breaker is used only as a last-resort within-batch uniqueness guard.
-    """
+  
     h = hashlib.sha256()
     h.update((chunk.source_path or "").encode("utf-8", errors="ignore"))
     h.update(b"||")
     h.update((chunk.document_name or "").encode("utf-8", errors="ignore"))
     h.update(b"||")
-    # full text hash (prevents same-prefix collisions)
+    # full text hash that prevents same-prefix collisions
     h.update(hashlib.sha256((chunk.text or "").encode("utf-8", errors="ignore")).digest())
-    # stable per-file position if available
+  
     ordinal = getattr(chunk, "ordinal", None)
     if ordinal is not None:
         h.update(b"||")
         h.update(str(int(ordinal)).encode("utf-8"))
+        # if a collision occurs
     if tie_breaker:
         h.update(b"||")
         h.update(tie_breaker.encode("utf-8"))
@@ -38,13 +31,7 @@ def _chunk_id(chunk: "Chunk", tie_breaker: Optional[str] = None) -> str:
 
 
 class ChromaVectorStore:
-    """
-    Chroma-backed store for SEMANTIC mode.
-    - Upserts text + embeddings (uses precomputed embeddings if present).
-    - Queries by cosine distance (we convert to similarity).
-    - Can update summaries in metadata.
-    """
-
+    
     def __init__(self, persist_dir: str = "./chroma_store/semantic", collection_name: str = "docfinder_semantic"):
         os.makedirs(persist_dir, exist_ok=True)
         self.client = chromadb.PersistentClient(path=persist_dir, settings=Settings(allow_reset=False))
@@ -63,10 +50,10 @@ class ChromaVectorStore:
         metas: List[Dict[str, Any]] = []
         embs: List[Optional[List[float]]] = []
 
-        # NEW: ensure unique IDs within this batch
+        
         seen_ids = set()
 
-        # Track which positions in `embs` need embeddings
+        # Track indices that still require embeddings
         to_embed_idx: List[int] = []
         to_embed_texts: List[str] = []
 
@@ -75,13 +62,13 @@ class ChromaVectorStore:
             if not isinstance(ch.text, str) or not ch.text.strip():
                 continue
 
-            # build a robust, stable id
+
             cid = _chunk_id(ch)
             if cid in seen_ids:
-                # last-resort, deterministic tie-breaker within this batch
+                
                 cid = _chunk_id(ch, tie_breaker=str(i))
                 if cid in seen_ids:
-                    # ultra-rare; skip this duplicate entirely
+                   
                     continue
             seen_ids.add(cid)
 
@@ -97,28 +84,47 @@ class ChromaVectorStore:
                 embs.append(ch.embedding)
             else:
                 embs.append(None)
-                # IMPORTANT: index by slot in `embs`, not the chunk index
+                
                 to_embed_idx.append(len(embs) - 1)
                 to_embed_texts.append(ch.text)
 
-        # Embed any missing vectors and place them into their exact slots
+    
         if to_embed_texts:
             new_embs = self.embedder.get_embedding(to_embed_texts)
             for slot, vec in zip(to_embed_idx, new_embs):
                 embs[slot] = vec
 
-        # Filter out any items that still lack an embedding (shouldn't happen, but safe)
+        # Filter out any items that still lack an embedding if occurs, edge case
         prepared = [(i, d, m, e) for i, d, m, e in zip(ids, docs, metas, embs) if isinstance(e, list)]
         if not prepared:
             return 0
 
-        self.collection.upsert(
-            ids=[p[0] for p in prepared],
-            documents=[p[1] for p in prepared],
-            metadatas=[p[2] for p in prepared],
-            embeddings=[p[3] for p in prepared],
-        )
-        return len(prepared)
+        #batch upserts to avoid Chroma's max per-call limit (≈5461) ---
+        MAX_BATCH = 4000  
+        total = 0
+        for start in range(0, len(prepared), MAX_BATCH):
+            chunk_batch = prepared[start:start + MAX_BATCH]
+
+            # remove duplicate ID if they occur within this batch, last one wins
+            by_id = {}
+            for _id, _doc, _meta, _emb in chunk_batch:
+                by_id[_id] = (_doc, _meta, _emb)
+
+            batch_ids = list(by_id.keys())
+            batch_docs = [by_id[k][0] for k in batch_ids]
+            batch_metas = [by_id[k][1] for k in batch_ids]
+            batch_embs = [by_id[k][2] for k in batch_ids]
+
+            self.collection.upsert(
+                ids=batch_ids,
+                documents=batch_docs,
+                metadatas=batch_metas,
+                embeddings=batch_embs,
+            )
+            total += len(batch_ids)
+
+        return total
+
 
     def query(self, query_text: str, top_k: int = 5) -> List[Tuple[Chunk, float]]:
         if not query_text or not query_text.strip():

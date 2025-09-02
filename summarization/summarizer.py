@@ -8,10 +8,7 @@ import ollama
 
 
 def _resolve_model(alias_or_name: Optional[str]) -> str:
-    """
-    Resolve a friendly alias or a concrete Ollama model id.
-    Default is llama3:latest.
-    """
+    
     default_id = "llama3:latest"
     if not alias_or_name:
         return os.getenv("OLLAMA_SUMMARY_MODEL", default_id)
@@ -26,7 +23,7 @@ def _resolve_model(alias_or_name: Optional[str]) -> str:
 
 
 def _key(text: str, model_id: str) -> str:
-    """Cache key includes model id so switching models changes outputs."""
+    # create key for cache ID
     payload = f"{model_id}||{text}".encode("utf-8")
     return hashlib.sha256(payload).hexdigest()[:16]
 
@@ -37,7 +34,7 @@ def _clean_summary(s: str) -> str:
         return ""
     s = s.strip()
 
-    # Strip common prefixes & instruction echoes
+    # Strip common prefixes and instruction echoes
     patterns = [
         r'^\s*(summary|tl;dr)\s*:\s*',
         r'^\s*\d+\.\s*(summarize|avoid|stick to)\b.*',
@@ -97,7 +94,7 @@ class Summarizer:
         
         self.model_id = _resolve_model(model_name)
         self.max_tokens = int(max_tokens)
-        #set temp to 0 to reduce randomness in summaries and keep results deterministic
+        # set temp to 0 to reduce randomness in summaries and keep results deterministic
         self.temperature = float(temperature)
         self.workers = max(1, int(workers))
         self.disable_cache = bool(disable_cache)
@@ -119,10 +116,7 @@ class Summarizer:
         return summary
 
     def batch(self, texts: List[str]) -> List[str]:
-        """
-        Summarize many texts in parallel using ThreadPoolExecutor.
-       
-        """
+        
         if not texts:
             return []
 

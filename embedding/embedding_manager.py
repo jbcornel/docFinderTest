@@ -1,4 +1,4 @@
-#import time
+import time
 from embedding.ollama_embedder import OllamaEmbedder
 
 class EmbeddingManager:

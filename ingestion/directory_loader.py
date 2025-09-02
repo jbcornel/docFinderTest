@@ -8,12 +8,7 @@ class DirectoryLoader:
         self.extensions = extensions
 
     def load_documents(self) -> List[Tuple[str, str]]:
-        """
-        Loads documents from the specified directory.
-
-        Returns:
-            A list of tuples: (filepath, file_content)
-        """
+        
         documents = []
         for root, _, files in os.walk(self.directory):
             for filename in files:

@@ -10,16 +10,7 @@ from models.data_models import Chunk, SearchResult
 
 
 class ExactSearchEngine:
-    """
-    Exact + Partial + (optional) Fuzzy layered on top of BM25 based vector search
-
-    - Exact match: query token == document token
-    - Partial match: term is within another fuller term
-    - Fuzzy: tokens with similarity >= threshold contribute to BM25 via an effective frequency
-
    
-    """
-
     def __init__(
         self,
         k1: float = 1.5,
@@ -36,7 +27,7 @@ class ExactSearchEngine:
 
    
     def _tokenize(self, text: str) -> List[str]:
-        # Lowercase, keep only word characters
+        
         return re.findall(r"\w+", (text or "").lower())
 
     def _idf(self, N: int, df: int) -> float:
@@ -75,7 +66,7 @@ class ExactSearchEngine:
         for qt in query_tokens:
             f_exact = tf[qt]
 
-            # fuzzy TF: count tokens similar to qt above threshold (not equal)
+    
             f_fuzzy = 0
             if fuzzy:
                 for tok, c in tf.items():
