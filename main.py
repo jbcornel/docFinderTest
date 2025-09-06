@@ -354,4 +354,23 @@ def main():
         summarize_at_query = bool(getattr(args, "summarize_at_query", False))
         summaries_n = max(1, min(5, int(getattr(args, "summaries", 2)))) if summarize_at_query else 0
         workers = max(1, min(5, int(getattr(args, "summarize_workers", 5))))
-        top_k = max
+        top_k = max(1, int(getattr(args, "topk", 5)))
+        summary_model = getattr(args, "summary_model", "llama3")
+
+        query_phase(
+            args.query,
+            args.mode,
+            fuzzy=args.fuzzy,
+            summarize_at_query=summarize_at_query,
+            summarize_workers=workers,
+            summaries=summaries_n,
+            top_k=top_k,
+            summary_model_choice=summary_model,
+            use_reranker=args.rerank,
+        )
+    else:
+        print("[ERROR] Please provide --ingest, --query, or --purge")
+
+
+if __name__ == "__main__":
+    main()
